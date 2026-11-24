@@ -1,0 +1,201 @@
+﻿ERPDocumentNo,PostingDate,ProjectID,CostCategory,RecordedAmountEUR,VendorOrEmployeeRef,Description,TravelRef,ReconciliationStatus
+502026000801,2025-12-31,NX-0418,Parking,513.86,City Hotel Berlin,Travel expense - unmatched ERP item,ERP-ONLY-00801,Unmatched ERP transaction
+502026000802,2026-01-02,NX-0435,Rail travel,1123.67,E0227,Potential duplicate travel posting,ERP-ONLY-00802,Unmatched ERP transaction
+502026000803,2026-01-04,NX-0452,Other,1504.07,E0240,Travel expense - unmatched ERP item,ERP-ONLY-00803,Unmatched ERP transaction
+502026000804,2026-01-06,NX-0469,Local transport,1877.96,Deutsche Bahn,Potential duplicate travel posting,ERP-ONLY-00804,Unmatched ERP transaction
+502026000805,2026-01-08,NX-0486,Air travel,283.52,E0266,Travel expense - unmatched ERP item,ERP-ONLY-00805,Unmatched ERP transaction
+502026000806,2026-01-10,NX-0503,Conference,846.76,E0279,Potential duplicate travel posting,ERP-ONLY-00806,Unmatched ERP transaction
+502026000807,2026-01-12,NX-0520,Meals,1779.77,DB Vertrieb,Travel expense - unmatched ERP item,ERP-ONLY-00807,Unmatched ERP transaction
+502026000808,2026-01-14,NX-0537,Accommodation,1206.32,E0305,Potential duplicate travel posting,ERP-ONLY-00808,Unmatched ERP transaction
+502026000809,2026-01-16,NX-0554,Parking,666.52,E0318,Travel expense - unmatched ERP item,ERP-ONLY-00809,Unmatched ERP transaction
+502026000810,2026-01-18,NX-0571,Rail travel,1289.04,Taxi Berlin,Potential duplicate travel posting,ERP-ONLY-00810,Unmatched ERP transaction
+502026000811,2026-01-20,NX-0588,Other,1627.23,E0344,Travel expense - unmatched ERP item,ERP-ONLY-00811,Unmatched ERP transaction
+502026000812,2026-01-22,NX-0005,Local transport,1169.10,E0357,Potential duplicate travel posting,ERP-ONLY-00812,Unmatched ERP transaction
+502026000813,2026-01-24,NX-0022,Air travel,484.43,Motel One,Travel expense - unmatched ERP item,ERP-ONLY-00813,Unmatched ERP transaction
+502026000814,2026-01-26,NX-0039,Conference,365.12,E0383,Potential duplicate travel posting,ERP-ONLY-00814,Unmatched ERP transaction
+502026000815,2026-01-28,NX-0056,Meals,1811.54,E0396,Travel expense - unmatched ERP item,ERP-ONLY-00815,Unmatched ERP transaction
+502026000816,2026-01-30,NX-0073,Accommodation,723.68,Employee reimbursement,Potential duplicate travel posting,ERP-ONLY-00816,Unmatched ERP transaction
+502026000817,2026-02-01,NX-0090,Parking,1500.17,E0422,Travel expense - unmatched ERP item,ERP-ONLY-00817,Unmatched ERP transaction
+502026000818,2026-02-03,NX-0107,Rail travel,46.15,E0435,Potential duplicate travel posting,ERP-ONLY-00818,Unmatched ERP transaction
+502026000819,2026-02-05,NX-0124,Other,278.48,Employee reimbursement,Travel expense - unmatched ERP item,ERP-ONLY-00819,Unmatched ERP transaction
+502026000820,2026-02-07,NX-0141,Local transport,564.35,E0461,Potential duplicate travel posting,ERP-ONLY-00820,Unmatched ERP transaction
+502026000821,2026-02-09,NX-0158,Air travel,871.21,E0474,Travel expense - unmatched ERP item,ERP-ONLY-00821,Unmatched ERP transaction
+502026000822,2026-02-11,NX-0175,Conference,1601.08,Employee reimbursement,Potential duplicate travel posting,ERP-ONLY-00822,Unmatched ERP transaction
+502026000823,2026-02-13,NX-0192,Meals,1770.06,E0500,Travel expense - unmatched ERP item,ERP-ONLY-00823,Unmatched ERP transaction
+502026000824,2026-02-15,NX-0209,Accommodation,131.54,E0513,Potential duplicate travel posting,ERP-ONLY-00824,Unmatched ERP transaction
+502026000825,2026-02-17,NX-0226,Parking,833.34,Lufthansa,Travel expense - unmatched ERP item,ERP-ONLY-00825,Unmatched ERP transaction
+502026000826,2026-02-19,NX-0243,Rail travel,359.13,E0539,Potential duplicate travel posting,ERP-ONLY-00826,Unmatched ERP transaction
+502026000827,2026-02-21,NX-0260,Other,1464.29,E0552,Travel expense - unmatched ERP item,ERP-ONLY-00827,Unmatched ERP transaction
+502026000828,2026-02-23,NX-0277,Local transport,1798.16,Lufthansa,Potential duplicate travel posting,ERP-ONLY-00828,Unmatched ERP transaction
+502026000829,2026-02-25,NX-0294,Air travel,657.45,E0578,Travel expense - unmatched ERP item,ERP-ONLY-00829,Unmatched ERP transaction
+502026000830,2026-02-27,NX-0311,Conference,1283.90,E0591,Potential duplicate travel posting,ERP-ONLY-00830,Unmatched ERP transaction
+502026000831,2026-03-01,NX-0328,Meals,1168.49,Employee reimbursement,Travel expense - unmatched ERP item,ERP-ONLY-00831,Unmatched ERP transaction
+502026000832,2026-03-03,NX-0345,Accommodation,536.84,E0017,Potential duplicate travel posting,ERP-ONLY-00832,Unmatched ERP transaction
+502026000833,2026-03-05,NX-0362,Parking,1854.30,E0030,Travel expense - unmatched ERP item,ERP-ONLY-00833,Unmatched ERP transaction
+502026000834,2026-03-07,NX-0379,Rail travel,597.86,Event Services GmbH,Potential duplicate travel posting,ERP-ONLY-00834,Unmatched ERP transaction
+502026000835,2026-03-09,NX-0396,Other,763.02,E0056,Travel expense - unmatched ERP item,ERP-ONLY-00835,Unmatched ERP transaction
+502026000836,2026-03-11,NX-0413,Local transport,446.26,E0069,Potential duplicate travel posting,ERP-ONLY-00836,Unmatched ERP transaction
+502026000837,2026-03-13,NX-0430,Air travel,524.07,Motel One,Travel expense - unmatched ERP item,ERP-ONLY-00837,Unmatched ERP transaction
+502026000838,2026-03-15,NX-0447,Conference,1288.50,E0095,Potential duplicate travel posting,ERP-ONLY-00838,Unmatched ERP transaction
+502026000839,2026-03-17,NX-0464,Meals,446.20,E0108,Travel expense - unmatched ERP item,ERP-ONLY-00839,Unmatched ERP transaction
+502026000840,2026-03-19,NX-0481,Accommodation,932.22,Lufthansa,Potential duplicate travel posting,ERP-ONLY-00840,Unmatched ERP transaction
+502026000841,2026-03-21,NX-0498,Parking,691.41,E0134,Travel expense - unmatched ERP item,ERP-ONLY-00841,Unmatched ERP transaction
+502026000842,2026-03-23,NX-0515,Rail travel,1587.23,E0147,Potential duplicate travel posting,ERP-ONLY-00842,Unmatched ERP transaction
+502026000843,2026-03-25,NX-0532,Other,828.91,Event Services GmbH,Travel expense - unmatched ERP item,ERP-ONLY-00843,Unmatched ERP transaction
+502026000844,2026-03-27,NX-0549,Local transport,173.79,E0173,Potential duplicate travel posting,ERP-ONLY-00844,Unmatched ERP transaction
+502026000845,2026-03-29,NX-0566,Air travel,1296.37,E0186,Travel expense - unmatched ERP item,ERP-ONLY-00845,Unmatched ERP transaction
+502026000846,2026-03-31,NX-0583,Conference,580.45,Taxi Berlin,Potential duplicate travel posting,ERP-ONLY-00846,Unmatched ERP transaction
+502026000847,2026-04-02,NX-0600,Meals,549.43,E0212,Travel expense - unmatched ERP item,ERP-ONLY-00847,Unmatched ERP transaction
+502026000848,2026-04-04,NX-0017,Accommodation,1454.28,E0225,Potential duplicate travel posting,ERP-ONLY-00848,Unmatched ERP transaction
+502026000849,2026-04-06,NX-0034,Parking,1653.01,Sixt,Travel expense - unmatched ERP item,ERP-ONLY-00849,Unmatched ERP transaction
+502026000850,2026-04-08,NX-0051,Rail travel,1377.77,E0251,Potential duplicate travel posting,ERP-ONLY-00850,Unmatched ERP transaction
+502026000851,2026-04-10,NX-0068,Other,1173.25,E0264,Travel expense - unmatched ERP item,ERP-ONLY-00851,Unmatched ERP transaction
+502026000852,2026-04-12,NX-0085,Local transport,514.91,Lufthansa,Potential duplicate travel posting,ERP-ONLY-00852,Unmatched ERP transaction
+502026000853,2026-04-14,NX-0102,Air travel,1002.84,E0290,Travel expense - unmatched ERP item,ERP-ONLY-00853,Unmatched ERP transaction
+502026000854,2026-04-16,NX-0119,Conference,1764.03,E0303,Potential duplicate travel posting,ERP-ONLY-00854,Unmatched ERP transaction
+502026000855,2026-04-18,NX-0136,Meals,527.69,Employee reimbursement,Travel expense - unmatched ERP item,ERP-ONLY-00855,Unmatched ERP transaction
+502026000856,2026-04-20,NX-0153,Accommodation,891.20,E0329,Potential duplicate travel posting,ERP-ONLY-00856,Unmatched ERP transaction
+502026000857,2026-04-22,NX-0170,Parking,178.71,E0342,Travel expense - unmatched ERP item,ERP-ONLY-00857,Unmatched ERP transaction
+502026000858,2026-04-24,NX-0187,Rail travel,478.80,Taxi Berlin,Potential duplicate travel posting,ERP-ONLY-00858,Unmatched ERP transaction
+502026000859,2026-04-26,NX-0204,Other,451.50,E0368,Travel expense - unmatched ERP item,ERP-ONLY-00859,Unmatched ERP transaction
+502026000860,2026-04-28,NX-0221,Local transport,110.70,E0381,Potential duplicate travel posting,ERP-ONLY-00860,Unmatched ERP transaction
+502026000861,2026-04-30,NX-0238,Air travel,874.67,Lufthansa,Travel expense - unmatched ERP item,ERP-ONLY-00861,Unmatched ERP transaction
+502026000862,2026-05-02,NX-0255,Conference,1378.75,E0407,Potential duplicate travel posting,ERP-ONLY-00862,Unmatched ERP transaction
+502026000863,2026-05-04,NX-0272,Meals,1321.87,E0420,Travel expense - unmatched ERP item,ERP-ONLY-00863,Unmatched ERP transaction
+502026000864,2026-05-06,NX-0289,Accommodation,929.36,Motel One,Potential duplicate travel posting,ERP-ONLY-00864,Unmatched ERP transaction
+502026000865,2026-05-08,NX-0306,Parking,845.16,E0446,Travel expense - unmatched ERP item,ERP-ONLY-00865,Unmatched ERP transaction
+502026000866,2026-05-10,NX-0323,Rail travel,1458.11,E0459,Potential duplicate travel posting,ERP-ONLY-00866,Unmatched ERP transaction
+502026000867,2026-05-12,NX-0340,Other,1726.24,DB Vertrieb,Travel expense - unmatched ERP item,ERP-ONLY-00867,Unmatched ERP transaction
+502026000868,2026-05-14,NX-0357,Local transport,1465.42,E0485,Potential duplicate travel posting,ERP-ONLY-00868,Unmatched ERP transaction
+502026000869,2026-05-16,NX-0374,Air travel,1026.34,E0498,Travel expense - unmatched ERP item,ERP-ONLY-00869,Unmatched ERP transaction
+502026000870,2026-05-18,NX-0391,Conference,1193.05,Lufthansa,Potential duplicate travel posting,ERP-ONLY-00870,Unmatched ERP transaction
+502026000871,2026-05-20,NX-0408,Meals,1503.78,E0524,Travel expense - unmatched ERP item,ERP-ONLY-00871,Unmatched ERP transaction
+502026000872,2026-05-22,NX-0425,Accommodation,193.22,E0537,Potential duplicate travel posting,ERP-ONLY-00872,Unmatched ERP transaction
+502026000873,2026-05-24,NX-0442,Parking,873.05,City Hotel Berlin,Travel expense - unmatched ERP item,ERP-ONLY-00873,Unmatched ERP transaction
+502026000874,2026-05-26,NX-0459,Rail travel,382.49,E0563,Potential duplicate travel posting,ERP-ONLY-00874,Unmatched ERP transaction
+502026000875,2026-05-28,NX-0476,Other,821.55,E0576,Travel expense - unmatched ERP item,ERP-ONLY-00875,Unmatched ERP transaction
+502026000876,2026-05-30,NX-0493,Local transport,1741.71,Lufthansa,Potential duplicate travel posting,ERP-ONLY-00876,Unmatched ERP transaction
+502026000877,2026-06-01,NX-0510,Air travel,1251.61,E0002,Travel expense - unmatched ERP item,ERP-ONLY-00877,Unmatched ERP transaction
+502026000878,2026-06-03,NX-0527,Conference,1535.84,E0015,Potential duplicate travel posting,ERP-ONLY-00878,Unmatched ERP transaction
+502026000879,2026-06-05,NX-0544,Meals,1726.52,Deutsche Bahn,Travel expense - unmatched ERP item,ERP-ONLY-00879,Unmatched ERP transaction
+502026000880,2026-06-07,NX-0561,Accommodation,78.65,E0041,Potential duplicate travel posting,ERP-ONLY-00880,Unmatched ERP transaction
+502026000881,2026-06-09,NX-0578,Parking,1855.63,E0054,Travel expense - unmatched ERP item,ERP-ONLY-00881,Unmatched ERP transaction
+502026000882,2026-06-11,NX-0595,Rail travel,197.55,Employee reimbursement,Potential duplicate travel posting,ERP-ONLY-00882,Unmatched ERP transaction
+502026000883,2026-06-13,NX-0012,Other,1430.20,E0080,Travel expense - unmatched ERP item,ERP-ONLY-00883,Unmatched ERP transaction
+502026000884,2026-06-15,NX-0029,Local transport,583.33,E0093,Potential duplicate travel posting,ERP-ONLY-00884,Unmatched ERP transaction
+502026000885,2026-06-17,NX-0046,Air travel,851.18,Employee reimbursement,Travel expense - unmatched ERP item,ERP-ONLY-00885,Unmatched ERP transaction
+502026000886,2026-06-19,NX-0063,Conference,901.24,E0119,Potential duplicate travel posting,ERP-ONLY-00886,Unmatched ERP transaction
+502026000887,2026-06-21,NX-0080,Meals,561.51,E0132,Travel expense - unmatched ERP item,ERP-ONLY-00887,Unmatched ERP transaction
+502026000888,2026-06-23,NX-0097,Accommodation,1794.53,Sixt,Potential duplicate travel posting,ERP-ONLY-00888,Unmatched ERP transaction
+502026000889,2026-06-25,NX-0114,Parking,720.51,E0158,Travel expense - unmatched ERP item,ERP-ONLY-00889,Unmatched ERP transaction
+502026000890,2026-06-27,NX-0131,Rail travel,443.33,E0171,Potential duplicate travel posting,ERP-ONLY-00890,Unmatched ERP transaction
+502026000891,2026-06-29,NX-0148,Other,628.61,Taxi Berlin,Travel expense - unmatched ERP item,ERP-ONLY-00891,Unmatched ERP transaction
+502026000892,2026-07-01,NX-0165,Local transport,696.23,E0197,Potential duplicate travel posting,ERP-ONLY-00892,Unmatched ERP transaction
+502026000893,2026-07-03,NX-0182,Air travel,476.39,E0210,Travel expense - unmatched ERP item,ERP-ONLY-00893,Unmatched ERP transaction
+502026000894,2026-07-05,NX-0199,Conference,1345.84,Taxi Berlin,Potential duplicate travel posting,ERP-ONLY-00894,Unmatched ERP transaction
+502026000895,2026-07-07,NX-0216,Meals,318.08,E0236,Travel expense - unmatched ERP item,ERP-ONLY-00895,Unmatched ERP transaction
+502026000896,2026-07-09,NX-0233,Accommodation,264.99,E0249,Potential duplicate travel posting,ERP-ONLY-00896,Unmatched ERP transaction
+502026000897,2026-07-11,NX-0250,Parking,1100.66,Deutsche Bahn,Travel expense - unmatched ERP item,ERP-ONLY-00897,Unmatched ERP transaction
+502026000898,2026-07-13,NX-0267,Rail travel,167.08,E0275,Potential duplicate travel posting,ERP-ONLY-00898,Unmatched ERP transaction
+502026000899,2026-07-15,NX-0284,Other,199.72,E0288,Travel expense - unmatched ERP item,ERP-ONLY-00899,Unmatched ERP transaction
+502026000900,2026-07-17,NX-0301,Local transport,1753.27,Deutsche Bahn,Potential duplicate travel posting,ERP-ONLY-00900,Unmatched ERP transaction
+502026000901,2026-07-19,NX-0318,Air travel,494.39,E0314,Travel expense - unmatched ERP item,ERP-ONLY-00901,Unmatched ERP transaction
+502026000902,2026-07-21,NX-0335,Conference,1165.98,E0327,Potential duplicate travel posting,ERP-ONLY-00902,Unmatched ERP transaction
+502026000903,2026-07-23,NX-0352,Meals,448.21,Taxi Berlin,Travel expense - unmatched ERP item,ERP-ONLY-00903,Unmatched ERP transaction
+502026000904,2026-07-25,NX-0369,Accommodation,1575.44,E0353,Potential duplicate travel posting,ERP-ONLY-00904,Unmatched ERP transaction
+502026000905,2026-07-27,NX-0386,Parking,1188.99,E0366,Travel expense - unmatched ERP item,ERP-ONLY-00905,Unmatched ERP transaction
+502026000906,2026-07-29,NX-0403,Rail travel,1048.84,City Hotel Berlin,Potential duplicate travel posting,ERP-ONLY-00906,Unmatched ERP transaction
+502026000907,2026-07-31,NX-0420,Other,1345.28,E0392,Travel expense - unmatched ERP item,ERP-ONLY-00907,Unmatched ERP transaction
+502026000908,2026-08-02,NX-0437,Local transport,1775.55,E0405,Potential duplicate travel posting,ERP-ONLY-00908,Unmatched ERP transaction
+502026000909,2026-08-04,NX-0454,Air travel,1073.07,Event Services GmbH,Travel expense - unmatched ERP item,ERP-ONLY-00909,Unmatched ERP transaction
+502026000910,2026-08-06,NX-0471,Conference,873.45,E0431,Potential duplicate travel posting,ERP-ONLY-00910,Unmatched ERP transaction
+502026000911,2026-08-08,NX-0488,Meals,973.51,E0444,Travel expense - unmatched ERP item,ERP-ONLY-00911,Unmatched ERP transaction
+502026000912,2026-08-10,NX-0505,Accommodation,1346.13,Motel One,Potential duplicate travel posting,ERP-ONLY-00912,Unmatched ERP transaction
+502026000913,2026-08-12,NX-0522,Parking,527.10,E0470,Travel expense - unmatched ERP item,ERP-ONLY-00913,Unmatched ERP transaction
+502026000914,2026-08-14,NX-0539,Rail travel,693.11,E0483,Potential duplicate travel posting,ERP-ONLY-00914,Unmatched ERP transaction
+502026000915,2026-08-16,NX-0556,Other,1299.50,Lufthansa,Travel expense - unmatched ERP item,ERP-ONLY-00915,Unmatched ERP transaction
+502026000916,2026-08-18,NX-0573,Local transport,168.74,E0509,Potential duplicate travel posting,ERP-ONLY-00916,Unmatched ERP transaction
+502026000917,2026-08-20,NX-0590,Air travel,1600.21,E0522,Travel expense - unmatched ERP item,ERP-ONLY-00917,Unmatched ERP transaction
+502026000918,2026-08-22,NX-0007,Conference,1250.53,Taxi Berlin,Potential duplicate travel posting,ERP-ONLY-00918,Unmatched ERP transaction
+502026000919,2026-08-24,NX-0024,Meals,678.25,E0548,Travel expense - unmatched ERP item,ERP-ONLY-00919,Unmatched ERP transaction
+502026000920,2026-08-26,NX-0041,Accommodation,1645.35,E0561,Potential duplicate travel posting,ERP-ONLY-00920,Unmatched ERP transaction
+502026000921,2026-08-28,NX-0058,Parking,1486.95,Sixt,Travel expense - unmatched ERP item,ERP-ONLY-00921,Unmatched ERP transaction
+502026000922,2026-08-30,NX-0075,Rail travel,1156.48,E0587,Potential duplicate travel posting,ERP-ONLY-00922,Unmatched ERP transaction
+502026000923,2026-09-01,NX-0092,Other,439.81,E0600,Travel expense - unmatched ERP item,ERP-ONLY-00923,Unmatched ERP transaction
+502026000924,2026-09-03,NX-0109,Local transport,1313.36,Event Services GmbH,Potential duplicate travel posting,ERP-ONLY-00924,Unmatched ERP transaction
+502026000925,2026-09-05,NX-0126,Air travel,651.56,E0026,Travel expense - unmatched ERP item,ERP-ONLY-00925,Unmatched ERP transaction
+502026000926,2026-09-07,NX-0143,Conference,1336.31,E0039,Potential duplicate travel posting,ERP-ONLY-00926,Unmatched ERP transaction
+502026000927,2026-09-09,NX-0160,Meals,44.13,City Hotel Berlin,Travel expense - unmatched ERP item,ERP-ONLY-00927,Unmatched ERP transaction
+502026000928,2026-09-11,NX-0177,Accommodation,769.58,E0065,Potential duplicate travel posting,ERP-ONLY-00928,Unmatched ERP transaction
+502026000929,2026-09-13,NX-0194,Parking,1848.22,E0078,Travel expense - unmatched ERP item,ERP-ONLY-00929,Unmatched ERP transaction
+502026000930,2026-09-15,NX-0211,Rail travel,1039.47,Deutsche Bahn,Potential duplicate travel posting,ERP-ONLY-00930,Unmatched ERP transaction
+502026000931,2026-09-17,NX-0228,Other,1005.69,E0104,Travel expense - unmatched ERP item,ERP-ONLY-00931,Unmatched ERP transaction
+502026000932,2026-09-19,NX-0245,Local transport,1224.77,E0117,Potential duplicate travel posting,ERP-ONLY-00932,Unmatched ERP transaction
+502026000933,2026-09-21,NX-0262,Air travel,1442.21,Taxi Berlin,Travel expense - unmatched ERP item,ERP-ONLY-00933,Unmatched ERP transaction
+502026000934,2026-09-23,NX-0279,Conference,702.50,E0143,Potential duplicate travel posting,ERP-ONLY-00934,Unmatched ERP transaction
+502026000935,2026-09-25,NX-0296,Meals,1115.78,E0156,Travel expense - unmatched ERP item,ERP-ONLY-00935,Unmatched ERP transaction
+502026000936,2026-09-27,NX-0313,Accommodation,692.88,Employee reimbursement,Potential duplicate travel posting,ERP-ONLY-00936,Unmatched ERP transaction
+502026000937,2026-09-29,NX-0330,Parking,1135.22,E0182,Travel expense - unmatched ERP item,ERP-ONLY-00937,Unmatched ERP transaction
+502026000938,2026-10-01,NX-0347,Rail travel,591.37,E0195,Potential duplicate travel posting,ERP-ONLY-00938,Unmatched ERP transaction
+502026000939,2026-10-03,NX-0364,Other,1080.58,Motel One,Travel expense - unmatched ERP item,ERP-ONLY-00939,Unmatched ERP transaction
+502026000940,2026-10-05,NX-0381,Local transport,1645.08,E0221,Potential duplicate travel posting,ERP-ONLY-00940,Unmatched ERP transaction
+502026000941,2026-10-07,NX-0398,Air travel,884.55,E0234,Travel expense - unmatched ERP item,ERP-ONLY-00941,Unmatched ERP transaction
+502026000942,2026-10-09,NX-0415,Conference,260.90,Deutsche Bahn,Potential duplicate travel posting,ERP-ONLY-00942,Unmatched ERP transaction
+502026000943,2026-10-11,NX-0432,Meals,1499.09,E0260,Travel expense - unmatched ERP item,ERP-ONLY-00943,Unmatched ERP transaction
+502026000944,2026-10-13,NX-0449,Accommodation,445.86,E0273,Potential duplicate travel posting,ERP-ONLY-00944,Unmatched ERP transaction
+502026000945,2026-10-15,NX-0466,Parking,1394.85,DB Vertrieb,Travel expense - unmatched ERP item,ERP-ONLY-00945,Unmatched ERP transaction
+502026000946,2026-10-17,NX-0483,Rail travel,863.84,E0299,Potential duplicate travel posting,ERP-ONLY-00946,Unmatched ERP transaction
+502026000947,2026-10-19,NX-0500,Other,415.17,E0312,Travel expense - unmatched ERP item,ERP-ONLY-00947,Unmatched ERP transaction
+502026000948,2026-10-21,NX-0517,Local transport,274.07,City Hotel Berlin,Potential duplicate travel posting,ERP-ONLY-00948,Unmatched ERP transaction
+502026000949,2026-10-23,NX-0534,Air travel,1492.58,E0338,Travel expense - unmatched ERP item,ERP-ONLY-00949,Unmatched ERP transaction
+502026000950,2026-10-25,NX-0551,Conference,1564.96,E0351,Potential duplicate travel posting,ERP-ONLY-00950,Unmatched ERP transaction
+502026000951,2026-10-27,NX-0568,Meals,703.69,Event Services GmbH,Travel expense - unmatched ERP item,ERP-ONLY-00951,Unmatched ERP transaction
+502026000952,2026-10-29,NX-0585,Accommodation,353.30,E0377,Potential duplicate travel posting,ERP-ONLY-00952,Unmatched ERP transaction
+502026000953,2026-10-31,NX-0002,Parking,532.03,E0390,Travel expense - unmatched ERP item,ERP-ONLY-00953,Unmatched ERP transaction
+502026000954,2026-11-02,NX-0019,Rail travel,205.50,Taxi Berlin,Potential duplicate travel posting,ERP-ONLY-00954,Unmatched ERP transaction
+502026000955,2026-11-04,NX-0036,Other,242.16,E0416,Travel expense - unmatched ERP item,ERP-ONLY-00955,Unmatched ERP transaction
+502026000956,2026-11-06,NX-0053,Local transport,1155.87,E0429,Potential duplicate travel posting,ERP-ONLY-00956,Unmatched ERP transaction
+502026000957,2026-11-08,NX-0070,Air travel,516.71,Lufthansa,Travel expense - unmatched ERP item,ERP-ONLY-00957,Unmatched ERP transaction
+502026000958,2026-11-10,NX-0087,Conference,1842.12,E0455,Potential duplicate travel posting,ERP-ONLY-00958,Unmatched ERP transaction
+502026000959,2026-11-12,NX-0104,Meals,1592.52,E0468,Travel expense - unmatched ERP item,ERP-ONLY-00959,Unmatched ERP transaction
+502026000960,2025-12-29,NX-0121,Accommodation,156.71,City Hotel Berlin,Potential duplicate travel posting,ERP-ONLY-00960,Unmatched ERP transaction
+502026000961,2025-12-31,NX-0138,Parking,1802.55,E0494,Travel expense - unmatched ERP item,ERP-ONLY-00961,Unmatched ERP transaction
+502026000962,2026-01-02,NX-0155,Rail travel,1250.34,E0507,Potential duplicate travel posting,ERP-ONLY-00962,Unmatched ERP transaction
+502026000963,2026-01-04,NX-0172,Other,1489.21,Event Services GmbH,Travel expense - unmatched ERP item,ERP-ONLY-00963,Unmatched ERP transaction
+502026000964,2026-01-06,NX-0189,Local transport,141.49,E0533,Potential duplicate travel posting,ERP-ONLY-00964,Unmatched ERP transaction
+502026000965,2026-01-08,NX-0206,Air travel,985.37,E0546,Travel expense - unmatched ERP item,ERP-ONLY-00965,Unmatched ERP transaction
+502026000966,2026-01-10,NX-0223,Conference,366.21,Event Services GmbH,Potential duplicate travel posting,ERP-ONLY-00966,Unmatched ERP transaction
+502026000967,2026-01-12,NX-0240,Meals,1256.44,E0572,Travel expense - unmatched ERP item,ERP-ONLY-00967,Unmatched ERP transaction
+502026000968,2026-01-14,NX-0257,Accommodation,88.70,E0585,Potential duplicate travel posting,ERP-ONLY-00968,Unmatched ERP transaction
+502026000969,2026-01-16,NX-0274,Parking,1133.33,DB Vertrieb,Travel expense - unmatched ERP item,ERP-ONLY-00969,Unmatched ERP transaction
+502026000970,2026-01-18,NX-0291,Rail travel,1436.38,E0011,Potential duplicate travel posting,ERP-ONLY-00970,Unmatched ERP transaction
+502026000971,2026-01-20,NX-0308,Other,818.07,E0024,Travel expense - unmatched ERP item,ERP-ONLY-00971,Unmatched ERP transaction
+502026000972,2026-01-22,NX-0325,Local transport,1090.45,Taxi Berlin,Potential duplicate travel posting,ERP-ONLY-00972,Unmatched ERP transaction
+502026000973,2026-01-24,NX-0342,Air travel,1158.45,E0050,Travel expense - unmatched ERP item,ERP-ONLY-00973,Unmatched ERP transaction
+502026000974,2026-01-26,NX-0359,Conference,1647.59,E0063,Potential duplicate travel posting,ERP-ONLY-00974,Unmatched ERP transaction
+502026000975,2026-01-28,NX-0376,Meals,1232.20,Motel One,Travel expense - unmatched ERP item,ERP-ONLY-00975,Unmatched ERP transaction
+502026000976,2026-01-30,NX-0393,Accommodation,1377.08,E0089,Potential duplicate travel posting,ERP-ONLY-00976,Unmatched ERP transaction
+502026000977,2026-02-01,NX-0410,Parking,1740.62,E0102,Travel expense - unmatched ERP item,ERP-ONLY-00977,Unmatched ERP transaction
+502026000978,2026-02-03,NX-0427,Rail travel,347.49,Sixt,Potential duplicate travel posting,ERP-ONLY-00978,Unmatched ERP transaction
+502026000979,2026-02-05,NX-0444,Other,455.31,E0128,Travel expense - unmatched ERP item,ERP-ONLY-00979,Unmatched ERP transaction
+502026000980,2026-02-07,NX-0461,Local transport,1439.07,E0141,Potential duplicate travel posting,ERP-ONLY-00980,Unmatched ERP transaction
+502026000981,2026-02-09,NX-0478,Air travel,1521.69,Motel One,Travel expense - unmatched ERP item,ERP-ONLY-00981,Unmatched ERP transaction
+502026000982,2026-02-11,NX-0495,Conference,723.84,E0167,Potential duplicate travel posting,ERP-ONLY-00982,Unmatched ERP transaction
+502026000983,2026-02-13,NX-0512,Meals,91.19,E0180,Travel expense - unmatched ERP item,ERP-ONLY-00983,Unmatched ERP transaction
+502026000984,2026-02-15,NX-0529,Accommodation,852.04,Taxi Berlin,Potential duplicate travel posting,ERP-ONLY-00984,Unmatched ERP transaction
+502026000985,2026-02-17,NX-0546,Parking,863.85,E0206,Travel expense - unmatched ERP item,ERP-ONLY-00985,Unmatched ERP transaction
+502026000986,2026-02-19,NX-0563,Rail travel,1545.32,E0219,Potential duplicate travel posting,ERP-ONLY-00986,Unmatched ERP transaction
+502026000987,2026-02-21,NX-0580,Other,1804.74,Motel One,Travel expense - unmatched ERP item,ERP-ONLY-00987,Unmatched ERP transaction
+502026000988,2026-02-23,NX-0597,Local transport,1060.18,E0245,Potential duplicate travel posting,ERP-ONLY-00988,Unmatched ERP transaction
+502026000989,2026-02-25,NX-0014,Air travel,315.03,E0258,Travel expense - unmatched ERP item,ERP-ONLY-00989,Unmatched ERP transaction
+502026000990,2026-02-27,NX-0031,Conference,1141.34,Sixt,Potential duplicate travel posting,ERP-ONLY-00990,Unmatched ERP transaction
+502026000991,2026-03-01,NX-0048,Meals,1272.25,E0284,Travel expense - unmatched ERP item,ERP-ONLY-00991,Unmatched ERP transaction
+502026000992,2026-03-03,NX-0065,Accommodation,113.32,E0297,Potential duplicate travel posting,ERP-ONLY-00992,Unmatched ERP transaction
+502026000993,2026-03-05,NX-0082,Parking,1828.61,City Hotel Berlin,Travel expense - unmatched ERP item,ERP-ONLY-00993,Unmatched ERP transaction
+502026000994,2026-03-07,NX-0099,Rail travel,340.19,E0323,Potential duplicate travel posting,ERP-ONLY-00994,Unmatched ERP transaction
+502026000995,2026-03-09,NX-0116,Other,1255.66,E0336,Travel expense - unmatched ERP item,ERP-ONLY-00995,Unmatched ERP transaction
+502026000996,2026-03-11,NX-0133,Local transport,1120.92,Sixt,Potential duplicate travel posting,ERP-ONLY-00996,Unmatched ERP transaction
+502026000997,2026-03-13,NX-0150,Air travel,556.31,E0362,Travel expense - unmatched ERP item,ERP-ONLY-00997,Unmatched ERP transaction
+502026000998,2026-03-15,NX-0167,Conference,736.51,E0375,Potential duplicate travel posting,ERP-ONLY-00998,Unmatched ERP transaction
+502026000999,2026-03-17,NX-0184,Meals,142.83,DB Vertrieb,Travel expense - unmatched ERP item,ERP-ONLY-00999,Unmatched ERP transaction
+502026001000,2026-03-19,NX-0201,Accommodation,53.89,E0401,Potential duplicate travel posting,ERP-ONLY-01000,Unmatched ERP transaction

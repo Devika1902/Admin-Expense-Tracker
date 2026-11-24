@@ -1,0 +1,701 @@
+﻿FollowUpID,TravelRef,EmployeeID,MissingDocumentOrQuestion,RequestDate,DueDate,Status,ResolutionDate,Owner
+FU-00001,TR-00020,E0141,Amount discrepancy,2026-11-17,2026-11-24,Requested,,Administrative Operations
+FU-00002,TR-00039,E0274,Receipt missing,2026-11-10,2026-11-17,Awaiting employee,,Administrative Operations
+FU-00003,TR-00058,E0407,Amount discrepancy,2026-11-03,2026-11-10,Resolved,2026-11-11,Administrative Operations
+FU-00004,TR-00077,E0540,Receipt missing,2026-10-27,2026-11-03,Open,,Administrative Operations
+FU-00005,TR-00096,E0073,Amount discrepancy,2026-10-20,2026-10-27,Requested,,Administrative Operations
+FU-00006,TR-00115,E0206,Receipt missing,2026-10-13,2026-10-20,Awaiting employee,,Administrative Operations
+FU-00007,TR-00134,,Amount discrepancy,2026-11-20,2026-11-27,Resolved,2026-11-28,Administrative Operations
+FU-00008,TR-00153,E0472,Receipt missing,2026-11-13,2026-11-20,Open,,Administrative Operations
+FU-00009,TR-00172,E0005,Amount discrepancy,2026-11-06,2026-11-13,Requested,,Administrative Operations
+FU-00010,TR-00191,E0138,Receipt missing,2026-10-30,2026-11-06,Awaiting employee,,Administrative Operations
+FU-00011,TR-00210,E0271,Amount discrepancy,2026-10-23,2026-10-30,Resolved,2026-10-31,Administrative Operations
+FU-00012,TR-00229,E0404,Receipt missing,2026-10-16,2026-10-23,Open,,Administrative Operations
+FU-00013,TR-00248,E0537,Amount discrepancy,2026-11-23,2026-11-30,Requested,,Administrative Operations
+FU-00014,TR-00267,E0070,Receipt missing,2026-11-16,2026-11-23,Awaiting employee,,Administrative Operations
+FU-00015,TR-00286,E0203,Amount discrepancy,2026-11-09,2026-11-16,Resolved,2026-11-17,Administrative Operations
+FU-00016,TR-00305,E0336,Receipt missing,2026-11-02,2026-11-09,Open,,Administrative Operations
+FU-00017,TR-00324,E0469,Amount discrepancy,2026-10-26,2026-11-02,Requested,,Administrative Operations
+FU-00018,TR-00343,E0002,Receipt missing,2026-10-19,2026-10-26,Awaiting employee,,Administrative Operations
+FU-00019,TR-00362,E0135,Amount discrepancy,2026-10-12,2026-10-19,Resolved,2026-10-20,Administrative Operations
+FU-00020,TR-00381,E0268,Receipt missing,2026-11-19,2026-11-26,Open,,Administrative Operations
+FU-00021,TR-00400,E0401,Amount discrepancy,2026-11-12,2026-11-19,Requested,,Administrative Operations
+FU-00022,TR-00419,E0534,Receipt missing,2026-11-05,2026-11-12,Awaiting employee,,Administrative Operations
+FU-00023,TR-00438,E0067,Amount discrepancy,2026-10-29,2026-11-05,Resolved,2026-11-06,Administrative Operations
+FU-00024,TR-00457,E0200,Receipt missing,2026-10-22,2026-10-29,Open,,Administrative Operations
+FU-00025,TR-00476,E0333,Amount discrepancy,2026-10-15,2026-10-22,Requested,,Administrative Operations
+FU-00026,TR-00495,E0466,Receipt missing,2026-11-22,2026-11-29,Awaiting employee,,Administrative Operations
+FU-00027,TR-00514,E0599,Amount discrepancy,2026-11-15,2026-11-22,Resolved,2026-11-23,Administrative Operations
+FU-00028,TR-00533,E0132,Receipt missing,2026-11-08,2026-11-15,Open,,Administrative Operations
+FU-00029,TR-00552,E0265,Amount discrepancy,2026-11-01,2026-11-08,Requested,,Administrative Operations
+FU-00030,TR-00571,E0398,Receipt missing,2026-10-25,2026-11-01,Awaiting employee,,Administrative Operations
+FU-00031,TR-00590,E0531,Amount discrepancy,2026-10-18,2026-10-25,Resolved,2026-10-26,Administrative Operations
+FU-00032,TR-00609,E0064,Receipt missing,2026-10-11,2026-10-18,Open,,Administrative Operations
+FU-00033,TR-00628,E0197,Amount discrepancy,2026-11-18,2026-11-25,Requested,,Administrative Operations
+FU-00034,TR-00647,E0330,Receipt missing,2026-11-11,2026-11-18,Awaiting employee,,Administrative Operations
+FU-00035,TR-00666,E0463,Amount discrepancy,2026-11-04,2026-11-11,Resolved,2026-11-12,Administrative Operations
+FU-00036,TR-00685,E0596,Receipt missing,2026-10-28,2026-11-04,Open,,Administrative Operations
+FU-00037,TR-00704,E0129,Amount discrepancy,2026-10-21,2026-10-28,Requested,,Administrative Operations
+FU-00038,TR-00723,E0262,Receipt missing,2026-10-14,2026-10-21,Awaiting employee,,Administrative Operations
+FU-00039,TR-00742,E0395,Amount discrepancy,2026-11-21,2026-11-28,Resolved,2026-11-29,Administrative Operations
+FU-00040,TR-00761,E0528,Receipt missing,2026-11-14,2026-11-21,Open,,Administrative Operations
+FU-00041,TR-00780,E0061,Amount discrepancy,2026-11-07,2026-11-14,Requested,,Administrative Operations
+FU-00042,TR-00799,E0194,Receipt missing,2026-10-31,2026-11-07,Awaiting employee,,Administrative Operations
+FU-00043,TR-00818,E0327,Amount discrepancy,2026-10-24,2026-10-31,Resolved,2026-11-01,Administrative Operations
+FU-00044,TR-00837,E0460,Receipt missing,2026-10-17,2026-10-24,Open,,Administrative Operations
+FU-00045,TR-00856,E0593,Amount discrepancy,2026-11-24,2026-12-01,Requested,,Administrative Operations
+FU-00046,TR-00875,E0126,Receipt missing,2026-11-17,2026-11-24,Awaiting employee,,Administrative Operations
+FU-00047,TR-00894,E0259,Amount discrepancy,2026-11-10,2026-11-17,Resolved,2026-11-18,Administrative Operations
+FU-00048,TR-00913,E0392,Receipt missing,2026-11-03,2026-11-10,Open,,Administrative Operations
+FU-00049,TR-00932,E0525,Amount discrepancy,2026-10-27,2026-11-03,Requested,,Administrative Operations
+FU-00050,TR-00951,E0058,Receipt missing,2026-10-20,2026-10-27,Awaiting employee,,Administrative Operations
+FU-00051,TR-00970,E0191,Amount discrepancy,2026-10-13,2026-10-20,Resolved,2026-10-21,Administrative Operations
+FU-00052,TR-00989,E0324,Receipt missing,2026-11-20,2026-11-27,Open,,Administrative Operations
+FU-00053,TR-DUP-008,E0150,Amount discrepancy,2026-11-13,2026-11-20,Requested,,Administrative Operations
+FU-00054,TR-00015,E0106,Receipt missing,2026-11-06,2026-11-13,Awaiting employee,,Administrative Operations
+FU-00055,TR-00034,E0239,Amount discrepancy,2026-10-30,2026-11-06,Resolved,2026-11-07,Administrative Operations
+FU-00056,TR-00053,E0372,Receipt missing,2026-10-23,2026-10-30,Open,,Administrative Operations
+FU-00057,TR-00072,E0505,Amount discrepancy,2026-10-16,2026-10-23,Requested,,Administrative Operations
+FU-00058,TR-00091,E0038,Receipt missing,2026-11-23,2026-11-30,Awaiting employee,,Administrative Operations
+FU-00059,TR-00110,E0171,Amount discrepancy,2026-11-16,2026-11-23,Resolved,2026-11-24,Administrative Operations
+FU-00060,TR-00129,E0304,Receipt missing,2026-11-09,2026-11-16,Open,,Administrative Operations
+FU-00061,TR-00148,E0437,Amount discrepancy,2026-11-02,2026-11-09,Requested,,Administrative Operations
+FU-00062,TR-00167,E0570,Receipt missing,2026-10-26,2026-11-02,Awaiting employee,,Administrative Operations
+FU-00063,TR-00186,E0103,Amount discrepancy,2026-10-19,2026-10-26,Resolved,2026-10-27,Administrative Operations
+FU-00064,TR-00205,E0236,Receipt missing,2026-10-12,2026-10-19,Open,,Administrative Operations
+FU-00065,TR-00224,E0369,Amount discrepancy,2026-11-19,2026-11-26,Requested,,Administrative Operations
+FU-00066,TR-00243,E0502,Receipt missing,2026-11-12,2026-11-19,Awaiting employee,,Administrative Operations
+FU-00067,TR-00262,E0035,Amount discrepancy,2026-11-05,2026-11-12,Resolved,2026-11-13,Administrative Operations
+FU-00068,TR-00281,E0168,Receipt missing,2026-10-29,2026-11-05,Open,,Administrative Operations
+FU-00069,TR-00300,E0301,Amount discrepancy,2026-10-22,2026-10-29,Requested,,Administrative Operations
+FU-00070,TR-00319,E0434,Receipt missing,2026-10-15,2026-10-22,Awaiting employee,,Administrative Operations
+FU-00071,TR-00338,E0567,Amount discrepancy,2026-11-22,2026-11-29,Resolved,2026-11-30,Administrative Operations
+FU-00072,TR-00357,E0100,Receipt missing,2026-11-15,2026-11-22,Open,,Administrative Operations
+FU-00073,TR-00376,E0233,Amount discrepancy,2026-11-08,2026-11-15,Requested,,Administrative Operations
+FU-00074,TR-00395,E0366,Receipt missing,2026-11-01,2026-11-08,Awaiting employee,,Administrative Operations
+FU-00075,TR-00414,E0499,Amount discrepancy,2026-10-25,2026-11-01,Resolved,2026-11-02,Administrative Operations
+FU-00076,TR-00433,E0032,Receipt missing,2026-10-18,2026-10-25,Open,,Administrative Operations
+FU-00077,TR-00452,E0165,Amount discrepancy,2026-10-11,2026-10-18,Requested,,Administrative Operations
+FU-00078,TR-00471,E0298,Receipt missing,2026-11-18,2026-11-25,Awaiting employee,,Administrative Operations
+FU-00079,TR-00490,E0431,Amount discrepancy,2026-11-11,2026-11-18,Resolved,2026-11-19,Administrative Operations
+FU-00080,TR-00509,E0564,Receipt missing,2026-11-04,2026-11-11,Open,,Administrative Operations
+FU-00081,TR-00528,E0097,Amount discrepancy,2026-10-28,2026-11-04,Requested,,Administrative Operations
+FU-00082,TR-00547,E0230,Receipt missing,2026-10-21,2026-10-28,Awaiting employee,,Administrative Operations
+FU-00083,TR-00566,E0363,Amount discrepancy,2026-10-14,2026-10-21,Resolved,2026-10-22,Administrative Operations
+FU-00084,TR-00585,E0496,Receipt missing,2026-11-21,2026-11-28,Open,,Administrative Operations
+FU-00085,TR-00604,E0029,Amount discrepancy,2026-11-14,2026-11-21,Requested,,Administrative Operations
+FU-00086,TR-00623,E0162,Receipt missing,2026-11-07,2026-11-14,Awaiting employee,,Administrative Operations
+FU-00087,TR-00642,E0295,Amount discrepancy,2026-10-31,2026-11-07,Resolved,2026-11-08,Administrative Operations
+FU-00088,TR-00661,E0428,Receipt missing,2026-10-24,2026-10-31,Open,,Administrative Operations
+FU-00089,TR-00680,E0561,Amount discrepancy,2026-10-17,2026-10-24,Requested,,Administrative Operations
+FU-00090,TR-00699,E0094,Receipt missing,2026-11-24,2026-12-01,Awaiting employee,,Administrative Operations
+FU-00091,TR-00718,E0227,Amount discrepancy,2026-11-17,2026-11-24,Resolved,2026-11-25,Administrative Operations
+FU-00092,TR-00737,,Receipt missing,2026-11-10,2026-11-17,Open,,Administrative Operations
+FU-00093,TR-00756,E0493,Amount discrepancy,2026-11-03,2026-11-10,Requested,,Administrative Operations
+FU-00094,TR-00775,E0026,Receipt missing,2026-10-27,2026-11-03,Awaiting employee,,Administrative Operations
+FU-00095,TR-00794,E0159,Amount discrepancy,2026-10-20,2026-10-27,Resolved,2026-10-28,Administrative Operations
+FU-00096,TR-00813,E0292,Receipt missing,2026-10-13,2026-10-20,Open,,Administrative Operations
+FU-00097,TR-00832,E0425,Amount discrepancy,2026-11-20,2026-11-27,Requested,,Administrative Operations
+FU-00098,TR-00851,E0558,Receipt missing,2026-11-13,2026-11-20,Awaiting employee,,Administrative Operations
+FU-00099,TR-00870,E0091,Amount discrepancy,2026-11-06,2026-11-13,Resolved,2026-11-14,Administrative Operations
+FU-00100,TR-00889,E0224,Receipt missing,2026-10-30,2026-11-06,Open,,Administrative Operations
+FU-00101,TR-00908,E0357,Amount discrepancy,2026-10-23,2026-10-30,Requested,,Administrative Operations
+FU-00102,TR-00927,E0490,Receipt missing,2026-10-16,2026-10-23,Awaiting employee,,Administrative Operations
+FU-00103,TR-00946,E0023,Amount discrepancy,2026-11-23,2026-11-30,Resolved,2026-12-01,Administrative Operations
+FU-00104,TR-00965,E0156,Receipt missing,2026-11-16,2026-11-23,Open,,Administrative Operations
+FU-00105,TR-00984,E0289,Amount discrepancy,2026-11-09,2026-11-16,Requested,,Administrative Operations
+FU-00106,TR-DUP-003,E0115,Receipt missing,2026-11-02,2026-11-09,Awaiting employee,,Administrative Operations
+FU-00107,TR-00010,E0071,Amount discrepancy,2026-10-26,2026-11-02,Resolved,2026-11-03,Administrative Operations
+FU-00108,TR-00029,E0204,Receipt missing,2026-10-19,2026-10-26,Open,,Administrative Operations
+FU-00109,TR-00048,E0337,Amount discrepancy,2026-10-12,2026-10-19,Requested,,Administrative Operations
+FU-00110,TR-00067,,Receipt missing,2026-11-19,2026-11-26,Awaiting employee,,Administrative Operations
+FU-00111,TR-00086,E0003,Amount discrepancy,2026-11-12,2026-11-19,Resolved,2026-11-20,Administrative Operations
+FU-00112,TR-00105,E0136,Receipt missing,2026-11-05,2026-11-12,Open,,Administrative Operations
+FU-00113,TR-00124,E0269,Amount discrepancy,2026-10-29,2026-11-05,Requested,,Administrative Operations
+FU-00114,TR-00143,E0402,Receipt missing,2026-10-22,2026-10-29,Awaiting employee,,Administrative Operations
+FU-00115,TR-00162,E0535,Amount discrepancy,2026-10-15,2026-10-22,Resolved,2026-10-23,Administrative Operations
+FU-00116,TR-00181,E0068,Receipt missing,2026-11-22,2026-11-29,Open,,Administrative Operations
+FU-00117,TR-00200,E0201,Amount discrepancy,2026-11-15,2026-11-22,Requested,,Administrative Operations
+FU-00118,TR-00219,E0334,Receipt missing,2026-11-08,2026-11-15,Awaiting employee,,Administrative Operations
+FU-00119,TR-00238,E0467,Amount discrepancy,2026-11-01,2026-11-08,Resolved,2026-11-09,Administrative Operations
+FU-00120,TR-00257,E0600,Receipt missing,2026-10-25,2026-11-01,Open,,Administrative Operations
+FU-00121,TR-00276,E0133,Amount discrepancy,2026-10-18,2026-10-25,Requested,,Administrative Operations
+FU-00122,TR-00295,E0266,Receipt missing,2026-10-11,2026-10-18,Awaiting employee,,Administrative Operations
+FU-00123,TR-00314,E0399,Amount discrepancy,2026-11-18,2026-11-25,Resolved,2026-11-26,Administrative Operations
+FU-00124,TR-00333,E0532,Receipt missing,2026-11-11,2026-11-18,Open,,Administrative Operations
+FU-00125,TR-00352,E0065,Amount discrepancy,2026-11-04,2026-11-11,Requested,,Administrative Operations
+FU-00126,TR-00371,E0198,Receipt missing,2026-10-28,2026-11-04,Awaiting employee,,Administrative Operations
+FU-00127,TR-00390,E0331,Amount discrepancy,2026-10-21,2026-10-28,Resolved,2026-10-29,Administrative Operations
+FU-00128,TR-00409,E0464,Receipt missing,2026-10-14,2026-10-21,Open,,Administrative Operations
+FU-00129,TR-00428,E0597,Amount discrepancy,2026-11-21,2026-11-28,Requested,,Administrative Operations
+FU-00130,TR-00447,E0130,Receipt missing,2026-11-14,2026-11-21,Awaiting employee,,Administrative Operations
+FU-00131,TR-00466,E0263,Amount discrepancy,2026-11-07,2026-11-14,Resolved,2026-11-15,Administrative Operations
+FU-00132,TR-00485,E0396,Receipt missing,2026-10-31,2026-11-07,Open,,Administrative Operations
+FU-00133,TR-00504,E0529,Amount discrepancy,2026-10-24,2026-10-31,Requested,,Administrative Operations
+FU-00134,TR-00523,E0062,Receipt missing,2026-10-17,2026-10-24,Awaiting employee,,Administrative Operations
+FU-00135,TR-00542,E0195,Amount discrepancy,2026-11-24,2026-12-01,Resolved,2026-12-02,Administrative Operations
+FU-00136,TR-00561,E0328,Receipt missing,2026-11-17,2026-11-24,Open,,Administrative Operations
+FU-00137,TR-00580,E0461,Amount discrepancy,2026-11-10,2026-11-17,Requested,,Administrative Operations
+FU-00138,TR-00599,E0594,Receipt missing,2026-11-03,2026-11-10,Awaiting employee,,Administrative Operations
+FU-00139,TR-00618,E0127,Amount discrepancy,2026-10-27,2026-11-03,Resolved,2026-11-04,Administrative Operations
+FU-00140,TR-00637,E0260,Receipt missing,2026-10-20,2026-10-27,Open,,Administrative Operations
+FU-00141,TR-00656,E0393,Amount discrepancy,2026-10-13,2026-10-20,Requested,,Administrative Operations
+FU-00142,TR-00675,E0526,Receipt missing,2026-11-20,2026-11-27,Awaiting employee,,Administrative Operations
+FU-00143,TR-00694,E0059,Amount discrepancy,2026-11-13,2026-11-20,Resolved,2026-11-21,Administrative Operations
+FU-00144,TR-00713,E0192,Receipt missing,2026-11-06,2026-11-13,Open,,Administrative Operations
+FU-00145,TR-00732,E0325,Amount discrepancy,2026-10-30,2026-11-06,Requested,,Administrative Operations
+FU-00146,TR-00751,E0458,Receipt missing,2026-10-23,2026-10-30,Awaiting employee,,Administrative Operations
+FU-00147,TR-00770,E0591,Amount discrepancy,2026-10-16,2026-10-23,Resolved,2026-10-24,Administrative Operations
+FU-00148,TR-00789,E0124,Receipt missing,2026-11-23,2026-11-30,Open,,Administrative Operations
+FU-00149,TR-00808,E0257,Amount discrepancy,2026-11-16,2026-11-23,Requested,,Administrative Operations
+FU-00150,TR-00827,E0390,Receipt missing,2026-11-09,2026-11-16,Awaiting employee,,Administrative Operations
+FU-00151,TR-00846,E0523,Amount discrepancy,2026-11-02,2026-11-09,Resolved,2026-11-10,Administrative Operations
+FU-00152,TR-00865,E0056,Receipt missing,2026-10-26,2026-11-02,Open,,Administrative Operations
+FU-00153,TR-00884,E0189,Amount discrepancy,2026-10-19,2026-10-26,Requested,,Administrative Operations
+FU-00154,TR-00903,E0322,Receipt missing,2026-10-12,2026-10-19,Awaiting employee,,Administrative Operations
+FU-00155,TR-00922,E0455,Amount discrepancy,2026-11-19,2026-11-26,Resolved,2026-11-27,Administrative Operations
+FU-00156,TR-00941,E0588,Receipt missing,2026-11-12,2026-11-19,Open,,Administrative Operations
+FU-00157,TR-00960,E0121,Amount discrepancy,2026-11-05,2026-11-12,Requested,,Administrative Operations
+FU-00158,TR-00979,E0254,Receipt missing,2026-10-29,2026-11-05,Awaiting employee,,Administrative Operations
+FU-00159,TR-00998,E0387,Amount discrepancy,2026-10-22,2026-10-29,Resolved,2026-10-30,Administrative Operations
+FU-00160,TR-00005,E0036,Receipt missing,2026-10-15,2026-10-22,Open,,Administrative Operations
+FU-00161,TR-00024,E0169,Amount discrepancy,2026-11-22,2026-11-29,Requested,,Administrative Operations
+FU-00162,TR-00043,E0302,Receipt missing,2026-11-15,2026-11-22,Awaiting employee,,Administrative Operations
+FU-00163,TR-00062,E0435,Amount discrepancy,2026-11-08,2026-11-15,Resolved,2026-11-16,Administrative Operations
+FU-00164,TR-00081,E0568,Receipt missing,2026-11-01,2026-11-08,Open,,Administrative Operations
+FU-00165,TR-00100,E0101,Amount discrepancy,2026-10-25,2026-11-01,Requested,,Administrative Operations
+FU-00166,TR-00119,E0234,Receipt missing,2026-10-18,2026-10-25,Awaiting employee,,Administrative Operations
+FU-00167,TR-00138,E0367,Amount discrepancy,2026-10-11,2026-10-18,Resolved,2026-10-19,Administrative Operations
+FU-00168,TR-00157,E0500,Receipt missing,2026-11-18,2026-11-25,Open,,Administrative Operations
+FU-00169,TR-00176,E0033,Amount discrepancy,2026-11-11,2026-11-18,Requested,,Administrative Operations
+FU-00170,TR-00195,E0166,Receipt missing,2026-11-04,2026-11-11,Awaiting employee,,Administrative Operations
+FU-00171,TR-00214,E0299,Amount discrepancy,2026-10-28,2026-11-04,Resolved,2026-11-05,Administrative Operations
+FU-00172,TR-00233,E0432,Receipt missing,2026-10-21,2026-10-28,Open,,Administrative Operations
+FU-00173,TR-00252,E0565,Amount discrepancy,2026-10-14,2026-10-21,Requested,,Administrative Operations
+FU-00174,TR-00271,E0098,Receipt missing,2026-11-21,2026-11-28,Awaiting employee,,Administrative Operations
+FU-00175,TR-00290,E0231,Amount discrepancy,2026-11-14,2026-11-21,Resolved,2026-11-22,Administrative Operations
+FU-00176,TR-00309,E0364,Receipt missing,2026-11-07,2026-11-14,Open,,Administrative Operations
+FU-00177,TR-00328,E0497,Amount discrepancy,2026-10-31,2026-11-07,Requested,,Administrative Operations
+FU-00178,TR-00347,E0030,Receipt missing,2026-10-24,2026-10-31,Awaiting employee,,Administrative Operations
+FU-00179,TR-00366,E0163,Amount discrepancy,2026-10-17,2026-10-24,Resolved,2026-10-25,Administrative Operations
+FU-00180,TR-00385,E0296,Receipt missing,2026-11-24,2026-12-01,Open,,Administrative Operations
+FU-00181,TR-00404,E0429,Amount discrepancy,2026-11-17,2026-11-24,Requested,,Administrative Operations
+FU-00182,TR-00423,E0562,Receipt missing,2026-11-10,2026-11-17,Awaiting employee,,Administrative Operations
+FU-00183,TR-00442,E0095,Amount discrepancy,2026-11-03,2026-11-10,Resolved,2026-11-11,Administrative Operations
+FU-00184,TR-00461,E0228,Receipt missing,2026-10-27,2026-11-03,Open,,Administrative Operations
+FU-00185,TR-00480,E0361,Amount discrepancy,2026-10-20,2026-10-27,Requested,,Administrative Operations
+FU-00186,TR-00499,E0494,Receipt missing,2026-10-13,2026-10-20,Awaiting employee,,Administrative Operations
+FU-00187,TR-00518,E0027,Amount discrepancy,2026-11-20,2026-11-27,Resolved,2026-11-28,Administrative Operations
+FU-00188,TR-00537,E0160,Receipt missing,2026-11-13,2026-11-20,Open,,Administrative Operations
+FU-00189,TR-00556,E0293,Amount discrepancy,2026-11-06,2026-11-13,Requested,,Administrative Operations
+FU-00190,TR-00575,E0426,Receipt missing,2026-10-30,2026-11-06,Awaiting employee,,Administrative Operations
+FU-00191,TR-00594,E0559,Amount discrepancy,2026-10-23,2026-10-30,Resolved,2026-10-31,Administrative Operations
+FU-00192,TR-00613,E0092,Receipt missing,2026-10-16,2026-10-23,Open,,Administrative Operations
+FU-00193,TR-00632,E0225,Amount discrepancy,2026-11-23,2026-11-30,Requested,,Administrative Operations
+FU-00194,TR-00651,E0358,Receipt missing,2026-11-16,2026-11-23,Awaiting employee,,Administrative Operations
+FU-00195,TR-00670,,Amount discrepancy,2026-11-09,2026-11-16,Resolved,2026-11-17,Administrative Operations
+FU-00196,TR-00689,E0024,Receipt missing,2026-11-02,2026-11-09,Open,,Administrative Operations
+FU-00197,TR-00708,E0157,Amount discrepancy,2026-10-26,2026-11-02,Requested,,Administrative Operations
+FU-00198,TR-00727,E0290,Receipt missing,2026-10-19,2026-10-26,Awaiting employee,,Administrative Operations
+FU-00199,TR-00746,E0423,Amount discrepancy,2026-10-12,2026-10-19,Resolved,2026-10-20,Administrative Operations
+FU-00200,TR-00765,E0556,Receipt missing,2026-11-19,2026-11-26,Open,,Administrative Operations
+FU-00201,TR-00784,E0089,Amount discrepancy,2026-11-12,2026-11-19,Requested,,Administrative Operations
+FU-00202,TR-00803,E0222,Receipt missing,2026-11-05,2026-11-12,Awaiting employee,,Administrative Operations
+FU-00203,TR-00822,E0355,Amount discrepancy,2026-10-29,2026-11-05,Resolved,2026-11-06,Administrative Operations
+FU-00204,TR-00841,E0488,Receipt missing,2026-10-22,2026-10-29,Open,,Administrative Operations
+FU-00205,TR-00860,E0021,Amount discrepancy,2026-10-15,2026-10-22,Requested,,Administrative Operations
+FU-00206,TR-00879,E0154,Receipt missing,2026-11-22,2026-11-29,Awaiting employee,,Administrative Operations
+FU-00207,TR-00898,E0287,Amount discrepancy,2026-11-15,2026-11-22,Resolved,2026-11-23,Administrative Operations
+FU-00208,TR-00917,E0420,Receipt missing,2026-11-08,2026-11-15,Open,,Administrative Operations
+FU-00209,TR-00936,E0553,Amount discrepancy,2026-11-01,2026-11-08,Requested,,Administrative Operations
+FU-00210,TR-00955,E0086,Receipt missing,2026-10-25,2026-11-01,Awaiting employee,,Administrative Operations
+FU-00211,TR-00974,E0219,Amount discrepancy,2026-10-18,2026-10-25,Resolved,2026-10-26,Administrative Operations
+FU-00212,TR-00993,E0352,Receipt missing,2026-10-11,2026-10-18,Open,,Administrative Operations
+FU-00213,TR-DUP-012,E0178,Amount discrepancy,2026-11-18,2026-11-25,Requested,,Administrative Operations
+FU-00214,TR-00019,E0134,Receipt missing,2026-11-11,2026-11-18,Awaiting employee,,Administrative Operations
+FU-00215,TR-00038,E0267,Amount discrepancy,2026-11-04,2026-11-11,Resolved,2026-11-12,Administrative Operations
+FU-00216,TR-00057,E0400,Receipt missing,2026-10-28,2026-11-04,Open,,Administrative Operations
+FU-00217,TR-00076,E0533,Amount discrepancy,2026-10-21,2026-10-28,Requested,,Administrative Operations
+FU-00218,TR-00095,E0066,Receipt missing,2026-10-14,2026-10-21,Awaiting employee,,Administrative Operations
+FU-00219,TR-00114,E0199,Amount discrepancy,2026-11-21,2026-11-28,Resolved,2026-11-29,Administrative Operations
+FU-00220,TR-00133,E0332,Receipt missing,2026-11-14,2026-11-21,Open,,Administrative Operations
+FU-00221,TR-00152,E0465,Amount discrepancy,2026-11-07,2026-11-14,Requested,,Administrative Operations
+FU-00222,TR-00171,E0598,Receipt missing,2026-10-31,2026-11-07,Awaiting employee,,Administrative Operations
+FU-00223,TR-00190,E0131,Amount discrepancy,2026-10-24,2026-10-31,Resolved,2026-11-01,Administrative Operations
+FU-00224,TR-00209,E0264,Receipt missing,2026-10-17,2026-10-24,Open,,Administrative Operations
+FU-00225,TR-00228,E0397,Amount discrepancy,2026-11-24,2026-12-01,Requested,,Administrative Operations
+FU-00226,TR-00247,E0530,Receipt missing,2026-11-17,2026-11-24,Awaiting employee,,Administrative Operations
+FU-00227,TR-00266,E0063,Amount discrepancy,2026-11-10,2026-11-17,Resolved,2026-11-18,Administrative Operations
+FU-00228,TR-00285,E0196,Receipt missing,2026-11-03,2026-11-10,Open,,Administrative Operations
+FU-00229,TR-00304,E0329,Amount discrepancy,2026-10-27,2026-11-03,Requested,,Administrative Operations
+FU-00230,TR-00323,E0462,Receipt missing,2026-10-20,2026-10-27,Awaiting employee,,Administrative Operations
+FU-00231,TR-00342,E0595,Amount discrepancy,2026-10-13,2026-10-20,Resolved,2026-10-21,Administrative Operations
+FU-00232,TR-00361,E0128,Receipt missing,2026-11-20,2026-11-27,Open,,Administrative Operations
+FU-00233,TR-00380,E0261,Amount discrepancy,2026-11-13,2026-11-20,Requested,,Administrative Operations
+FU-00234,TR-00399,E0394,Receipt missing,2026-11-06,2026-11-13,Awaiting employee,,Administrative Operations
+FU-00235,TR-00418,E0527,Amount discrepancy,2026-10-30,2026-11-06,Resolved,2026-11-07,Administrative Operations
+FU-00236,TR-00437,E0060,Receipt missing,2026-10-23,2026-10-30,Open,,Administrative Operations
+FU-00237,TR-00456,E0193,Amount discrepancy,2026-10-16,2026-10-23,Requested,,Administrative Operations
+FU-00238,TR-00475,E0326,Receipt missing,2026-11-23,2026-11-30,Awaiting employee,,Administrative Operations
+FU-00239,TR-00494,E0459,Amount discrepancy,2026-11-16,2026-11-23,Resolved,2026-11-24,Administrative Operations
+FU-00240,TR-00513,E0592,Receipt missing,2026-11-09,2026-11-16,Open,,Administrative Operations
+FU-00241,TR-00532,E0125,Amount discrepancy,2026-11-02,2026-11-09,Requested,,Administrative Operations
+FU-00242,TR-00551,E0258,Receipt missing,2026-10-26,2026-11-02,Awaiting employee,,Administrative Operations
+FU-00243,TR-00570,E0391,Amount discrepancy,2026-10-19,2026-10-26,Resolved,2026-10-27,Administrative Operations
+FU-00244,TR-00589,E0524,Receipt missing,2026-10-12,2026-10-19,Open,,Administrative Operations
+FU-00245,TR-00608,E0057,Amount discrepancy,2026-11-19,2026-11-26,Requested,,Administrative Operations
+FU-00246,TR-00627,E0190,Receipt missing,2026-11-12,2026-11-19,Awaiting employee,,Administrative Operations
+FU-00247,TR-00646,E0323,Amount discrepancy,2026-11-05,2026-11-12,Resolved,2026-11-13,Administrative Operations
+FU-00248,TR-00665,E0456,Receipt missing,2026-10-29,2026-11-05,Open,,Administrative Operations
+FU-00249,TR-00684,E0589,Amount discrepancy,2026-10-22,2026-10-29,Requested,,Administrative Operations
+FU-00250,TR-00703,E0122,Receipt missing,2026-10-15,2026-10-22,Awaiting employee,,Administrative Operations
+FU-00251,TR-00722,E0255,Amount discrepancy,2026-11-22,2026-11-29,Resolved,2026-11-30,Administrative Operations
+FU-00252,TR-00741,E0388,Receipt missing,2026-11-15,2026-11-22,Open,,Administrative Operations
+FU-00253,TR-00760,E0521,Amount discrepancy,2026-11-08,2026-11-15,Requested,,Administrative Operations
+FU-00254,TR-00779,E0054,Receipt missing,2026-11-01,2026-11-08,Awaiting employee,,Administrative Operations
+FU-00255,TR-00798,E0187,Amount discrepancy,2026-10-25,2026-11-01,Resolved,2026-11-02,Administrative Operations
+FU-00256,TR-00817,E0320,Receipt missing,2026-10-18,2026-10-25,Open,,Administrative Operations
+FU-00257,TR-00836,E0453,Amount discrepancy,2026-10-11,2026-10-18,Requested,,Administrative Operations
+FU-00258,TR-00855,E0586,Receipt missing,2026-11-18,2026-11-25,Awaiting employee,,Administrative Operations
+FU-00259,TR-00874,E0119,Amount discrepancy,2026-11-11,2026-11-18,Resolved,2026-11-19,Administrative Operations
+FU-00260,TR-00893,E0252,Receipt missing,2026-11-04,2026-11-11,Open,,Administrative Operations
+FU-00261,TR-00912,E0385,Amount discrepancy,2026-10-28,2026-11-04,Requested,,Administrative Operations
+FU-00262,TR-00931,E0518,Receipt missing,2026-10-21,2026-10-28,Awaiting employee,,Administrative Operations
+FU-00263,TR-00950,E0051,Amount discrepancy,2026-10-14,2026-10-21,Resolved,2026-10-22,Administrative Operations
+FU-00264,TR-00969,E0184,Receipt missing,2026-11-21,2026-11-28,Open,,Administrative Operations
+FU-00265,TR-00988,E0317,Amount discrepancy,2026-11-14,2026-11-21,Requested,,Administrative Operations
+FU-00266,TR-DUP-007,E0143,Receipt missing,2026-11-07,2026-11-14,Awaiting employee,,Administrative Operations
+FU-00267,TR-00014,E0099,Amount discrepancy,2026-10-31,2026-11-07,Resolved,2026-11-08,Administrative Operations
+FU-00268,TR-00033,E0232,Receipt missing,2026-10-24,2026-10-31,Open,,Administrative Operations
+FU-00269,TR-00052,E0365,Amount discrepancy,2026-10-17,2026-10-24,Requested,,Administrative Operations
+FU-00270,TR-00071,E0498,Receipt missing,2026-11-24,2026-12-01,Awaiting employee,,Administrative Operations
+FU-00271,TR-00090,E0031,Amount discrepancy,2026-11-17,2026-11-24,Resolved,2026-11-25,Administrative Operations
+FU-00272,TR-00109,E0164,Receipt missing,2026-11-10,2026-11-17,Open,,Administrative Operations
+FU-00273,TR-00128,E0297,Amount discrepancy,2026-11-03,2026-11-10,Requested,,Administrative Operations
+FU-00274,TR-00147,E0430,Receipt missing,2026-10-27,2026-11-03,Awaiting employee,,Administrative Operations
+FU-00275,TR-00166,E0563,Amount discrepancy,2026-10-20,2026-10-27,Resolved,2026-10-28,Administrative Operations
+FU-00276,TR-00185,E0096,Receipt missing,2026-10-13,2026-10-20,Open,,Administrative Operations
+FU-00277,TR-00204,E0229,Amount discrepancy,2026-11-20,2026-11-27,Requested,,Administrative Operations
+FU-00278,TR-00223,E0362,Receipt missing,2026-11-13,2026-11-20,Awaiting employee,,Administrative Operations
+FU-00279,TR-00242,E0495,Amount discrepancy,2026-11-06,2026-11-13,Resolved,2026-11-14,Administrative Operations
+FU-00280,TR-00261,E0028,Receipt missing,2026-10-30,2026-11-06,Open,,Administrative Operations
+FU-00281,TR-00280,E0161,Amount discrepancy,2026-10-23,2026-10-30,Requested,,Administrative Operations
+FU-00282,TR-00299,E0294,Receipt missing,2026-10-16,2026-10-23,Awaiting employee,,Administrative Operations
+FU-00283,TR-00318,E0427,Amount discrepancy,2026-11-23,2026-11-30,Resolved,2026-12-01,Administrative Operations
+FU-00284,TR-00337,E0560,Receipt missing,2026-11-16,2026-11-23,Open,,Administrative Operations
+FU-00285,TR-00356,E0093,Amount discrepancy,2026-11-09,2026-11-16,Requested,,Administrative Operations
+FU-00286,TR-00375,E0226,Receipt missing,2026-11-02,2026-11-09,Awaiting employee,,Administrative Operations
+FU-00287,TR-00394,E0359,Amount discrepancy,2026-10-26,2026-11-02,Resolved,2026-11-03,Administrative Operations
+FU-00288,TR-00413,E0492,Receipt missing,2026-10-19,2026-10-26,Open,,Administrative Operations
+FU-00289,TR-00432,E0025,Amount discrepancy,2026-10-12,2026-10-19,Requested,,Administrative Operations
+FU-00290,TR-00451,E0158,Receipt missing,2026-11-19,2026-11-26,Awaiting employee,,Administrative Operations
+FU-00291,TR-00470,E0291,Amount discrepancy,2026-11-12,2026-11-19,Resolved,2026-11-20,Administrative Operations
+FU-00292,TR-00489,E0424,Receipt missing,2026-11-05,2026-11-12,Open,,Administrative Operations
+FU-00293,TR-00508,E0557,Amount discrepancy,2026-10-29,2026-11-05,Requested,,Administrative Operations
+FU-00294,TR-00527,E0090,Receipt missing,2026-10-22,2026-10-29,Awaiting employee,,Administrative Operations
+FU-00295,TR-00546,E0223,Amount discrepancy,2026-10-15,2026-10-22,Resolved,2026-10-23,Administrative Operations
+FU-00296,TR-00565,E0356,Receipt missing,2026-11-22,2026-11-29,Open,,Administrative Operations
+FU-00297,TR-00584,E0489,Amount discrepancy,2026-11-15,2026-11-22,Requested,,Administrative Operations
+FU-00298,TR-00603,,Receipt missing,2026-11-08,2026-11-15,Awaiting employee,,Administrative Operations
+FU-00299,TR-00622,E0155,Amount discrepancy,2026-11-01,2026-11-08,Resolved,2026-11-09,Administrative Operations
+FU-00300,TR-00641,E0288,Receipt missing,2026-10-25,2026-11-01,Open,,Administrative Operations
+FU-00301,TR-00660,E0421,Amount discrepancy,2026-10-18,2026-10-25,Requested,,Administrative Operations
+FU-00302,TR-00679,E0554,Receipt missing,2026-10-11,2026-10-18,Awaiting employee,,Administrative Operations
+FU-00303,TR-00698,E0087,Amount discrepancy,2026-11-18,2026-11-25,Resolved,2026-11-26,Administrative Operations
+FU-00304,TR-00717,E0220,Receipt missing,2026-11-11,2026-11-18,Open,,Administrative Operations
+FU-00305,TR-00736,E0353,Amount discrepancy,2026-11-04,2026-11-11,Requested,,Administrative Operations
+FU-00306,TR-00755,E0486,Receipt missing,2026-10-28,2026-11-04,Awaiting employee,,Administrative Operations
+FU-00307,TR-00774,E0019,Amount discrepancy,2026-10-21,2026-10-28,Resolved,2026-10-29,Administrative Operations
+FU-00308,TR-00793,E0152,Receipt missing,2026-10-14,2026-10-21,Open,,Administrative Operations
+FU-00309,TR-00812,E0285,Amount discrepancy,2026-11-21,2026-11-28,Requested,,Administrative Operations
+FU-00310,TR-00831,E0418,Receipt missing,2026-11-14,2026-11-21,Awaiting employee,,Administrative Operations
+FU-00311,TR-00850,E0551,Amount discrepancy,2026-11-07,2026-11-14,Resolved,2026-11-15,Administrative Operations
+FU-00312,TR-00869,E0084,Receipt missing,2026-10-31,2026-11-07,Open,,Administrative Operations
+FU-00313,TR-00888,E0217,Amount discrepancy,2026-10-24,2026-10-31,Requested,,Administrative Operations
+FU-00314,TR-00907,E0350,Receipt missing,2026-10-17,2026-10-24,Awaiting employee,,Administrative Operations
+FU-00315,TR-00926,E0483,Amount discrepancy,2026-11-24,2026-12-01,Resolved,2026-12-02,Administrative Operations
+FU-00316,TR-00945,E0016,Receipt missing,2026-11-17,2026-11-24,Open,,Administrative Operations
+FU-00317,TR-00964,E0149,Amount discrepancy,2026-11-10,2026-11-17,Requested,,Administrative Operations
+FU-00318,TR-00983,E0282,Receipt missing,2026-11-03,2026-11-10,Awaiting employee,,Administrative Operations
+FU-00319,TR-DUP-002,E0108,Amount discrepancy,2026-10-27,2026-11-03,Resolved,2026-11-04,Administrative Operations
+FU-00320,TR-00009,E0064,Receipt missing,2026-10-20,2026-10-27,Open,,Administrative Operations
+FU-00321,TR-00028,E0197,Amount discrepancy,2026-10-13,2026-10-20,Requested,,Administrative Operations
+FU-00322,TR-00047,E0330,Receipt missing,2026-11-20,2026-11-27,Awaiting employee,,Administrative Operations
+FU-00323,TR-00066,E0463,Amount discrepancy,2026-11-13,2026-11-20,Resolved,2026-11-21,Administrative Operations
+FU-00324,TR-00085,E0596,Receipt missing,2026-11-06,2026-11-13,Open,,Administrative Operations
+FU-00325,TR-00104,E0129,Amount discrepancy,2026-10-30,2026-11-06,Requested,,Administrative Operations
+FU-00326,TR-00123,E0262,Receipt missing,2026-10-23,2026-10-30,Awaiting employee,,Administrative Operations
+FU-00327,TR-00142,E0395,Amount discrepancy,2026-10-16,2026-10-23,Resolved,2026-10-24,Administrative Operations
+FU-00328,TR-00161,E0528,Receipt missing,2026-11-23,2026-11-30,Open,,Administrative Operations
+FU-00329,TR-00180,E0061,Amount discrepancy,2026-11-16,2026-11-23,Requested,,Administrative Operations
+FU-00330,TR-00199,E0194,Receipt missing,2026-11-09,2026-11-16,Awaiting employee,,Administrative Operations
+FU-00331,TR-00218,E0327,Amount discrepancy,2026-11-02,2026-11-09,Resolved,2026-11-10,Administrative Operations
+FU-00332,TR-00237,E0460,Receipt missing,2026-10-26,2026-11-02,Open,,Administrative Operations
+FU-00333,TR-00256,E0593,Amount discrepancy,2026-10-19,2026-10-26,Requested,,Administrative Operations
+FU-00334,TR-00275,E0126,Receipt missing,2026-10-12,2026-10-19,Awaiting employee,,Administrative Operations
+FU-00335,TR-00294,E0259,Amount discrepancy,2026-11-19,2026-11-26,Resolved,2026-11-27,Administrative Operations
+FU-00336,TR-00313,E0392,Receipt missing,2026-11-12,2026-11-19,Open,,Administrative Operations
+FU-00337,TR-00332,E0525,Amount discrepancy,2026-11-05,2026-11-12,Requested,,Administrative Operations
+FU-00338,TR-00351,E0058,Receipt missing,2026-10-29,2026-11-05,Awaiting employee,,Administrative Operations
+FU-00339,TR-00370,E0191,Amount discrepancy,2026-10-22,2026-10-29,Resolved,2026-10-30,Administrative Operations
+FU-00340,TR-00389,E0324,Receipt missing,2026-10-15,2026-10-22,Open,,Administrative Operations
+FU-00341,TR-00408,E0457,Amount discrepancy,2026-11-22,2026-11-29,Requested,,Administrative Operations
+FU-00342,TR-00427,E0590,Receipt missing,2026-11-15,2026-11-22,Awaiting employee,,Administrative Operations
+FU-00343,TR-00446,E0123,Amount discrepancy,2026-11-08,2026-11-15,Resolved,2026-11-16,Administrative Operations
+FU-00344,TR-00465,E0256,Receipt missing,2026-11-01,2026-11-08,Open,,Administrative Operations
+FU-00345,TR-00484,E0389,Amount discrepancy,2026-10-25,2026-11-01,Requested,,Administrative Operations
+FU-00346,TR-00503,E0522,Receipt missing,2026-10-18,2026-10-25,Awaiting employee,,Administrative Operations
+FU-00347,TR-00522,E0055,Amount discrepancy,2026-10-11,2026-10-18,Resolved,2026-10-19,Administrative Operations
+FU-00348,TR-00541,E0188,Receipt missing,2026-11-18,2026-11-25,Open,,Administrative Operations
+FU-00349,TR-00560,E0321,Amount discrepancy,2026-11-11,2026-11-18,Requested,,Administrative Operations
+FU-00350,TR-00579,E0454,Receipt missing,2026-11-04,2026-11-11,Awaiting employee,,Administrative Operations
+FU-00351,TR-00598,E0587,Amount discrepancy,2026-10-28,2026-11-04,Resolved,2026-11-05,Administrative Operations
+FU-00352,TR-00617,E0120,Receipt missing,2026-10-21,2026-10-28,Open,,Administrative Operations
+FU-00353,TR-00636,E0253,Amount discrepancy,2026-10-14,2026-10-21,Requested,,Administrative Operations
+FU-00354,TR-00655,E0386,Receipt missing,2026-11-21,2026-11-28,Awaiting employee,,Administrative Operations
+FU-00355,TR-00674,E0519,Amount discrepancy,2026-11-14,2026-11-21,Resolved,2026-11-22,Administrative Operations
+FU-00356,TR-00693,E0052,Receipt missing,2026-11-07,2026-11-14,Open,,Administrative Operations
+FU-00357,TR-00712,E0185,Amount discrepancy,2026-10-31,2026-11-07,Requested,,Administrative Operations
+FU-00358,TR-00731,E0318,Receipt missing,2026-10-24,2026-10-31,Awaiting employee,,Administrative Operations
+FU-00359,TR-00750,E0451,Amount discrepancy,2026-10-17,2026-10-24,Resolved,2026-10-25,Administrative Operations
+FU-00360,TR-00769,E0584,Receipt missing,2026-11-24,2026-12-01,Open,,Administrative Operations
+FU-00361,TR-00788,E0117,Amount discrepancy,2026-11-17,2026-11-24,Requested,,Administrative Operations
+FU-00362,TR-00807,E0250,Receipt missing,2026-11-10,2026-11-17,Awaiting employee,,Administrative Operations
+FU-00363,TR-00826,E0383,Amount discrepancy,2026-11-03,2026-11-10,Resolved,2026-11-11,Administrative Operations
+FU-00364,TR-00845,E0516,Receipt missing,2026-10-27,2026-11-03,Open,,Administrative Operations
+FU-00365,TR-00864,E0049,Amount discrepancy,2026-10-20,2026-10-27,Requested,,Administrative Operations
+FU-00366,TR-00883,E0182,Receipt missing,2026-10-13,2026-10-20,Awaiting employee,,Administrative Operations
+FU-00367,TR-00902,E0315,Amount discrepancy,2026-11-20,2026-11-27,Resolved,2026-11-28,Administrative Operations
+FU-00368,TR-00921,E0448,Receipt missing,2026-11-13,2026-11-20,Open,,Administrative Operations
+FU-00369,TR-00940,E0581,Amount discrepancy,2026-11-06,2026-11-13,Requested,,Administrative Operations
+FU-00370,TR-00959,E0114,Receipt missing,2026-10-30,2026-11-06,Awaiting employee,,Administrative Operations
+FU-00371,TR-00978,E0247,Amount discrepancy,2026-10-23,2026-10-30,Resolved,2026-10-31,Administrative Operations
+FU-00372,TR-00997,E0380,Receipt missing,2026-10-16,2026-10-23,Open,,Administrative Operations
+FU-00373,TR-00004,E0029,Amount discrepancy,2026-11-23,2026-11-30,Requested,,Administrative Operations
+FU-00374,TR-00023,E0162,Receipt missing,2026-11-16,2026-11-23,Awaiting employee,,Administrative Operations
+FU-00375,TR-00042,E0295,Amount discrepancy,2026-11-09,2026-11-16,Resolved,2026-11-17,Administrative Operations
+FU-00376,TR-00061,E0428,Receipt missing,2026-11-02,2026-11-09,Open,,Administrative Operations
+FU-00377,TR-00080,E0561,Amount discrepancy,2026-10-26,2026-11-02,Requested,,Administrative Operations
+FU-00378,TR-00099,E0094,Receipt missing,2026-10-19,2026-10-26,Awaiting employee,,Administrative Operations
+FU-00379,TR-00118,E0227,Amount discrepancy,2026-10-12,2026-10-19,Resolved,2026-10-20,Administrative Operations
+FU-00380,TR-00137,E0360,Receipt missing,2026-11-19,2026-11-26,Open,,Administrative Operations
+FU-00381,TR-00156,E0493,Amount discrepancy,2026-11-12,2026-11-19,Requested,,Administrative Operations
+FU-00382,TR-00175,E0026,Receipt missing,2026-11-05,2026-11-12,Awaiting employee,,Administrative Operations
+FU-00383,TR-00194,E0159,Amount discrepancy,2026-10-29,2026-11-05,Resolved,2026-11-06,Administrative Operations
+FU-00384,TR-00213,E0292,Receipt missing,2026-10-22,2026-10-29,Open,,Administrative Operations
+FU-00385,TR-00232,E0425,Amount discrepancy,2026-10-15,2026-10-22,Requested,,Administrative Operations
+FU-00386,TR-00251,E0558,Receipt missing,2026-11-22,2026-11-29,Awaiting employee,,Administrative Operations
+FU-00387,TR-00270,E0091,Amount discrepancy,2026-11-15,2026-11-22,Resolved,2026-11-23,Administrative Operations
+FU-00388,TR-00289,E0224,Receipt missing,2026-11-08,2026-11-15,Open,,Administrative Operations
+FU-00389,TR-00308,E0357,Amount discrepancy,2026-11-01,2026-11-08,Requested,,Administrative Operations
+FU-00390,TR-00327,E0490,Receipt missing,2026-10-25,2026-11-01,Awaiting employee,,Administrative Operations
+FU-00391,TR-00346,E0023,Amount discrepancy,2026-10-18,2026-10-25,Resolved,2026-10-26,Administrative Operations
+FU-00392,TR-00365,E0156,Receipt missing,2026-10-11,2026-10-18,Open,,Administrative Operations
+FU-00393,TR-00384,E0289,Amount discrepancy,2026-11-18,2026-11-25,Requested,,Administrative Operations
+FU-00394,TR-00403,E0422,Receipt missing,2026-11-11,2026-11-18,Awaiting employee,,Administrative Operations
+FU-00395,TR-00422,E0555,Amount discrepancy,2026-11-04,2026-11-11,Resolved,2026-11-12,Administrative Operations
+FU-00396,TR-00441,E0088,Receipt missing,2026-10-28,2026-11-04,Open,,Administrative Operations
+FU-00397,TR-00460,E0221,Amount discrepancy,2026-10-21,2026-10-28,Requested,,Administrative Operations
+FU-00398,TR-00479,E0354,Receipt missing,2026-10-14,2026-10-21,Awaiting employee,,Administrative Operations
+FU-00399,TR-00498,E0487,Amount discrepancy,2026-11-21,2026-11-28,Resolved,2026-11-29,Administrative Operations
+FU-00400,TR-00517,E0020,Receipt missing,2026-11-14,2026-11-21,Open,,Administrative Operations
+FU-00401,TR-00536,,Amount discrepancy,2026-11-07,2026-11-14,Requested,,Administrative Operations
+FU-00402,TR-00555,E0286,Receipt missing,2026-10-31,2026-11-07,Awaiting employee,,Administrative Operations
+FU-00403,TR-00574,E0419,Amount discrepancy,2026-10-24,2026-10-31,Resolved,2026-11-01,Administrative Operations
+FU-00404,TR-00593,E0552,Receipt missing,2026-10-17,2026-10-24,Open,,Administrative Operations
+FU-00405,TR-00612,E0085,Amount discrepancy,2026-11-24,2026-12-01,Requested,,Administrative Operations
+FU-00406,TR-00631,E0218,Receipt missing,2026-11-17,2026-11-24,Awaiting employee,,Administrative Operations
+FU-00407,TR-00650,E0351,Amount discrepancy,2026-11-10,2026-11-17,Resolved,2026-11-18,Administrative Operations
+FU-00408,TR-00669,E0484,Receipt missing,2026-11-03,2026-11-10,Open,,Administrative Operations
+FU-00409,TR-00688,E0017,Amount discrepancy,2026-10-27,2026-11-03,Requested,,Administrative Operations
+FU-00410,TR-00707,E0150,Receipt missing,2026-10-20,2026-10-27,Awaiting employee,,Administrative Operations
+FU-00411,TR-00726,E0283,Amount discrepancy,2026-10-13,2026-10-20,Resolved,2026-10-21,Administrative Operations
+FU-00412,TR-00745,E0416,Receipt missing,2026-11-20,2026-11-27,Open,,Administrative Operations
+FU-00413,TR-00764,E0549,Amount discrepancy,2026-11-13,2026-11-20,Requested,,Administrative Operations
+FU-00414,TR-00783,E0082,Receipt missing,2026-11-06,2026-11-13,Awaiting employee,,Administrative Operations
+FU-00415,TR-00802,E0215,Amount discrepancy,2026-10-30,2026-11-06,Resolved,2026-11-07,Administrative Operations
+FU-00416,TR-00821,E0348,Receipt missing,2026-10-23,2026-10-30,Open,,Administrative Operations
+FU-00417,TR-00840,E0481,Amount discrepancy,2026-10-16,2026-10-23,Requested,,Administrative Operations
+FU-00418,TR-00859,E0014,Receipt missing,2026-11-23,2026-11-30,Awaiting employee,,Administrative Operations
+FU-00419,TR-00878,E0147,Amount discrepancy,2026-11-16,2026-11-23,Resolved,2026-11-24,Administrative Operations
+FU-00420,TR-00897,E0280,Receipt missing,2026-11-09,2026-11-16,Open,,Administrative Operations
+FU-00421,TR-00916,E0413,Amount discrepancy,2026-11-02,2026-11-09,Requested,,Administrative Operations
+FU-00422,TR-00935,E0546,Receipt missing,2026-10-26,2026-11-02,Awaiting employee,,Administrative Operations
+FU-00423,TR-00954,E0079,Amount discrepancy,2026-10-19,2026-10-26,Resolved,2026-10-27,Administrative Operations
+FU-00424,TR-00973,E0212,Receipt missing,2026-10-12,2026-10-19,Open,,Administrative Operations
+FU-00425,TR-00992,E0345,Amount discrepancy,2026-11-19,2026-11-26,Requested,,Administrative Operations
+FU-00426,TR-DUP-011,E0171,Receipt missing,2026-11-12,2026-11-19,Awaiting employee,,Administrative Operations
+FU-00427,TR-00018,E0127,Amount discrepancy,2026-11-05,2026-11-12,Resolved,2026-11-13,Administrative Operations
+FU-00428,TR-00037,E0260,Receipt missing,2026-10-29,2026-11-05,Open,,Administrative Operations
+FU-00429,TR-00056,E0393,Amount discrepancy,2026-10-22,2026-10-29,Requested,,Administrative Operations
+FU-00430,TR-00075,E0526,Receipt missing,2026-10-15,2026-10-22,Awaiting employee,,Administrative Operations
+FU-00431,TR-00094,E0059,Amount discrepancy,2026-11-22,2026-11-29,Resolved,2026-11-30,Administrative Operations
+FU-00432,TR-00113,E0192,Receipt missing,2026-11-15,2026-11-22,Open,,Administrative Operations
+FU-00433,TR-00132,E0325,Amount discrepancy,2026-11-08,2026-11-15,Requested,,Administrative Operations
+FU-00434,TR-00151,E0458,Receipt missing,2026-11-01,2026-11-08,Awaiting employee,,Administrative Operations
+FU-00435,TR-00170,E0591,Amount discrepancy,2026-10-25,2026-11-01,Resolved,2026-11-02,Administrative Operations
+FU-00436,TR-00189,E0124,Receipt missing,2026-10-18,2026-10-25,Open,,Administrative Operations
+FU-00437,TR-00208,E0257,Amount discrepancy,2026-10-11,2026-10-18,Requested,,Administrative Operations
+FU-00438,TR-00227,E0390,Receipt missing,2026-11-18,2026-11-25,Awaiting employee,,Administrative Operations
+FU-00439,TR-00246,E0523,Amount discrepancy,2026-11-11,2026-11-18,Resolved,2026-11-19,Administrative Operations
+FU-00440,TR-00265,E0056,Receipt missing,2026-11-04,2026-11-11,Open,,Administrative Operations
+FU-00441,TR-00284,E0189,Amount discrepancy,2026-10-28,2026-11-04,Requested,,Administrative Operations
+FU-00442,TR-00303,E0322,Receipt missing,2026-10-21,2026-10-28,Awaiting employee,,Administrative Operations
+FU-00443,TR-00322,E0455,Amount discrepancy,2026-10-14,2026-10-21,Resolved,2026-10-22,Administrative Operations
+FU-00444,TR-00341,E0588,Receipt missing,2026-11-21,2026-11-28,Open,,Administrative Operations
+FU-00445,TR-00360,E0121,Amount discrepancy,2026-11-14,2026-11-21,Requested,,Administrative Operations
+FU-00446,TR-00379,E0254,Receipt missing,2026-11-07,2026-11-14,Awaiting employee,,Administrative Operations
+FU-00447,TR-00398,E0387,Amount discrepancy,2026-10-31,2026-11-07,Resolved,2026-11-08,Administrative Operations
+FU-00448,TR-00417,E0520,Receipt missing,2026-10-24,2026-10-31,Open,,Administrative Operations
+FU-00449,TR-00436,E0053,Amount discrepancy,2026-10-17,2026-10-24,Requested,,Administrative Operations
+FU-00450,TR-00455,E0186,Receipt missing,2026-11-24,2026-12-01,Awaiting employee,,Administrative Operations
+FU-00451,TR-00474,E0319,Amount discrepancy,2026-11-17,2026-11-24,Resolved,2026-11-25,Administrative Operations
+FU-00452,TR-00493,E0452,Receipt missing,2026-11-10,2026-11-17,Open,,Administrative Operations
+FU-00453,TR-00512,E0585,Amount discrepancy,2026-11-03,2026-11-10,Requested,,Administrative Operations
+FU-00454,TR-00531,E0118,Receipt missing,2026-10-27,2026-11-03,Awaiting employee,,Administrative Operations
+FU-00455,TR-00550,E0251,Amount discrepancy,2026-10-20,2026-10-27,Resolved,2026-10-28,Administrative Operations
+FU-00456,TR-00569,E0384,Receipt missing,2026-10-13,2026-10-20,Open,,Administrative Operations
+FU-00457,TR-00588,E0517,Amount discrepancy,2026-11-20,2026-11-27,Requested,,Administrative Operations
+FU-00458,TR-00607,E0050,Receipt missing,2026-11-13,2026-11-20,Awaiting employee,,Administrative Operations
+FU-00459,TR-00626,E0183,Amount discrepancy,2026-11-06,2026-11-13,Resolved,2026-11-14,Administrative Operations
+FU-00460,TR-00645,E0316,Receipt missing,2026-10-30,2026-11-06,Open,,Administrative Operations
+FU-00461,TR-00664,E0449,Amount discrepancy,2026-10-23,2026-10-30,Requested,,Administrative Operations
+FU-00462,TR-00683,E0582,Receipt missing,2026-10-16,2026-10-23,Awaiting employee,,Administrative Operations
+FU-00463,TR-00702,E0115,Amount discrepancy,2026-11-23,2026-11-30,Resolved,2026-12-01,Administrative Operations
+FU-00464,TR-00721,E0248,Receipt missing,2026-11-16,2026-11-23,Open,,Administrative Operations
+FU-00465,TR-00740,E0381,Amount discrepancy,2026-11-09,2026-11-16,Requested,,Administrative Operations
+FU-00466,TR-00759,E0514,Receipt missing,2026-11-02,2026-11-09,Awaiting employee,,Administrative Operations
+FU-00467,TR-00778,E0047,Amount discrepancy,2026-10-26,2026-11-02,Resolved,2026-11-03,Administrative Operations
+FU-00468,TR-00797,E0180,Receipt missing,2026-10-19,2026-10-26,Open,,Administrative Operations
+FU-00469,TR-00816,E0313,Amount discrepancy,2026-10-12,2026-10-19,Requested,,Administrative Operations
+FU-00470,TR-00835,E0446,Receipt missing,2026-11-19,2026-11-26,Awaiting employee,,Administrative Operations
+FU-00471,TR-00854,E0579,Amount discrepancy,2026-11-12,2026-11-19,Resolved,2026-11-20,Administrative Operations
+FU-00472,TR-00873,E0112,Receipt missing,2026-11-05,2026-11-12,Open,,Administrative Operations
+FU-00473,TR-00892,E0245,Amount discrepancy,2026-10-29,2026-11-05,Requested,,Administrative Operations
+FU-00474,TR-00911,E0378,Receipt missing,2026-10-22,2026-10-29,Awaiting employee,,Administrative Operations
+FU-00475,TR-00930,E0511,Amount discrepancy,2026-10-15,2026-10-22,Resolved,2026-10-23,Administrative Operations
+FU-00476,TR-00949,E0044,Receipt missing,2026-11-22,2026-11-29,Open,,Administrative Operations
+FU-00477,TR-00968,E0177,Amount discrepancy,2026-11-15,2026-11-22,Requested,,Administrative Operations
+FU-00478,TR-00987,E0310,Receipt missing,2026-11-08,2026-11-15,Awaiting employee,,Administrative Operations
+FU-00479,TR-DUP-006,E0136,Amount discrepancy,2026-11-01,2026-11-08,Resolved,2026-11-09,Administrative Operations
+FU-00480,TR-00013,E0092,Receipt missing,2026-10-25,2026-11-01,Open,,Administrative Operations
+FU-00481,TR-00032,E0225,Amount discrepancy,2026-10-18,2026-10-25,Requested,,Administrative Operations
+FU-00482,TR-00051,E0358,Receipt missing,2026-10-11,2026-10-18,Awaiting employee,,Administrative Operations
+FU-00483,TR-00070,E0491,Amount discrepancy,2026-11-18,2026-11-25,Resolved,2026-11-26,Administrative Operations
+FU-00484,TR-00089,E0024,Receipt missing,2026-11-11,2026-11-18,Open,,Administrative Operations
+FU-00485,TR-00108,E0157,Amount discrepancy,2026-11-04,2026-11-11,Requested,,Administrative Operations
+FU-00486,TR-00127,E0290,Receipt missing,2026-10-28,2026-11-04,Awaiting employee,,Administrative Operations
+FU-00487,TR-00146,E0423,Amount discrepancy,2026-10-21,2026-10-28,Resolved,2026-10-29,Administrative Operations
+FU-00488,TR-00165,E0556,Receipt missing,2026-10-14,2026-10-21,Open,,Administrative Operations
+FU-00489,TR-00184,E0089,Amount discrepancy,2026-11-21,2026-11-28,Requested,,Administrative Operations
+FU-00490,TR-00203,E0222,Receipt missing,2026-11-14,2026-11-21,Awaiting employee,,Administrative Operations
+FU-00491,TR-00222,E0355,Amount discrepancy,2026-11-07,2026-11-14,Resolved,2026-11-15,Administrative Operations
+FU-00492,TR-00241,E0488,Receipt missing,2026-10-31,2026-11-07,Open,,Administrative Operations
+FU-00493,TR-00260,E0021,Amount discrepancy,2026-10-24,2026-10-31,Requested,,Administrative Operations
+FU-00494,TR-00279,E0154,Receipt missing,2026-10-17,2026-10-24,Awaiting employee,,Administrative Operations
+FU-00495,TR-00298,E0287,Amount discrepancy,2026-11-24,2026-12-01,Resolved,2026-12-02,Administrative Operations
+FU-00496,TR-00317,E0420,Receipt missing,2026-11-17,2026-11-24,Open,,Administrative Operations
+FU-00497,TR-00336,E0553,Amount discrepancy,2026-11-10,2026-11-17,Requested,,Administrative Operations
+FU-00498,TR-00355,E0086,Receipt missing,2026-11-03,2026-11-10,Awaiting employee,,Administrative Operations
+FU-00499,TR-00374,E0219,Amount discrepancy,2026-10-27,2026-11-03,Resolved,2026-11-04,Administrative Operations
+FU-00500,TR-00393,E0352,Receipt missing,2026-10-20,2026-10-27,Open,,Administrative Operations
+FU-00501,TR-00412,E0485,Amount discrepancy,2026-10-13,2026-10-20,Requested,,Administrative Operations
+FU-00502,TR-00431,E0018,Receipt missing,2026-11-20,2026-11-27,Awaiting employee,,Administrative Operations
+FU-00503,TR-00450,E0151,Amount discrepancy,2026-11-13,2026-11-20,Resolved,2026-11-21,Administrative Operations
+FU-00504,TR-00469,,Receipt missing,2026-11-06,2026-11-13,Open,,Administrative Operations
+FU-00505,TR-00488,E0417,Amount discrepancy,2026-10-30,2026-11-06,Requested,,Administrative Operations
+FU-00506,TR-00507,E0550,Receipt missing,2026-10-23,2026-10-30,Awaiting employee,,Administrative Operations
+FU-00507,TR-00526,E0083,Amount discrepancy,2026-10-16,2026-10-23,Resolved,2026-10-24,Administrative Operations
+FU-00508,TR-00545,E0216,Receipt missing,2026-11-23,2026-11-30,Open,,Administrative Operations
+FU-00509,TR-00564,E0349,Amount discrepancy,2026-11-16,2026-11-23,Requested,,Administrative Operations
+FU-00510,TR-00583,E0482,Receipt missing,2026-11-09,2026-11-16,Awaiting employee,,Administrative Operations
+FU-00511,TR-00602,E0015,Amount discrepancy,2026-11-02,2026-11-09,Resolved,2026-11-10,Administrative Operations
+FU-00512,TR-00621,E0148,Receipt missing,2026-10-26,2026-11-02,Open,,Administrative Operations
+FU-00513,TR-00640,E0281,Amount discrepancy,2026-10-19,2026-10-26,Requested,,Administrative Operations
+FU-00514,TR-00659,E0414,Receipt missing,2026-10-12,2026-10-19,Awaiting employee,,Administrative Operations
+FU-00515,TR-00678,E0547,Amount discrepancy,2026-11-19,2026-11-26,Resolved,2026-11-27,Administrative Operations
+FU-00516,TR-00697,E0080,Receipt missing,2026-11-12,2026-11-19,Open,,Administrative Operations
+FU-00517,TR-00716,E0213,Amount discrepancy,2026-11-05,2026-11-12,Requested,,Administrative Operations
+FU-00518,TR-00735,E0346,Receipt missing,2026-10-29,2026-11-05,Awaiting employee,,Administrative Operations
+FU-00519,TR-00754,E0479,Amount discrepancy,2026-10-22,2026-10-29,Resolved,2026-10-30,Administrative Operations
+FU-00520,TR-00773,E0012,Receipt missing,2026-10-15,2026-10-22,Open,,Administrative Operations
+FU-00521,TR-00792,E0145,Amount discrepancy,2026-11-22,2026-11-29,Requested,,Administrative Operations
+FU-00522,TR-00811,E0278,Receipt missing,2026-11-15,2026-11-22,Awaiting employee,,Administrative Operations
+FU-00523,TR-00830,E0411,Amount discrepancy,2026-11-08,2026-11-15,Resolved,2026-11-16,Administrative Operations
+FU-00524,TR-00849,E0544,Receipt missing,2026-11-01,2026-11-08,Open,,Administrative Operations
+FU-00525,TR-00868,E0077,Amount discrepancy,2026-10-25,2026-11-01,Requested,,Administrative Operations
+FU-00526,TR-00887,E0210,Receipt missing,2026-10-18,2026-10-25,Awaiting employee,,Administrative Operations
+FU-00527,TR-00906,E0343,Amount discrepancy,2026-10-11,2026-10-18,Resolved,2026-10-19,Administrative Operations
+FU-00528,TR-00925,E0476,Receipt missing,2026-11-18,2026-11-25,Open,,Administrative Operations
+FU-00529,TR-00944,E0009,Amount discrepancy,2026-11-11,2026-11-18,Requested,,Administrative Operations
+FU-00530,TR-00963,E0142,Receipt missing,2026-11-04,2026-11-11,Awaiting employee,,Administrative Operations
+FU-00531,TR-00982,E0275,Amount discrepancy,2026-10-28,2026-11-04,Resolved,2026-11-05,Administrative Operations
+FU-00532,TR-DUP-001,E0101,Receipt missing,2026-10-21,2026-10-28,Open,,Administrative Operations
+FU-00533,TR-00008,E0057,Amount discrepancy,2026-10-14,2026-10-21,Requested,,Administrative Operations
+FU-00534,TR-00027,E0190,Receipt missing,2026-11-21,2026-11-28,Awaiting employee,,Administrative Operations
+FU-00535,TR-00046,E0323,Amount discrepancy,2026-11-14,2026-11-21,Resolved,2026-11-22,Administrative Operations
+FU-00536,TR-00065,E0456,Receipt missing,2026-11-07,2026-11-14,Open,,Administrative Operations
+FU-00537,TR-00084,E0589,Amount discrepancy,2026-10-31,2026-11-07,Requested,,Administrative Operations
+FU-00538,TR-00103,E0122,Receipt missing,2026-10-24,2026-10-31,Awaiting employee,,Administrative Operations
+FU-00539,TR-00122,E0255,Amount discrepancy,2026-10-17,2026-10-24,Resolved,2026-10-25,Administrative Operations
+FU-00540,TR-00141,E0388,Receipt missing,2026-11-24,2026-12-01,Open,,Administrative Operations
+FU-00541,TR-00160,E0521,Amount discrepancy,2026-11-17,2026-11-24,Requested,,Administrative Operations
+FU-00542,TR-00179,E0054,Receipt missing,2026-11-10,2026-11-17,Awaiting employee,,Administrative Operations
+FU-00543,TR-00198,E0187,Amount discrepancy,2026-11-03,2026-11-10,Resolved,2026-11-11,Administrative Operations
+FU-00544,TR-00217,E0320,Receipt missing,2026-10-27,2026-11-03,Open,,Administrative Operations
+FU-00545,TR-00236,E0453,Amount discrepancy,2026-10-20,2026-10-27,Requested,,Administrative Operations
+FU-00546,TR-00255,E0586,Receipt missing,2026-10-13,2026-10-20,Awaiting employee,,Administrative Operations
+FU-00547,TR-00274,E0119,Amount discrepancy,2026-11-20,2026-11-27,Resolved,2026-11-28,Administrative Operations
+FU-00548,TR-00293,E0252,Receipt missing,2026-11-13,2026-11-20,Open,,Administrative Operations
+FU-00549,TR-00312,E0385,Amount discrepancy,2026-11-06,2026-11-13,Requested,,Administrative Operations
+FU-00550,TR-00331,E0518,Receipt missing,2026-10-30,2026-11-06,Awaiting employee,,Administrative Operations
+FU-00551,TR-00350,E0051,Amount discrepancy,2026-10-23,2026-10-30,Resolved,2026-10-31,Administrative Operations
+FU-00552,TR-00369,E0184,Receipt missing,2026-10-16,2026-10-23,Open,,Administrative Operations
+FU-00553,TR-00388,E0317,Amount discrepancy,2026-11-23,2026-11-30,Requested,,Administrative Operations
+FU-00554,TR-00407,E0450,Receipt missing,2026-11-16,2026-11-23,Awaiting employee,,Administrative Operations
+FU-00555,TR-00426,E0583,Amount discrepancy,2026-11-09,2026-11-16,Resolved,2026-11-17,Administrative Operations
+FU-00556,TR-00445,E0116,Receipt missing,2026-11-02,2026-11-09,Open,,Administrative Operations
+FU-00557,TR-00464,E0249,Amount discrepancy,2026-10-26,2026-11-02,Requested,,Administrative Operations
+FU-00558,TR-00483,E0382,Receipt missing,2026-10-19,2026-10-26,Awaiting employee,,Administrative Operations
+FU-00559,TR-00502,E0515,Amount discrepancy,2026-10-12,2026-10-19,Resolved,2026-10-20,Administrative Operations
+FU-00560,TR-00521,E0048,Receipt missing,2026-11-19,2026-11-26,Open,,Administrative Operations
+FU-00561,TR-00540,E0181,Amount discrepancy,2026-11-12,2026-11-19,Requested,,Administrative Operations
+FU-00562,TR-00559,E0314,Receipt missing,2026-11-05,2026-11-12,Awaiting employee,,Administrative Operations
+FU-00563,TR-00578,E0447,Amount discrepancy,2026-10-29,2026-11-05,Resolved,2026-11-06,Administrative Operations
+FU-00564,TR-00597,E0580,Receipt missing,2026-10-22,2026-10-29,Open,,Administrative Operations
+FU-00565,TR-00616,E0113,Amount discrepancy,2026-10-15,2026-10-22,Requested,,Administrative Operations
+FU-00566,TR-00635,E0246,Receipt missing,2026-11-22,2026-11-29,Awaiting employee,,Administrative Operations
+FU-00567,TR-00654,E0379,Amount discrepancy,2026-11-15,2026-11-22,Resolved,2026-11-23,Administrative Operations
+FU-00568,TR-00673,E0512,Receipt missing,2026-11-08,2026-11-15,Open,,Administrative Operations
+FU-00569,TR-00692,E0045,Amount discrepancy,2026-11-01,2026-11-08,Requested,,Administrative Operations
+FU-00570,TR-00711,E0178,Receipt missing,2026-10-25,2026-11-01,Awaiting employee,,Administrative Operations
+FU-00571,TR-00730,E0311,Amount discrepancy,2026-10-18,2026-10-25,Resolved,2026-10-26,Administrative Operations
+FU-00572,TR-00749,E0444,Receipt missing,2026-10-11,2026-10-18,Open,,Administrative Operations
+FU-00573,TR-00768,E0577,Amount discrepancy,2026-11-18,2026-11-25,Requested,,Administrative Operations
+FU-00574,TR-00787,E0110,Receipt missing,2026-11-11,2026-11-18,Awaiting employee,,Administrative Operations
+FU-00575,TR-00806,E0243,Amount discrepancy,2026-11-04,2026-11-11,Resolved,2026-11-12,Administrative Operations
+FU-00576,TR-00825,E0376,Receipt missing,2026-10-28,2026-11-04,Open,,Administrative Operations
+FU-00577,TR-00844,E0509,Amount discrepancy,2026-10-21,2026-10-28,Requested,,Administrative Operations
+FU-00578,TR-00863,E0042,Receipt missing,2026-10-14,2026-10-21,Awaiting employee,,Administrative Operations
+FU-00579,TR-00882,E0175,Amount discrepancy,2026-11-21,2026-11-28,Resolved,2026-11-29,Administrative Operations
+FU-00580,TR-00901,E0308,Receipt missing,2026-11-14,2026-11-21,Open,,Administrative Operations
+FU-00581,TR-00920,E0441,Amount discrepancy,2026-11-07,2026-11-14,Requested,,Administrative Operations
+FU-00582,TR-00939,E0574,Receipt missing,2026-10-31,2026-11-07,Awaiting employee,,Administrative Operations
+FU-00583,TR-00958,E0107,Amount discrepancy,2026-10-24,2026-10-31,Resolved,2026-11-01,Administrative Operations
+FU-00584,TR-00977,E0240,Receipt missing,2026-10-17,2026-10-24,Open,,Administrative Operations
+FU-00585,TR-00996,E0373,Amount discrepancy,2026-11-24,2026-12-01,Requested,,Administrative Operations
+FU-00586,TR-00003,E0022,Receipt missing,2026-11-17,2026-11-24,Awaiting employee,,Administrative Operations
+FU-00587,TR-00022,E0155,Amount discrepancy,2026-11-10,2026-11-17,Resolved,2026-11-18,Administrative Operations
+FU-00588,TR-00041,E0288,Receipt missing,2026-11-03,2026-11-10,Open,,Administrative Operations
+FU-00589,TR-00060,E0421,Amount discrepancy,2026-10-27,2026-11-03,Requested,,Administrative Operations
+FU-00590,TR-00079,E0554,Receipt missing,2026-10-20,2026-10-27,Awaiting employee,,Administrative Operations
+FU-00591,TR-00098,E0087,Amount discrepancy,2026-10-13,2026-10-20,Resolved,2026-10-21,Administrative Operations
+FU-00592,TR-00117,E0220,Receipt missing,2026-11-20,2026-11-27,Open,,Administrative Operations
+FU-00593,TR-00136,E0353,Amount discrepancy,2026-11-13,2026-11-20,Requested,,Administrative Operations
+FU-00594,TR-00155,E0486,Receipt missing,2026-11-06,2026-11-13,Awaiting employee,,Administrative Operations
+FU-00595,TR-00174,E0019,Amount discrepancy,2026-10-30,2026-11-06,Resolved,2026-11-07,Administrative Operations
+FU-00596,TR-00193,E0152,Receipt missing,2026-10-23,2026-10-30,Open,,Administrative Operations
+FU-00597,TR-00212,E0285,Amount discrepancy,2026-10-16,2026-10-23,Requested,,Administrative Operations
+FU-00598,TR-00231,E0418,Receipt missing,2026-11-23,2026-11-30,Awaiting employee,,Administrative Operations
+FU-00599,TR-00250,E0551,Amount discrepancy,2026-11-16,2026-11-23,Resolved,2026-11-24,Administrative Operations
+FU-00600,TR-00269,E0084,Receipt missing,2026-11-09,2026-11-16,Open,,Administrative Operations
+FU-00601,TR-00288,E0217,Amount discrepancy,2026-11-02,2026-11-09,Requested,,Administrative Operations
+FU-00602,TR-00307,E0350,Receipt missing,2026-10-26,2026-11-02,Awaiting employee,,Administrative Operations
+FU-00603,TR-00326,E0483,Amount discrepancy,2026-10-19,2026-10-26,Resolved,2026-10-27,Administrative Operations
+FU-00604,TR-00345,E0016,Receipt missing,2026-10-12,2026-10-19,Open,,Administrative Operations
+FU-00605,TR-00364,E0149,Amount discrepancy,2026-11-19,2026-11-26,Requested,,Administrative Operations
+FU-00606,TR-00383,E0282,Receipt missing,2026-11-12,2026-11-19,Awaiting employee,,Administrative Operations
+FU-00607,TR-00402,,Amount discrepancy,2026-11-05,2026-11-12,Resolved,2026-11-13,Administrative Operations
+FU-00608,TR-00421,E0548,Receipt missing,2026-10-29,2026-11-05,Open,,Administrative Operations
+FU-00609,TR-00440,E0081,Amount discrepancy,2026-10-22,2026-10-29,Requested,,Administrative Operations
+FU-00610,TR-00459,E0214,Receipt missing,2026-10-15,2026-10-22,Awaiting employee,,Administrative Operations
+FU-00611,TR-00478,E0347,Amount discrepancy,2026-11-22,2026-11-29,Resolved,2026-11-30,Administrative Operations
+FU-00612,TR-00497,E0480,Receipt missing,2026-11-15,2026-11-22,Open,,Administrative Operations
+FU-00613,TR-00516,E0013,Amount discrepancy,2026-11-08,2026-11-15,Requested,,Administrative Operations
+FU-00614,TR-00535,E0146,Receipt missing,2026-11-01,2026-11-08,Awaiting employee,,Administrative Operations
+FU-00615,TR-00554,E0279,Amount discrepancy,2026-10-25,2026-11-01,Resolved,2026-11-02,Administrative Operations
+FU-00616,TR-00573,E0412,Receipt missing,2026-10-18,2026-10-25,Open,,Administrative Operations
+FU-00617,TR-00592,E0545,Amount discrepancy,2026-10-11,2026-10-18,Requested,,Administrative Operations
+FU-00618,TR-00611,E0078,Receipt missing,2026-11-18,2026-11-25,Awaiting employee,,Administrative Operations
+FU-00619,TR-00630,E0211,Amount discrepancy,2026-11-11,2026-11-18,Resolved,2026-11-19,Administrative Operations
+FU-00620,TR-00649,E0344,Receipt missing,2026-11-04,2026-11-11,Open,,Administrative Operations
+FU-00621,TR-00668,E0477,Amount discrepancy,2026-10-28,2026-11-04,Requested,,Administrative Operations
+FU-00622,TR-00687,E0010,Receipt missing,2026-10-21,2026-10-28,Awaiting employee,,Administrative Operations
+FU-00623,TR-00706,E0143,Amount discrepancy,2026-10-14,2026-10-21,Resolved,2026-10-22,Administrative Operations
+FU-00624,TR-00725,E0276,Receipt missing,2026-11-21,2026-11-28,Open,,Administrative Operations
+FU-00625,TR-00744,E0409,Amount discrepancy,2026-11-14,2026-11-21,Requested,,Administrative Operations
+FU-00626,TR-00763,E0542,Receipt missing,2026-11-07,2026-11-14,Awaiting employee,,Administrative Operations
+FU-00627,TR-00782,E0075,Amount discrepancy,2026-10-31,2026-11-07,Resolved,2026-11-08,Administrative Operations
+FU-00628,TR-00801,E0208,Receipt missing,2026-10-24,2026-10-31,Open,,Administrative Operations
+FU-00629,TR-00820,E0341,Amount discrepancy,2026-10-17,2026-10-24,Requested,,Administrative Operations
+FU-00630,TR-00839,E0474,Receipt missing,2026-11-24,2026-12-01,Awaiting employee,,Administrative Operations
+FU-00631,TR-00858,E0007,Amount discrepancy,2026-11-17,2026-11-24,Resolved,2026-11-25,Administrative Operations
+FU-00632,TR-00877,E0140,Receipt missing,2026-11-10,2026-11-17,Open,,Administrative Operations
+FU-00633,TR-00896,E0273,Amount discrepancy,2026-11-03,2026-11-10,Requested,,Administrative Operations
+FU-00634,TR-00915,E0406,Receipt missing,2026-10-27,2026-11-03,Awaiting employee,,Administrative Operations
+FU-00635,TR-00934,E0539,Amount discrepancy,2026-10-20,2026-10-27,Resolved,2026-10-28,Administrative Operations
+FU-00636,TR-00953,E0072,Receipt missing,2026-10-13,2026-10-20,Open,,Administrative Operations
+FU-00637,TR-00972,E0205,Amount discrepancy,2026-11-20,2026-11-27,Requested,,Administrative Operations
+FU-00638,TR-00991,E0338,Receipt missing,2026-11-13,2026-11-20,Awaiting employee,,Administrative Operations
+FU-00639,TR-DUP-010,E0164,Amount discrepancy,2026-11-06,2026-11-13,Resolved,2026-11-14,Administrative Operations
+FU-00640,TR-00017,E0120,Receipt missing,2026-10-30,2026-11-06,Open,,Administrative Operations
+FU-00641,TR-00036,E0253,Amount discrepancy,2026-10-23,2026-10-30,Requested,,Administrative Operations
+FU-00642,TR-00055,E0386,Receipt missing,2026-10-16,2026-10-23,Awaiting employee,,Administrative Operations
+FU-00643,TR-00074,E0519,Amount discrepancy,2026-11-23,2026-11-30,Resolved,2026-12-01,Administrative Operations
+FU-00644,TR-00093,E0052,Receipt missing,2026-11-16,2026-11-23,Open,,Administrative Operations
+FU-00645,TR-00112,E0185,Amount discrepancy,2026-11-09,2026-11-16,Requested,,Administrative Operations
+FU-00646,TR-00131,E0318,Receipt missing,2026-11-02,2026-11-09,Awaiting employee,,Administrative Operations
+FU-00647,TR-00150,E0451,Amount discrepancy,2026-10-26,2026-11-02,Resolved,2026-11-03,Administrative Operations
+FU-00648,TR-00169,E0584,Receipt missing,2026-10-19,2026-10-26,Open,,Administrative Operations
+FU-00649,TR-00188,E0117,Amount discrepancy,2026-10-12,2026-10-19,Requested,,Administrative Operations
+FU-00650,TR-00207,E0250,Receipt missing,2026-11-19,2026-11-26,Awaiting employee,,Administrative Operations
+FU-00651,TR-00226,E0383,Amount discrepancy,2026-11-12,2026-11-19,Resolved,2026-11-20,Administrative Operations
+FU-00652,TR-00245,E0516,Receipt missing,2026-11-05,2026-11-12,Open,,Administrative Operations
+FU-00653,TR-00264,E0049,Amount discrepancy,2026-10-29,2026-11-05,Requested,,Administrative Operations
+FU-00654,TR-00283,E0182,Receipt missing,2026-10-22,2026-10-29,Awaiting employee,,Administrative Operations
+FU-00655,TR-00302,E0315,Amount discrepancy,2026-10-15,2026-10-22,Resolved,2026-10-23,Administrative Operations
+FU-00656,TR-00321,E0448,Receipt missing,2026-11-22,2026-11-29,Open,,Administrative Operations
+FU-00657,TR-00340,E0581,Amount discrepancy,2026-11-15,2026-11-22,Requested,,Administrative Operations
+FU-00658,TR-00359,E0114,Receipt missing,2026-11-08,2026-11-15,Awaiting employee,,Administrative Operations
+FU-00659,TR-00378,E0247,Amount discrepancy,2026-11-01,2026-11-08,Resolved,2026-11-09,Administrative Operations
+FU-00660,TR-00397,E0380,Receipt missing,2026-10-25,2026-11-01,Open,,Administrative Operations
+FU-00661,TR-00416,E0513,Amount discrepancy,2026-10-18,2026-10-25,Requested,,Administrative Operations
+FU-00662,TR-00435,E0046,Receipt missing,2026-10-11,2026-10-18,Awaiting employee,,Administrative Operations
+FU-00663,TR-00454,E0179,Amount discrepancy,2026-11-18,2026-11-25,Resolved,2026-11-26,Administrative Operations
+FU-00664,TR-00473,E0312,Receipt missing,2026-11-11,2026-11-18,Open,,Administrative Operations
+FU-00665,TR-00492,E0445,Amount discrepancy,2026-11-04,2026-11-11,Requested,,Administrative Operations
+FU-00666,TR-00511,E0578,Receipt missing,2026-10-28,2026-11-04,Awaiting employee,,Administrative Operations
+FU-00667,TR-00530,E0111,Amount discrepancy,2026-10-21,2026-10-28,Resolved,2026-10-29,Administrative Operations
+FU-00668,TR-00549,E0244,Receipt missing,2026-10-14,2026-10-21,Open,,Administrative Operations
+FU-00669,TR-00568,E0377,Amount discrepancy,2026-11-21,2026-11-28,Requested,,Administrative Operations
+FU-00670,TR-00587,E0510,Receipt missing,2026-11-14,2026-11-21,Awaiting employee,,Administrative Operations
+FU-00671,TR-00606,E0043,Amount discrepancy,2026-11-07,2026-11-14,Resolved,2026-11-15,Administrative Operations
+FU-00672,TR-00625,E0176,Receipt missing,2026-10-31,2026-11-07,Open,,Administrative Operations
+FU-00673,TR-00644,E0309,Amount discrepancy,2026-10-24,2026-10-31,Requested,,Administrative Operations
+FU-00674,TR-00663,E0442,Receipt missing,2026-10-17,2026-10-24,Awaiting employee,,Administrative Operations
+FU-00675,TR-00682,E0575,Amount discrepancy,2026-11-24,2026-12-01,Resolved,2026-12-02,Administrative Operations
+FU-00676,TR-00701,E0108,Receipt missing,2026-11-17,2026-11-24,Open,,Administrative Operations
+FU-00677,TR-00720,E0241,Amount discrepancy,2026-11-10,2026-11-17,Requested,,Administrative Operations
+FU-00678,TR-00739,E0374,Receipt missing,2026-11-03,2026-11-10,Awaiting employee,,Administrative Operations
+FU-00679,TR-00758,E0507,Amount discrepancy,2026-10-27,2026-11-03,Resolved,2026-11-04,Administrative Operations
+FU-00680,TR-00777,E0040,Receipt missing,2026-10-20,2026-10-27,Open,,Administrative Operations
+FU-00681,TR-00796,E0173,Amount discrepancy,2026-10-13,2026-10-20,Requested,,Administrative Operations
+FU-00682,TR-00815,E0306,Receipt missing,2026-11-20,2026-11-27,Awaiting employee,,Administrative Operations
+FU-00683,TR-00834,E0439,Amount discrepancy,2026-11-13,2026-11-20,Resolved,2026-11-21,Administrative Operations
+FU-00684,TR-00853,E0572,Receipt missing,2026-11-06,2026-11-13,Open,,Administrative Operations
+FU-00685,TR-00872,E0105,Amount discrepancy,2026-10-30,2026-11-06,Requested,,Administrative Operations
+FU-00686,TR-00891,E0238,Receipt missing,2026-10-23,2026-10-30,Awaiting employee,,Administrative Operations
+FU-00687,TR-00910,E0371,Amount discrepancy,2026-10-16,2026-10-23,Resolved,2026-10-24,Administrative Operations
+FU-00688,TR-00929,E0504,Receipt missing,2026-11-23,2026-11-30,Open,,Administrative Operations
+FU-00689,TR-00948,E0037,Amount discrepancy,2026-11-16,2026-11-23,Requested,,Administrative Operations
+FU-00690,TR-00967,E0170,Receipt missing,2026-11-09,2026-11-16,Awaiting employee,,Administrative Operations
+FU-00691,TR-00986,E0303,Amount discrepancy,2026-11-02,2026-11-09,Resolved,2026-11-10,Administrative Operations
+FU-00692,TR-DUP-005,E0129,Receipt missing,2026-10-26,2026-11-02,Open,,Administrative Operations
+FU-00693,TR-00012,E0085,Amount discrepancy,2026-10-19,2026-10-26,Requested,,Administrative Operations
+FU-00694,TR-00031,E0218,Receipt missing,2026-10-12,2026-10-19,Awaiting employee,,Administrative Operations
+FU-00695,TR-00050,E0351,Amount discrepancy,2026-11-19,2026-11-26,Resolved,2026-11-27,Administrative Operations
+FU-00696,TR-00069,E0484,Receipt missing,2026-11-12,2026-11-19,Open,,Administrative Operations
+FU-00697,TR-00088,E0017,Amount discrepancy,2026-11-05,2026-11-12,Requested,,Administrative Operations
+FU-00698,TR-00107,E0150,Receipt missing,2026-10-29,2026-11-05,Awaiting employee,,Administrative Operations
+FU-00699,TR-00126,E0283,Amount discrepancy,2026-10-22,2026-10-29,Resolved,2026-10-30,Administrative Operations
+FU-00700,TR-00145,E0416,Receipt missing,2026-10-15,2026-10-22,Open,,Administrative Operations

@@ -1,0 +1,601 @@
+﻿ProjectID,ProjectName,ProjectManager,CostCentre,Department,BudgetEUR,Status
+NX-0001,Customer delivery 001,Mia Neumann,CC-100,Engineering,605000.00,Active
+NX-0002,Platform modernization 002,Elias Braun,CC-101,Sales,190000.00,Active
+NX-0003,Network planning 003,Lina Zimmermann,CC-102,Customer Success,510000.00,Active
+NX-0004,Digital workplace 004,Theo Hartmann,CC-103,Operations,80000.00,Active
+NX-0005,Security uplift 005,Emma Kruger,CC-104,Finance,105000.00,Active
+NX-0006,Service transition 006,Luca Lange,CC-105,People,510000.00,Active
+NX-0007,Data migration 007,Nina Schmitt,CC-106,Product,585000.00,Active
+NX-0008,Field operations 008,Felix Werner,CC-107,IT,520000.00,Active
+NX-0009,Customer delivery 009,Sara Weber,CC-108,Engineering,165000.00,Active
+NX-0010,Platform modernization 010,Oskar Fischer,CC-109,Sales,640000.00,Active
+NX-0011,Network planning 011,Maya Schmidt,CC-110,Customer Success,465000.00,Active
+NX-0012,Digital workplace 012,Leon Meyer,CC-111,Operations,375000.00,Active
+NX-0013,Security uplift 013,Eva Wagner,CC-112,Finance,390000.00,Active
+NX-0014,Service transition 014,Finn Becker,CC-113,People,180000.00,Active
+NX-0015,Data migration 015,Ava Hoffmann,CC-114,Product,565000.00,Active
+NX-0016,Field operations 016,Milan Schulz,CC-115,IT,360000.00,Active
+NX-0017,Customer delivery 017,Sofia Koch,CC-116,Engineering,350000.00,Closed
+NX-0018,Platform modernization 018,Noah Richter,CC-117,Sales,575000.00,Active
+NX-0019,Network planning 019,Lea Klein,CC-118,Customer Success,615000.00,Active
+NX-0020,Digital workplace 020,Jonas Wolf,CC-119,Operations,440000.00,Active
+NX-0021,Security uplift 021,Mia Neumann,CC-120,Finance,235000.00,Active
+NX-0022,Service transition 022,Elias Braun,CC-121,People,125000.00,Active
+NX-0023,Data migration 023,Lina Zimmermann,CC-122,Product,590000.00,Active
+NX-0024,Field operations 024,Theo Hartmann,CC-123,IT,540000.00,Active
+NX-0025,Customer delivery 025,Emma Kruger,CC-124,Engineering,80000.00,Active
+NX-0026,Platform modernization 026,Luca Lange,CC-125,Sales,450000.00,Active
+NX-0027,Network planning 027,Nina Schmitt,CC-126,Customer Success,435000.00,Active
+NX-0028,Digital workplace 028,Felix Werner,CC-127,Operations,645000.00,Active
+NX-0029,Security uplift 029,Sara Weber,CC-128,Finance,115000.00,Active
+NX-0030,Service transition 030,Oskar Fischer,CC-129,People,170000.00,Active
+NX-0031,Data migration 031,Maya Schmidt,CC-130,Product,485000.00,Active
+NX-0032,Field operations 032,Leon Meyer,CC-131,IT,365000.00,Active
+NX-0033,Customer delivery 033,Eva Wagner,CC-132,Engineering,265000.00,Active
+NX-0034,Platform modernization 034,Finn Becker,CC-133,Sales,640000.00,Closed
+NX-0035,Network planning 035,Ava Hoffmann,CC-134,Customer Success,95000.00,Active
+NX-0036,Digital workplace 036,Milan Schulz,CC-135,Operations,560000.00,Active
+NX-0037,Security uplift 037,Sofia Koch,CC-136,Finance,585000.00,Active
+NX-0038,Service transition 038,Noah Richter,CC-137,People,530000.00,Active
+NX-0039,Data migration 039,Lea Klein,CC-138,Product,425000.00,Active
+NX-0040,Field operations 040,Jonas Wolf,CC-139,IT,305000.00,Active
+NX-0041,Customer delivery 041,Mia Neumann,CC-140,Engineering,455000.00,Active
+NX-0042,Platform modernization 042,Elias Braun,CC-141,Sales,240000.00,Active
+NX-0043,Network planning 043,Lina Zimmermann,CC-142,Customer Success,125000.00,Active
+NX-0044,Digital workplace 044,Theo Hartmann,CC-143,Operations,125000.00,Active
+NX-0045,Security uplift 045,Emma Kruger,CC-144,Finance,415000.00,Active
+NX-0046,Service transition 046,Luca Lange,CC-145,People,240000.00,Active
+NX-0047,Data migration 047,Nina Schmitt,CC-146,Product,610000.00,Active
+NX-0048,Field operations 048,Felix Werner,CC-147,IT,490000.00,Active
+NX-0049,Customer delivery 049,Sara Weber,CC-100,Engineering,180000.00,Active
+NX-0050,Platform modernization 050,Oskar Fischer,CC-101,Sales,365000.00,Active
+NX-0051,Network planning 051,Maya Schmidt,CC-102,Customer Success,430000.00,Closed
+NX-0052,Digital workplace 052,Leon Meyer,CC-103,Operations,550000.00,Active
+NX-0053,Security uplift 053,Eva Wagner,CC-104,Finance,285000.00,Active
+NX-0054,Service transition 054,Finn Becker,CC-105,People,225000.00,Active
+NX-0055,Data migration 055,Ava Hoffmann,CC-106,Product,585000.00,Active
+NX-0056,Field operations 056,Milan Schulz,CC-107,IT,245000.00,Active
+NX-0057,Customer delivery 057,Sofia Koch,CC-108,Engineering,455000.00,Active
+NX-0058,Platform modernization 058,Noah Richter,CC-109,Sales,510000.00,Active
+NX-0059,Network planning 059,Lea Klein,CC-110,Customer Success,245000.00,Active
+NX-0060,Digital workplace 060,Jonas Wolf,CC-111,Operations,250000.00,Active
+NX-0061,Security uplift 061,Mia Neumann,CC-112,Finance,310000.00,Active
+NX-0062,Service transition 062,Elias Braun,CC-113,People,595000.00,Active
+NX-0063,Data migration 063,Lina Zimmermann,CC-114,Product,445000.00,Active
+NX-0064,Field operations 064,Theo Hartmann,CC-115,IT,165000.00,Active
+NX-0065,Customer delivery 065,Emma Kruger,CC-116,Engineering,400000.00,Active
+NX-0066,Platform modernization 066,Luca Lange,CC-117,Sales,290000.00,Active
+NX-0067,Network planning 067,Nina Schmitt,CC-118,Customer Success,95000.00,Active
+NX-0068,Digital workplace 068,Felix Werner,CC-119,Operations,270000.00,Closed
+NX-0069,Security uplift 069,Sara Weber,CC-120,Finance,105000.00,Active
+NX-0070,Service transition 070,Oskar Fischer,CC-121,People,175000.00,Active
+NX-0071,Data migration 071,Maya Schmidt,CC-122,Product,95000.00,Active
+NX-0072,Field operations 072,Leon Meyer,CC-123,IT,260000.00,Active
+NX-0073,Customer delivery 073,Eva Wagner,CC-124,Engineering,410000.00,Active
+NX-0074,Platform modernization 074,Finn Becker,CC-125,Sales,575000.00,Active
+NX-0075,Network planning 075,Ava Hoffmann,CC-126,Customer Success,375000.00,Active
+NX-0076,Digital workplace 076,Milan Schulz,CC-127,Operations,580000.00,Active
+NX-0077,Security uplift 077,Sofia Koch,CC-128,Finance,335000.00,Active
+NX-0078,Service transition 078,Noah Richter,CC-129,People,385000.00,Active
+NX-0079,Data migration 079,Lea Klein,CC-130,Product,335000.00,Active
+NX-0080,Field operations 080,Jonas Wolf,CC-131,IT,550000.00,Active
+NX-0081,Customer delivery 081,Mia Neumann,CC-132,Engineering,465000.00,Active
+NX-0082,Platform modernization 082,Elias Braun,CC-133,Sales,405000.00,Active
+NX-0083,Network planning 083,Lina Zimmermann,CC-134,Customer Success,495000.00,Active
+NX-0084,Digital workplace 084,Theo Hartmann,CC-135,Operations,350000.00,Active
+NX-0085,Security uplift 085,Emma Kruger,CC-136,Finance,210000.00,Closed
+NX-0086,Service transition 086,Luca Lange,CC-137,People,280000.00,Active
+NX-0087,Data migration 087,Nina Schmitt,CC-138,Product,630000.00,Active
+NX-0088,Field operations 088,Felix Werner,CC-139,IT,200000.00,Active
+NX-0089,Customer delivery 089,Sara Weber,CC-140,Engineering,585000.00,Active
+NX-0090,Platform modernization 090,Oskar Fischer,CC-141,Sales,620000.00,Active
+NX-0091,Network planning 091,Maya Schmidt,CC-142,Customer Success,195000.00,Active
+NX-0092,Digital workplace 092,Leon Meyer,CC-143,Operations,155000.00,Active
+NX-0093,Security uplift 093,Eva Wagner,CC-144,Finance,205000.00,Active
+NX-0094,Service transition 094,Finn Becker,CC-145,People,610000.00,Active
+NX-0095,Data migration 095,Ava Hoffmann,CC-146,Product,620000.00,Active
+NX-0096,Field operations 096,Milan Schulz,CC-147,IT,390000.00,Active
+NX-0097,Customer delivery 097,Sofia Koch,CC-100,Engineering,490000.00,Active
+NX-0098,Platform modernization 098,Noah Richter,CC-101,Sales,330000.00,Active
+NX-0099,Network planning 099,Lea Klein,CC-102,Customer Success,200000.00,Active
+NX-0100,Digital workplace 100,Jonas Wolf,CC-103,Operations,550000.00,Active
+NX-0101,Security uplift 101,Mia Neumann,CC-104,Finance,640000.00,Active
+NX-0102,Service transition 102,Elias Braun,CC-105,People,125000.00,Closed
+NX-0103,Data migration 103,Lina Zimmermann,CC-106,Product,345000.00,Active
+NX-0104,Field operations 104,Theo Hartmann,CC-107,IT,185000.00,Active
+NX-0105,Customer delivery 105,Emma Kruger,CC-108,Engineering,650000.00,Active
+NX-0106,Platform modernization 106,Luca Lange,CC-109,Sales,460000.00,Active
+NX-0107,Network planning 107,Nina Schmitt,CC-110,Customer Success,355000.00,Active
+NX-0108,Digital workplace 108,Felix Werner,CC-111,Operations,325000.00,Active
+NX-0109,Security uplift 109,Sara Weber,CC-112,Finance,390000.00,Active
+NX-0110,Service transition 110,Oskar Fischer,CC-113,People,145000.00,Active
+NX-0111,Data migration 111,Maya Schmidt,CC-114,Product,375000.00,Active
+NX-0112,Field operations 112,Leon Meyer,CC-115,IT,100000.00,Active
+NX-0113,Customer delivery 113,Eva Wagner,CC-116,Engineering,385000.00,Active
+NX-0114,Platform modernization 114,Finn Becker,CC-117,Sales,560000.00,Active
+NX-0115,Network planning 115,Ava Hoffmann,CC-118,Customer Success,340000.00,Active
+NX-0116,Digital workplace 116,Milan Schulz,CC-119,Operations,445000.00,Active
+NX-0117,Security uplift 117,Sofia Koch,CC-120,Finance,560000.00,Active
+NX-0118,Service transition 118,Noah Richter,CC-121,People,635000.00,Active
+NX-0119,Data migration 119,Lea Klein,CC-122,Product,140000.00,Closed
+NX-0120,Field operations 120,Jonas Wolf,CC-123,IT,100000.00,Active
+NX-0121,Customer delivery 121,Mia Neumann,CC-124,Engineering,635000.00,Active
+NX-0122,Platform modernization 122,Elias Braun,CC-125,Sales,390000.00,Active
+NX-0123,Network planning 123,Lina Zimmermann,CC-126,Customer Success,215000.00,Active
+NX-0124,Digital workplace 124,Theo Hartmann,CC-127,Operations,435000.00,Active
+NX-0125,Security uplift 125,Emma Kruger,CC-128,Finance,310000.00,Active
+NX-0126,Service transition 126,Luca Lange,CC-129,People,395000.00,Active
+NX-0127,Data migration 127,Nina Schmitt,CC-130,Product,185000.00,Active
+NX-0128,Field operations 128,Felix Werner,CC-131,IT,505000.00,Active
+NX-0129,Customer delivery 129,Sara Weber,CC-132,Engineering,170000.00,Active
+NX-0130,Platform modernization 130,Oskar Fischer,CC-133,Sales,550000.00,Active
+NX-0131,Network planning 131,Maya Schmidt,CC-134,Customer Success,375000.00,Active
+NX-0132,Digital workplace 132,Leon Meyer,CC-135,Operations,595000.00,Active
+NX-0133,Security uplift 133,Eva Wagner,CC-136,Finance,515000.00,Active
+NX-0134,Service transition 134,Finn Becker,CC-137,People,285000.00,Active
+NX-0135,Data migration 135,Ava Hoffmann,CC-138,Product,100000.00,Active
+NX-0136,Field operations 136,Milan Schulz,CC-139,IT,245000.00,Closed
+NX-0137,Customer delivery 137,Sofia Koch,CC-140,Engineering,620000.00,Active
+NX-0138,Platform modernization 138,Noah Richter,CC-141,Sales,335000.00,Active
+NX-0139,Network planning 139,Lea Klein,CC-142,Customer Success,325000.00,Active
+NX-0140,Digital workplace 140,Jonas Wolf,CC-143,Operations,305000.00,Active
+NX-0141,Security uplift 141,Mia Neumann,CC-144,Finance,400000.00,Active
+NX-0142,Service transition 142,Elias Braun,CC-145,People,485000.00,Active
+NX-0143,Data migration 143,Lina Zimmermann,CC-146,Product,285000.00,Active
+NX-0144,Field operations 144,Theo Hartmann,CC-147,IT,450000.00,Active
+NX-0145,Customer delivery 145,Emma Kruger,CC-100,Engineering,135000.00,Active
+NX-0146,Platform modernization 146,Luca Lange,CC-101,Sales,85000.00,Active
+NX-0147,Network planning 147,Nina Schmitt,CC-102,Customer Success,135000.00,Active
+NX-0148,Digital workplace 148,Felix Werner,CC-103,Operations,165000.00,Active
+NX-0149,Security uplift 149,Sara Weber,CC-104,Finance,615000.00,Active
+NX-0150,Service transition 150,Oskar Fischer,CC-105,People,430000.00,Active
+NX-0151,Data migration 151,Maya Schmidt,CC-106,Product,255000.00,Active
+NX-0152,Field operations 152,Leon Meyer,CC-107,IT,230000.00,Active
+NX-0153,Customer delivery 153,Eva Wagner,CC-108,Engineering,515000.00,Closed
+NX-0154,Platform modernization 154,Finn Becker,CC-109,Sales,565000.00,Active
+NX-0155,Network planning 155,Ava Hoffmann,CC-110,Customer Success,355000.00,Active
+NX-0156,Digital workplace 156,Milan Schulz,CC-111,Operations,430000.00,Active
+NX-0157,Security uplift 157,Sofia Koch,CC-112,Finance,405000.00,Active
+NX-0158,Service transition 158,Noah Richter,CC-113,People,125000.00,Active
+NX-0159,Data migration 159,Lea Klein,CC-114,Product,210000.00,Active
+NX-0160,Field operations 160,Jonas Wolf,CC-115,IT,100000.00,Active
+NX-0161,Customer delivery 161,Mia Neumann,CC-116,Engineering,360000.00,Active
+NX-0162,Platform modernization 162,Elias Braun,CC-117,Sales,645000.00,Active
+NX-0163,Network planning 163,Lina Zimmermann,CC-118,Customer Success,115000.00,Active
+NX-0164,Digital workplace 164,Theo Hartmann,CC-119,Operations,80000.00,Active
+NX-0165,Security uplift 165,Emma Kruger,CC-120,Finance,295000.00,Active
+NX-0166,Service transition 166,Luca Lange,CC-121,People,375000.00,Active
+NX-0167,Data migration 167,Nina Schmitt,CC-122,Product,260000.00,Active
+NX-0168,Field operations 168,Felix Werner,CC-123,IT,510000.00,Active
+NX-0169,Customer delivery 169,Sara Weber,CC-124,Engineering,380000.00,Active
+NX-0170,Platform modernization 170,Oskar Fischer,CC-125,Sales,325000.00,Closed
+NX-0171,Network planning 171,Maya Schmidt,CC-126,Customer Success,200000.00,Active
+NX-0172,Digital workplace 172,Leon Meyer,CC-127,Operations,595000.00,Active
+NX-0173,Security uplift 173,Eva Wagner,CC-128,Finance,335000.00,Active
+NX-0174,Service transition 174,Finn Becker,CC-129,People,220000.00,Active
+NX-0175,Data migration 175,Ava Hoffmann,CC-130,Product,545000.00,Active
+NX-0176,Field operations 176,Milan Schulz,CC-131,IT,215000.00,Active
+NX-0177,Customer delivery 177,Sofia Koch,CC-132,Engineering,370000.00,Active
+NX-0178,Platform modernization 178,Noah Richter,CC-133,Sales,575000.00,Active
+NX-0179,Network planning 179,Lea Klein,CC-134,Customer Success,250000.00,Active
+NX-0180,Digital workplace 180,Jonas Wolf,CC-135,Operations,210000.00,Active
+NX-0181,Security uplift 181,Mia Neumann,CC-136,Finance,310000.00,Active
+NX-0182,Service transition 182,Elias Braun,CC-137,People,650000.00,Active
+NX-0183,Data migration 183,Lina Zimmermann,CC-138,Product,310000.00,Active
+NX-0184,Field operations 184,Theo Hartmann,CC-139,IT,255000.00,Active
+NX-0185,Customer delivery 185,Emma Kruger,CC-140,Engineering,90000.00,Active
+NX-0186,Platform modernization 186,Luca Lange,CC-141,Sales,305000.00,Active
+NX-0187,Network planning 187,Nina Schmitt,CC-142,Customer Success,600000.00,Closed
+NX-0188,Digital workplace 188,Felix Werner,CC-143,Operations,80000.00,Active
+NX-0189,Security uplift 189,Sara Weber,CC-144,Finance,515000.00,Active
+NX-0190,Service transition 190,Oskar Fischer,CC-145,People,395000.00,Active
+NX-0191,Data migration 191,Maya Schmidt,CC-146,Product,295000.00,Active
+NX-0192,Field operations 192,Leon Meyer,CC-147,IT,445000.00,Active
+NX-0193,Customer delivery 193,Eva Wagner,CC-100,Engineering,325000.00,Active
+NX-0194,Platform modernization 194,Finn Becker,CC-101,Sales,500000.00,Active
+NX-0195,Network planning 195,Ava Hoffmann,CC-102,Customer Success,500000.00,Active
+NX-0196,Digital workplace 196,Milan Schulz,CC-103,Operations,90000.00,Active
+NX-0197,Security uplift 197,Sofia Koch,CC-104,Finance,555000.00,Active
+NX-0198,Service transition 198,Noah Richter,CC-105,People,640000.00,Active
+NX-0199,Data migration 199,Lea Klein,CC-106,Product,165000.00,Active
+NX-0200,Field operations 200,Jonas Wolf,CC-107,IT,480000.00,Active
+NX-0201,Customer delivery 201,Mia Neumann,CC-108,Engineering,205000.00,Active
+NX-0202,Platform modernization 202,Elias Braun,CC-109,Sales,525000.00,Active
+NX-0203,Network planning 203,Lina Zimmermann,CC-110,Customer Success,230000.00,Active
+NX-0204,Digital workplace 204,Theo Hartmann,CC-111,Operations,215000.00,Closed
+NX-0205,Security uplift 205,Emma Kruger,CC-112,Finance,575000.00,Active
+NX-0206,Service transition 206,Luca Lange,CC-113,People,430000.00,Active
+NX-0207,Data migration 207,Nina Schmitt,CC-114,Product,335000.00,Active
+NX-0208,Field operations 208,Felix Werner,CC-115,IT,170000.00,Active
+NX-0209,Customer delivery 209,Sara Weber,CC-116,Engineering,115000.00,Active
+NX-0210,Platform modernization 210,Oskar Fischer,CC-117,Sales,485000.00,Active
+NX-0211,Network planning 211,Maya Schmidt,CC-118,Customer Success,445000.00,Active
+NX-0212,Digital workplace 212,Leon Meyer,CC-119,Operations,215000.00,Active
+NX-0213,Security uplift 213,Eva Wagner,CC-120,Finance,540000.00,Active
+NX-0214,Service transition 214,Finn Becker,CC-121,People,105000.00,Active
+NX-0215,Data migration 215,Ava Hoffmann,CC-122,Product,480000.00,Active
+NX-0216,Field operations 216,Milan Schulz,CC-123,IT,305000.00,Active
+NX-0217,Customer delivery 217,Sofia Koch,CC-124,Engineering,105000.00,Active
+NX-0218,Platform modernization 218,Noah Richter,CC-125,Sales,485000.00,Active
+NX-0219,Network planning 219,Lea Klein,CC-126,Customer Success,355000.00,Active
+NX-0220,Digital workplace 220,Jonas Wolf,CC-127,Operations,385000.00,Active
+NX-0221,Security uplift 221,Mia Neumann,CC-128,Finance,315000.00,Closed
+NX-0222,Service transition 222,Elias Braun,CC-129,People,460000.00,Active
+NX-0223,Data migration 223,Lina Zimmermann,CC-130,Product,635000.00,Active
+NX-0224,Field operations 224,Theo Hartmann,CC-131,IT,270000.00,Active
+NX-0225,Customer delivery 225,Emma Kruger,CC-132,Engineering,215000.00,Active
+NX-0226,Platform modernization 226,Luca Lange,CC-133,Sales,585000.00,Active
+NX-0227,Network planning 227,Nina Schmitt,CC-134,Customer Success,645000.00,Active
+NX-0228,Digital workplace 228,Felix Werner,CC-135,Operations,565000.00,Active
+NX-0229,Security uplift 229,Sara Weber,CC-136,Finance,135000.00,Active
+NX-0230,Service transition 230,Oskar Fischer,CC-137,People,270000.00,Active
+NX-0231,Data migration 231,Maya Schmidt,CC-138,Product,415000.00,Active
+NX-0232,Field operations 232,Leon Meyer,CC-139,IT,440000.00,Active
+NX-0233,Customer delivery 233,Eva Wagner,CC-140,Engineering,255000.00,Active
+NX-0234,Platform modernization 234,Finn Becker,CC-141,Sales,205000.00,Active
+NX-0235,Network planning 235,Ava Hoffmann,CC-142,Customer Success,540000.00,Active
+NX-0236,Digital workplace 236,Milan Schulz,CC-143,Operations,125000.00,Active
+NX-0237,Security uplift 237,Sofia Koch,CC-144,Finance,545000.00,Active
+NX-0238,Service transition 238,Noah Richter,CC-145,People,445000.00,Closed
+NX-0239,Data migration 239,Lea Klein,CC-146,Product,175000.00,Active
+NX-0240,Field operations 240,Jonas Wolf,CC-147,IT,285000.00,Active
+NX-0241,Customer delivery 241,Mia Neumann,CC-100,Engineering,595000.00,Active
+NX-0242,Platform modernization 242,Elias Braun,CC-101,Sales,520000.00,Active
+NX-0243,Network planning 243,Lina Zimmermann,CC-102,Customer Success,165000.00,Active
+NX-0244,Digital workplace 244,Theo Hartmann,CC-103,Operations,90000.00,Active
+NX-0245,Security uplift 245,Emma Kruger,CC-104,Finance,320000.00,Active
+NX-0246,Service transition 246,Luca Lange,CC-105,People,535000.00,Active
+NX-0247,Data migration 247,Nina Schmitt,CC-106,Product,220000.00,Active
+NX-0248,Field operations 248,Felix Werner,CC-107,IT,355000.00,Active
+NX-0249,Customer delivery 249,Sara Weber,CC-108,Engineering,105000.00,Active
+NX-0250,Platform modernization 250,Oskar Fischer,CC-109,Sales,365000.00,Active
+NX-0251,Network planning 251,Maya Schmidt,CC-110,Customer Success,105000.00,Active
+NX-0252,Digital workplace 252,Leon Meyer,CC-111,Operations,515000.00,Active
+NX-0253,Security uplift 253,Eva Wagner,CC-112,Finance,270000.00,Active
+NX-0254,Service transition 254,Finn Becker,CC-113,People,420000.00,Active
+NX-0255,Data migration 255,Ava Hoffmann,CC-114,Product,160000.00,Closed
+NX-0256,Field operations 256,Milan Schulz,CC-115,IT,400000.00,Active
+NX-0257,Customer delivery 257,Sofia Koch,CC-116,Engineering,445000.00,Active
+NX-0258,Platform modernization 258,Noah Richter,CC-117,Sales,250000.00,Active
+NX-0259,Network planning 259,Lea Klein,CC-118,Customer Success,330000.00,Active
+NX-0260,Digital workplace 260,Jonas Wolf,CC-119,Operations,355000.00,Active
+NX-0261,Security uplift 261,Mia Neumann,CC-120,Finance,580000.00,Active
+NX-0262,Service transition 262,Elias Braun,CC-121,People,570000.00,Active
+NX-0263,Data migration 263,Lina Zimmermann,CC-122,Product,410000.00,Active
+NX-0264,Field operations 264,Theo Hartmann,CC-123,IT,225000.00,Active
+NX-0265,Customer delivery 265,Emma Kruger,CC-124,Engineering,190000.00,Active
+NX-0266,Platform modernization 266,Luca Lange,CC-125,Sales,415000.00,Active
+NX-0267,Network planning 267,Nina Schmitt,CC-126,Customer Success,585000.00,Active
+NX-0268,Digital workplace 268,Felix Werner,CC-127,Operations,80000.00,Active
+NX-0269,Security uplift 269,Sara Weber,CC-128,Finance,610000.00,Active
+NX-0270,Service transition 270,Oskar Fischer,CC-129,People,630000.00,Active
+NX-0271,Data migration 271,Maya Schmidt,CC-130,Product,165000.00,Active
+NX-0272,Field operations 272,Leon Meyer,CC-131,IT,190000.00,Closed
+NX-0273,Customer delivery 273,Eva Wagner,CC-132,Engineering,635000.00,Active
+NX-0274,Platform modernization 274,Finn Becker,CC-133,Sales,360000.00,Active
+NX-0275,Network planning 275,Ava Hoffmann,CC-134,Customer Success,630000.00,Active
+NX-0276,Digital workplace 276,Milan Schulz,CC-135,Operations,615000.00,Active
+NX-0277,Security uplift 277,Sofia Koch,CC-136,Finance,540000.00,Active
+NX-0278,Service transition 278,Noah Richter,CC-137,People,605000.00,Active
+NX-0279,Data migration 279,Lea Klein,CC-138,Product,195000.00,Active
+NX-0280,Field operations 280,Jonas Wolf,CC-139,IT,550000.00,Active
+NX-0281,Customer delivery 281,Mia Neumann,CC-140,Engineering,290000.00,Active
+NX-0282,Platform modernization 282,Elias Braun,CC-141,Sales,305000.00,Active
+NX-0283,Network planning 283,Lina Zimmermann,CC-142,Customer Success,290000.00,Active
+NX-0284,Digital workplace 284,Theo Hartmann,CC-143,Operations,415000.00,Active
+NX-0285,Security uplift 285,Emma Kruger,CC-144,Finance,605000.00,Active
+NX-0286,Service transition 286,Luca Lange,CC-145,People,605000.00,Active
+NX-0287,Data migration 287,Nina Schmitt,CC-146,Product,620000.00,Active
+NX-0288,Field operations 288,Felix Werner,CC-147,IT,455000.00,Active
+NX-0289,Customer delivery 289,Sara Weber,CC-100,Engineering,505000.00,Closed
+NX-0290,Platform modernization 290,Oskar Fischer,CC-101,Sales,205000.00,Active
+NX-0291,Network planning 291,Maya Schmidt,CC-102,Customer Success,260000.00,Active
+NX-0292,Digital workplace 292,Leon Meyer,CC-103,Operations,230000.00,Active
+NX-0293,Security uplift 293,Eva Wagner,CC-104,Finance,430000.00,Active
+NX-0294,Service transition 294,Finn Becker,CC-105,People,455000.00,Active
+NX-0295,Data migration 295,Ava Hoffmann,CC-106,Product,100000.00,Active
+NX-0296,Field operations 296,Milan Schulz,CC-107,IT,600000.00,Active
+NX-0297,Customer delivery 297,Sofia Koch,CC-108,Engineering,375000.00,Active
+NX-0298,Platform modernization 298,Noah Richter,CC-109,Sales,530000.00,Active
+NX-0299,Network planning 299,Lea Klein,CC-110,Customer Success,390000.00,Active
+NX-0300,Digital workplace 300,Jonas Wolf,CC-111,Operations,285000.00,Active
+NX-0301,Security uplift 301,Mia Neumann,CC-112,Finance,295000.00,Active
+NX-0302,Service transition 302,Elias Braun,CC-113,People,385000.00,Active
+NX-0303,Data migration 303,Lina Zimmermann,CC-114,Product,555000.00,Active
+NX-0304,Field operations 304,Theo Hartmann,CC-115,IT,555000.00,Active
+NX-0305,Customer delivery 305,Emma Kruger,CC-116,Engineering,160000.00,Active
+NX-0306,Platform modernization 306,Luca Lange,CC-117,Sales,295000.00,Closed
+NX-0307,Network planning 307,Nina Schmitt,CC-118,Customer Success,635000.00,Active
+NX-0308,Digital workplace 308,Felix Werner,CC-119,Operations,390000.00,Active
+NX-0309,Security uplift 309,Sara Weber,CC-120,Finance,505000.00,Active
+NX-0310,Service transition 310,Oskar Fischer,CC-121,People,115000.00,Active
+NX-0311,Data migration 311,Maya Schmidt,CC-122,Product,400000.00,Active
+NX-0312,Field operations 312,Leon Meyer,CC-123,IT,450000.00,Active
+NX-0313,Customer delivery 313,Eva Wagner,CC-124,Engineering,270000.00,Active
+NX-0314,Platform modernization 314,Finn Becker,CC-125,Sales,495000.00,Active
+NX-0315,Network planning 315,Ava Hoffmann,CC-126,Customer Success,535000.00,Active
+NX-0316,Digital workplace 316,Milan Schulz,CC-127,Operations,535000.00,Active
+NX-0317,Security uplift 317,Sofia Koch,CC-128,Finance,610000.00,Active
+NX-0318,Service transition 318,Noah Richter,CC-129,People,550000.00,Active
+NX-0319,Data migration 319,Lea Klein,CC-130,Product,565000.00,Active
+NX-0320,Field operations 320,Jonas Wolf,CC-131,IT,125000.00,Active
+NX-0321,Customer delivery 321,Mia Neumann,CC-132,Engineering,650000.00,Active
+NX-0322,Platform modernization 322,Elias Braun,CC-133,Sales,650000.00,Active
+NX-0323,Network planning 323,Lina Zimmermann,CC-134,Customer Success,545000.00,Closed
+NX-0324,Digital workplace 324,Theo Hartmann,CC-135,Operations,275000.00,Active
+NX-0325,Security uplift 325,Emma Kruger,CC-136,Finance,205000.00,Active
+NX-0326,Service transition 326,Luca Lange,CC-137,People,520000.00,Active
+NX-0327,Data migration 327,Nina Schmitt,CC-138,Product,485000.00,Active
+NX-0328,Field operations 328,Felix Werner,CC-139,IT,295000.00,Active
+NX-0329,Customer delivery 329,Sara Weber,CC-140,Engineering,460000.00,Active
+NX-0330,Platform modernization 330,Oskar Fischer,CC-141,Sales,105000.00,Active
+NX-0331,Network planning 331,Maya Schmidt,CC-142,Customer Success,375000.00,Active
+NX-0332,Digital workplace 332,Leon Meyer,CC-143,Operations,390000.00,Active
+NX-0333,Security uplift 333,Eva Wagner,CC-144,Finance,300000.00,Active
+NX-0334,Service transition 334,Finn Becker,CC-145,People,260000.00,Active
+NX-0335,Data migration 335,Ava Hoffmann,CC-146,Product,335000.00,Active
+NX-0336,Field operations 336,Milan Schulz,CC-147,IT,575000.00,Active
+NX-0337,Customer delivery 337,Sofia Koch,CC-100,Engineering,300000.00,Active
+NX-0338,Platform modernization 338,Noah Richter,CC-101,Sales,590000.00,Active
+NX-0339,Network planning 339,Lea Klein,CC-102,Customer Success,430000.00,Active
+NX-0340,Digital workplace 340,Jonas Wolf,CC-103,Operations,225000.00,Closed
+NX-0341,Security uplift 341,Mia Neumann,CC-104,Finance,260000.00,Active
+NX-0342,Service transition 342,Elias Braun,CC-105,People,395000.00,Active
+NX-0343,Data migration 343,Lina Zimmermann,CC-106,Product,315000.00,Active
+NX-0344,Field operations 344,Theo Hartmann,CC-107,IT,530000.00,Active
+NX-0345,Customer delivery 345,Emma Kruger,CC-108,Engineering,510000.00,Active
+NX-0346,Platform modernization 346,Luca Lange,CC-109,Sales,85000.00,Active
+NX-0347,Network planning 347,Nina Schmitt,CC-110,Customer Success,350000.00,Active
+NX-0348,Digital workplace 348,Felix Werner,CC-111,Operations,470000.00,Active
+NX-0349,Security uplift 349,Sara Weber,CC-112,Finance,195000.00,Active
+NX-0350,Service transition 350,Oskar Fischer,CC-113,People,350000.00,Active
+NX-0351,Data migration 351,Maya Schmidt,CC-114,Product,130000.00,Active
+NX-0352,Field operations 352,Leon Meyer,CC-115,IT,295000.00,Active
+NX-0353,Customer delivery 353,Eva Wagner,CC-116,Engineering,560000.00,Active
+NX-0354,Platform modernization 354,Finn Becker,CC-117,Sales,315000.00,Active
+NX-0355,Network planning 355,Ava Hoffmann,CC-118,Customer Success,250000.00,Active
+NX-0356,Digital workplace 356,Milan Schulz,CC-119,Operations,250000.00,Active
+NX-0357,Security uplift 357,Sofia Koch,CC-120,Finance,320000.00,Closed
+NX-0358,Service transition 358,Noah Richter,CC-121,People,490000.00,Active
+NX-0359,Data migration 359,Lea Klein,CC-122,Product,260000.00,Active
+NX-0360,Field operations 360,Jonas Wolf,CC-123,IT,80000.00,Active
+NX-0361,Customer delivery 361,Mia Neumann,CC-124,Engineering,275000.00,Active
+NX-0362,Platform modernization 362,Elias Braun,CC-125,Sales,190000.00,Active
+NX-0363,Network planning 363,Lina Zimmermann,CC-126,Customer Success,425000.00,Active
+NX-0364,Digital workplace 364,Theo Hartmann,CC-127,Operations,520000.00,Active
+NX-0365,Security uplift 365,Emma Kruger,CC-128,Finance,240000.00,Active
+NX-0366,Service transition 366,Luca Lange,CC-129,People,410000.00,Active
+NX-0367,Data migration 367,Nina Schmitt,CC-130,Product,510000.00,Active
+NX-0368,Field operations 368,Felix Werner,CC-131,IT,475000.00,Active
+NX-0369,Customer delivery 369,Sara Weber,CC-132,Engineering,445000.00,Active
+NX-0370,Platform modernization 370,Oskar Fischer,CC-133,Sales,180000.00,Active
+NX-0371,Network planning 371,Maya Schmidt,CC-134,Customer Success,340000.00,Active
+NX-0372,Digital workplace 372,Leon Meyer,CC-135,Operations,100000.00,Active
+NX-0373,Security uplift 373,Eva Wagner,CC-136,Finance,470000.00,Active
+NX-0374,Service transition 374,Finn Becker,CC-137,People,395000.00,Closed
+NX-0375,Data migration 375,Ava Hoffmann,CC-138,Product,100000.00,Active
+NX-0376,Field operations 376,Milan Schulz,CC-139,IT,550000.00,Active
+NX-0377,Customer delivery 377,Sofia Koch,CC-140,Engineering,450000.00,Active
+NX-0378,Platform modernization 378,Noah Richter,CC-141,Sales,370000.00,Active
+NX-0379,Network planning 379,Lea Klein,CC-142,Customer Success,615000.00,Active
+NX-0380,Digital workplace 380,Jonas Wolf,CC-143,Operations,440000.00,Active
+NX-0381,Security uplift 381,Mia Neumann,CC-144,Finance,360000.00,Active
+NX-0382,Service transition 382,Elias Braun,CC-145,People,245000.00,Active
+NX-0383,Data migration 383,Lina Zimmermann,CC-146,Product,530000.00,Active
+NX-0384,Field operations 384,Theo Hartmann,CC-147,IT,525000.00,Active
+NX-0385,Customer delivery 385,Emma Kruger,CC-100,Engineering,140000.00,Active
+NX-0386,Platform modernization 386,Luca Lange,CC-101,Sales,505000.00,Active
+NX-0387,Network planning 387,Nina Schmitt,CC-102,Customer Success,230000.00,Active
+NX-0388,Digital workplace 388,Felix Werner,CC-103,Operations,390000.00,Active
+NX-0389,Security uplift 389,Sara Weber,CC-104,Finance,175000.00,Active
+NX-0390,Service transition 390,Oskar Fischer,CC-105,People,590000.00,Active
+NX-0391,Data migration 391,Maya Schmidt,CC-106,Product,640000.00,Closed
+NX-0392,Field operations 392,Leon Meyer,CC-107,IT,540000.00,Active
+NX-0393,Customer delivery 393,Eva Wagner,CC-108,Engineering,400000.00,Active
+NX-0394,Platform modernization 394,Finn Becker,CC-109,Sales,520000.00,Active
+NX-0395,Network planning 395,Ava Hoffmann,CC-110,Customer Success,495000.00,Active
+NX-0396,Digital workplace 396,Milan Schulz,CC-111,Operations,470000.00,Active
+NX-0397,Security uplift 397,Sofia Koch,CC-112,Finance,445000.00,Active
+NX-0398,Service transition 398,Noah Richter,CC-113,People,320000.00,Active
+NX-0399,Data migration 399,Lea Klein,CC-114,Product,455000.00,Active
+NX-0400,Field operations 400,Jonas Wolf,CC-115,IT,275000.00,Active
+NX-0401,Customer delivery 401,Mia Neumann,CC-116,Engineering,350000.00,Active
+NX-0402,Platform modernization 402,Elias Braun,CC-117,Sales,535000.00,Active
+NX-0403,Network planning 403,Lina Zimmermann,CC-118,Customer Success,610000.00,Active
+NX-0404,Digital workplace 404,Theo Hartmann,CC-119,Operations,230000.00,Active
+NX-0405,Security uplift 405,Emma Kruger,CC-120,Finance,210000.00,Active
+NX-0406,Service transition 406,Luca Lange,CC-121,People,215000.00,Active
+NX-0407,Data migration 407,Nina Schmitt,CC-122,Product,305000.00,Active
+NX-0408,Field operations 408,Felix Werner,CC-123,IT,285000.00,Closed
+NX-0409,Customer delivery 409,Sara Weber,CC-124,Engineering,180000.00,Active
+NX-0410,Platform modernization 410,Oskar Fischer,CC-125,Sales,345000.00,Active
+NX-0411,Network planning 411,Maya Schmidt,CC-126,Customer Success,615000.00,Active
+NX-0412,Digital workplace 412,Leon Meyer,CC-127,Operations,140000.00,Active
+NX-0413,Security uplift 413,Eva Wagner,CC-128,Finance,460000.00,Active
+NX-0414,Service transition 414,Finn Becker,CC-129,People,340000.00,Active
+NX-0415,Data migration 415,Ava Hoffmann,CC-130,Product,180000.00,Active
+NX-0416,Field operations 416,Milan Schulz,CC-131,IT,575000.00,Active
+NX-0417,Customer delivery 417,Sofia Koch,CC-132,Engineering,600000.00,Active
+NX-0418,Platform modernization 418,Noah Richter,CC-133,Sales,110000.00,Active
+NX-0419,Network planning 419,Lea Klein,CC-134,Customer Success,475000.00,Active
+NX-0420,Digital workplace 420,Jonas Wolf,CC-135,Operations,430000.00,Active
+NX-0421,Security uplift 421,Mia Neumann,CC-136,Finance,100000.00,Active
+NX-0422,Service transition 422,Elias Braun,CC-137,People,320000.00,Active
+NX-0423,Data migration 423,Lina Zimmermann,CC-138,Product,280000.00,Active
+NX-0424,Field operations 424,Theo Hartmann,CC-139,IT,545000.00,Active
+NX-0425,Customer delivery 425,Emma Kruger,CC-140,Engineering,110000.00,Closed
+NX-0426,Platform modernization 426,Luca Lange,CC-141,Sales,375000.00,Active
+NX-0427,Network planning 427,Nina Schmitt,CC-142,Customer Success,240000.00,Active
+NX-0428,Digital workplace 428,Felix Werner,CC-143,Operations,460000.00,Active
+NX-0429,Security uplift 429,Sara Weber,CC-144,Finance,265000.00,Active
+NX-0430,Service transition 430,Oskar Fischer,CC-145,People,160000.00,Active
+NX-0431,Data migration 431,Maya Schmidt,CC-146,Product,190000.00,Active
+NX-0432,Field operations 432,Leon Meyer,CC-147,IT,300000.00,Active
+NX-0433,Customer delivery 433,Eva Wagner,CC-100,Engineering,215000.00,Active
+NX-0434,Platform modernization 434,Finn Becker,CC-101,Sales,250000.00,Active
+NX-0435,Network planning 435,Ava Hoffmann,CC-102,Customer Success,285000.00,Active
+NX-0436,Digital workplace 436,Milan Schulz,CC-103,Operations,515000.00,Active
+NX-0437,Security uplift 437,Sofia Koch,CC-104,Finance,175000.00,Active
+NX-0438,Service transition 438,Noah Richter,CC-105,People,620000.00,Active
+NX-0439,Data migration 439,Lea Klein,CC-106,Product,620000.00,Active
+NX-0440,Field operations 440,Jonas Wolf,CC-107,IT,560000.00,Active
+NX-0441,Customer delivery 441,Mia Neumann,CC-108,Engineering,355000.00,Active
+NX-0442,Platform modernization 442,Elias Braun,CC-109,Sales,440000.00,Closed
+NX-0443,Network planning 443,Lina Zimmermann,CC-110,Customer Success,150000.00,Active
+NX-0444,Digital workplace 444,Theo Hartmann,CC-111,Operations,250000.00,Active
+NX-0445,Security uplift 445,Emma Kruger,CC-112,Finance,265000.00,Active
+NX-0446,Service transition 446,Luca Lange,CC-113,People,305000.00,Active
+NX-0447,Data migration 447,Nina Schmitt,CC-114,Product,385000.00,Active
+NX-0448,Field operations 448,Felix Werner,CC-115,IT,295000.00,Active
+NX-0449,Customer delivery 449,Sara Weber,CC-116,Engineering,250000.00,Active
+NX-0450,Platform modernization 450,Oskar Fischer,CC-117,Sales,260000.00,Active
+NX-0451,Network planning 451,Maya Schmidt,CC-118,Customer Success,305000.00,Active
+NX-0452,Digital workplace 452,Leon Meyer,CC-119,Operations,570000.00,Active
+NX-0453,Security uplift 453,Eva Wagner,CC-120,Finance,205000.00,Active
+NX-0454,Service transition 454,Finn Becker,CC-121,People,590000.00,Active
+NX-0455,Data migration 455,Ava Hoffmann,CC-122,Product,530000.00,Active
+NX-0456,Field operations 456,Milan Schulz,CC-123,IT,100000.00,Active
+NX-0457,Customer delivery 457,Sofia Koch,CC-124,Engineering,550000.00,Active
+NX-0458,Platform modernization 458,Noah Richter,CC-125,Sales,380000.00,Active
+NX-0459,Network planning 459,Lea Klein,CC-126,Customer Success,640000.00,Closed
+NX-0460,Digital workplace 460,Jonas Wolf,CC-127,Operations,510000.00,Active
+NX-0461,Security uplift 461,Mia Neumann,CC-128,Finance,455000.00,Active
+NX-0462,Service transition 462,Elias Braun,CC-129,People,230000.00,Active
+NX-0463,Data migration 463,Lina Zimmermann,CC-130,Product,460000.00,Active
+NX-0464,Field operations 464,Theo Hartmann,CC-131,IT,520000.00,Active
+NX-0465,Customer delivery 465,Emma Kruger,CC-132,Engineering,630000.00,Active
+NX-0466,Platform modernization 466,Luca Lange,CC-133,Sales,385000.00,Active
+NX-0467,Network planning 467,Nina Schmitt,CC-134,Customer Success,375000.00,Active
+NX-0468,Digital workplace 468,Felix Werner,CC-135,Operations,500000.00,Active
+NX-0469,Security uplift 469,Sara Weber,CC-136,Finance,210000.00,Active
+NX-0470,Service transition 470,Oskar Fischer,CC-137,People,255000.00,Active
+NX-0471,Data migration 471,Maya Schmidt,CC-138,Product,555000.00,Active
+NX-0472,Field operations 472,Leon Meyer,CC-139,IT,250000.00,Active
+NX-0473,Customer delivery 473,Eva Wagner,CC-140,Engineering,450000.00,Active
+NX-0474,Platform modernization 474,Finn Becker,CC-141,Sales,510000.00,Active
+NX-0475,Network planning 475,Ava Hoffmann,CC-142,Customer Success,300000.00,Active
+NX-0476,Digital workplace 476,Milan Schulz,CC-143,Operations,320000.00,Closed
+NX-0477,Security uplift 477,Sofia Koch,CC-144,Finance,325000.00,Active
+NX-0478,Service transition 478,Noah Richter,CC-145,People,570000.00,Active
+NX-0479,Data migration 479,Lea Klein,CC-146,Product,120000.00,Active
+NX-0480,Field operations 480,Jonas Wolf,CC-147,IT,295000.00,Active
+NX-0481,Customer delivery 481,Mia Neumann,CC-100,Engineering,250000.00,Active
+NX-0482,Platform modernization 482,Elias Braun,CC-101,Sales,525000.00,Active
+NX-0483,Network planning 483,Lina Zimmermann,CC-102,Customer Success,465000.00,Active
+NX-0484,Digital workplace 484,Theo Hartmann,CC-103,Operations,615000.00,Active
+NX-0485,Security uplift 485,Emma Kruger,CC-104,Finance,570000.00,Active
+NX-0486,Service transition 486,Luca Lange,CC-105,People,580000.00,Active
+NX-0487,Data migration 487,Nina Schmitt,CC-106,Product,385000.00,Active
+NX-0488,Field operations 488,Felix Werner,CC-107,IT,350000.00,Active
+NX-0489,Customer delivery 489,Sara Weber,CC-108,Engineering,220000.00,Active
+NX-0490,Platform modernization 490,Oskar Fischer,CC-109,Sales,615000.00,Active
+NX-0491,Network planning 491,Maya Schmidt,CC-110,Customer Success,315000.00,Active
+NX-0492,Digital workplace 492,Leon Meyer,CC-111,Operations,220000.00,Active
+NX-0493,Security uplift 493,Eva Wagner,CC-112,Finance,545000.00,Closed
+NX-0494,Service transition 494,Finn Becker,CC-113,People,440000.00,Active
+NX-0495,Data migration 495,Ava Hoffmann,CC-114,Product,285000.00,Active
+NX-0496,Field operations 496,Milan Schulz,CC-115,IT,270000.00,Active
+NX-0497,Customer delivery 497,Sofia Koch,CC-116,Engineering,595000.00,Active
+NX-0498,Platform modernization 498,Noah Richter,CC-117,Sales,180000.00,Active
+NX-0499,Network planning 499,Lea Klein,CC-118,Customer Success,525000.00,Active
+NX-0500,Digital workplace 500,Jonas Wolf,CC-119,Operations,295000.00,Active
+NX-0501,Security uplift 501,Mia Neumann,CC-120,Finance,170000.00,Active
+NX-0502,Service transition 502,Elias Braun,CC-121,People,235000.00,Active
+NX-0503,Data migration 503,Lina Zimmermann,CC-122,Product,595000.00,Active
+NX-0504,Field operations 504,Theo Hartmann,CC-123,IT,565000.00,Active
+NX-0505,Customer delivery 505,Emma Kruger,CC-124,Engineering,440000.00,Active
+NX-0506,Platform modernization 506,Luca Lange,CC-125,Sales,345000.00,Active
+NX-0507,Network planning 507,Nina Schmitt,CC-126,Customer Success,140000.00,Active
+NX-0508,Digital workplace 508,Felix Werner,CC-127,Operations,625000.00,Active
+NX-0509,Security uplift 509,Sara Weber,CC-128,Finance,80000.00,Active
+NX-0510,Service transition 510,Oskar Fischer,CC-129,People,580000.00,Closed
+NX-0511,Data migration 511,Maya Schmidt,CC-130,Product,265000.00,Active
+NX-0512,Field operations 512,Leon Meyer,CC-131,IT,565000.00,Active
+NX-0513,Customer delivery 513,Eva Wagner,CC-132,Engineering,180000.00,Active
+NX-0514,Platform modernization 514,Finn Becker,CC-133,Sales,90000.00,Active
+NX-0515,Network planning 515,Ava Hoffmann,CC-134,Customer Success,165000.00,Active
+NX-0516,Digital workplace 516,Milan Schulz,CC-135,Operations,495000.00,Active
+NX-0517,Security uplift 517,Sofia Koch,CC-136,Finance,435000.00,Active
+NX-0518,Service transition 518,Noah Richter,CC-137,People,575000.00,Active
+NX-0519,Data migration 519,Lea Klein,CC-138,Product,285000.00,Active
+NX-0520,Field operations 520,Jonas Wolf,CC-139,IT,175000.00,Active
+NX-0521,Customer delivery 521,Mia Neumann,CC-140,Engineering,335000.00,Active
+NX-0522,Platform modernization 522,Elias Braun,CC-141,Sales,535000.00,Active
+NX-0523,Network planning 523,Lina Zimmermann,CC-142,Customer Success,230000.00,Active
+NX-0524,Digital workplace 524,Theo Hartmann,CC-143,Operations,625000.00,Active
+NX-0525,Security uplift 525,Emma Kruger,CC-144,Finance,315000.00,Active
+NX-0526,Service transition 526,Luca Lange,CC-145,People,120000.00,Active
+NX-0527,Data migration 527,Nina Schmitt,CC-146,Product,285000.00,Closed
+NX-0528,Field operations 528,Felix Werner,CC-147,IT,515000.00,Active
+NX-0529,Customer delivery 529,Sara Weber,CC-100,Engineering,385000.00,Active
+NX-0530,Platform modernization 530,Oskar Fischer,CC-101,Sales,345000.00,Active
+NX-0531,Network planning 531,Maya Schmidt,CC-102,Customer Success,260000.00,Active
+NX-0532,Digital workplace 532,Leon Meyer,CC-103,Operations,100000.00,Active
+NX-0533,Security uplift 533,Eva Wagner,CC-104,Finance,570000.00,Active
+NX-0534,Service transition 534,Finn Becker,CC-105,People,550000.00,Active
+NX-0535,Data migration 535,Ava Hoffmann,CC-106,Product,645000.00,Active
+NX-0536,Field operations 536,Milan Schulz,CC-107,IT,295000.00,Active
+NX-0537,Customer delivery 537,Sofia Koch,CC-108,Engineering,235000.00,Active
+NX-0538,Platform modernization 538,Noah Richter,CC-109,Sales,120000.00,Active
+NX-0539,Network planning 539,Lea Klein,CC-110,Customer Success,270000.00,Active
+NX-0540,Digital workplace 540,Jonas Wolf,CC-111,Operations,230000.00,Active
+NX-0541,Security uplift 541,Mia Neumann,CC-112,Finance,405000.00,Active
+NX-0542,Service transition 542,Elias Braun,CC-113,People,435000.00,Active
+NX-0543,Data migration 543,Lina Zimmermann,CC-114,Product,370000.00,Active
+NX-0544,Field operations 544,Theo Hartmann,CC-115,IT,410000.00,Closed
+NX-0545,Customer delivery 545,Emma Kruger,CC-116,Engineering,485000.00,Active
+NX-0546,Platform modernization 546,Luca Lange,CC-117,Sales,335000.00,Active
+NX-0547,Network planning 547,Nina Schmitt,CC-118,Customer Success,180000.00,Active
+NX-0548,Digital workplace 548,Felix Werner,CC-119,Operations,575000.00,Active
+NX-0549,Security uplift 549,Sara Weber,CC-120,Finance,195000.00,Active
+NX-0550,Service transition 550,Oskar Fischer,CC-121,People,130000.00,Active
+NX-0551,Data migration 551,Maya Schmidt,CC-122,Product,365000.00,Active
+NX-0552,Field operations 552,Leon Meyer,CC-123,IT,300000.00,Active
+NX-0553,Customer delivery 553,Eva Wagner,CC-124,Engineering,505000.00,Active
+NX-0554,Platform modernization 554,Finn Becker,CC-125,Sales,85000.00,Active
+NX-0555,Network planning 555,Ava Hoffmann,CC-126,Customer Success,610000.00,Active
+NX-0556,Digital workplace 556,Milan Schulz,CC-127,Operations,500000.00,Active
+NX-0557,Security uplift 557,Sofia Koch,CC-128,Finance,575000.00,Active
+NX-0558,Service transition 558,Noah Richter,CC-129,People,340000.00,Active
+NX-0559,Data migration 559,Lea Klein,CC-130,Product,405000.00,Active
+NX-0560,Field operations 560,Jonas Wolf,CC-131,IT,460000.00,Active
+NX-0561,Customer delivery 561,Mia Neumann,CC-132,Engineering,250000.00,Closed
+NX-0562,Platform modernization 562,Elias Braun,CC-133,Sales,105000.00,Active
+NX-0563,Network planning 563,Lina Zimmermann,CC-134,Customer Success,585000.00,Active
+NX-0564,Digital workplace 564,Theo Hartmann,CC-135,Operations,495000.00,Active
+NX-0565,Security uplift 565,Emma Kruger,CC-136,Finance,435000.00,Active
+NX-0566,Service transition 566,Luca Lange,CC-137,People,300000.00,Active
+NX-0567,Data migration 567,Nina Schmitt,CC-138,Product,320000.00,Active
+NX-0568,Field operations 568,Felix Werner,CC-139,IT,255000.00,Active
+NX-0569,Customer delivery 569,Sara Weber,CC-140,Engineering,405000.00,Active
+NX-0570,Platform modernization 570,Oskar Fischer,CC-141,Sales,385000.00,Active
+NX-0571,Network planning 571,Maya Schmidt,CC-142,Customer Success,140000.00,Active
+NX-0572,Digital workplace 572,Leon Meyer,CC-143,Operations,95000.00,Active
+NX-0573,Security uplift 573,Eva Wagner,CC-144,Finance,490000.00,Active
+NX-0574,Service transition 574,Finn Becker,CC-145,People,85000.00,Active
+NX-0575,Data migration 575,Ava Hoffmann,CC-146,Product,205000.00,Active
+NX-0576,Field operations 576,Milan Schulz,CC-147,IT,630000.00,Active
+NX-0577,Customer delivery 577,Sofia Koch,CC-100,Engineering,540000.00,Active
+NX-0578,Platform modernization 578,Noah Richter,CC-101,Sales,105000.00,Closed
+NX-0579,Network planning 579,Lea Klein,CC-102,Customer Success,260000.00,Active
+NX-0580,Digital workplace 580,Jonas Wolf,CC-103,Operations,345000.00,Active
+NX-0581,Security uplift 581,Mia Neumann,CC-104,Finance,145000.00,Active
+NX-0582,Service transition 582,Elias Braun,CC-105,People,390000.00,Active
+NX-0583,Data migration 583,Lina Zimmermann,CC-106,Product,640000.00,Active
+NX-0584,Field operations 584,Theo Hartmann,CC-107,IT,480000.00,Active
+NX-0585,Customer delivery 585,Emma Kruger,CC-108,Engineering,125000.00,Active
+NX-0586,Platform modernization 586,Luca Lange,CC-109,Sales,225000.00,Active
+NX-0587,Network planning 587,Nina Schmitt,CC-110,Customer Success,190000.00,Active
+NX-0588,Digital workplace 588,Felix Werner,CC-111,Operations,455000.00,Active
+NX-0589,Security uplift 589,Sara Weber,CC-112,Finance,585000.00,Active
+NX-0590,Service transition 590,Oskar Fischer,CC-113,People,315000.00,Active
+NX-0591,Data migration 591,Maya Schmidt,CC-114,Product,230000.00,Active
+NX-0592,Field operations 592,Leon Meyer,CC-115,IT,110000.00,Active
+NX-0593,Customer delivery 593,Eva Wagner,CC-116,Engineering,85000.00,Active
+NX-0594,Platform modernization 594,Finn Becker,CC-117,Sales,105000.00,Active
+NX-0595,Network planning 595,Ava Hoffmann,CC-118,Customer Success,365000.00,Closed
+NX-0596,Digital workplace 596,Milan Schulz,CC-119,Operations,570000.00,Active
+NX-0597,Security uplift 597,Sofia Koch,CC-120,Finance,365000.00,Active
+NX-0598,Service transition 598,Noah Richter,CC-121,People,425000.00,Active
+NX-0599,Data migration 599,Lea Klein,CC-122,Product,260000.00,Active
+NX-0600,Field operations 600,Jonas Wolf,CC-123,IT,180000.00,Active

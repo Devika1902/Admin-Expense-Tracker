@@ -1,0 +1,1013 @@
+﻿TravelRef,EmployeeID,ProjectID,ExpenseCategory,DeclaredAmountEUR,ERPDocumentNo,ERPAmountEUR,VarianceEUR,ReconciliationStatus,CompletenessStatus,Issues
+TR-00001,E0008,NX-0012,Meals,492.85,502026000001,492.85,0.0,Exact match,Complete,
+TR-00002,E0015,NX-0023,Conference,1306.66,502026000002,1306.66,0.0,Exact match,Complete,
+TR-00003,E0022,NX-0034,Air travel,1146.44,502026000003,1146.44,0.0,Exact match,Complete,
+TR-00004,E0029,NX-0045,Local transport,1194.92,502026000004,1194.92,0.0,Exact match,Complete,
+TR-00005,E0036,NX-0056,Other,951.27,502026000005,951.27,0.0,Exact match,Complete,
+TR-00006,E0043,NX-0067,Rail travel,1315.94,502026000006,1315.94,0.0,Exact match,Complete,
+TR-00007,E0050,NX-0078,Parking,819.53,502026000007,819.53,0.0,Exact match,Complete,
+TR-00008,E0057,NX-0089,Accommodation,553.91,502026000008,553.91,0.0,Exact match,Complete,
+TR-00009,E0064,NX-0100,Meals,811.48,502026000009,842.48,31.0,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00010,E0071,NX-0111,Conference,1404.98,502026000010,1404.98,0.0,Exact match,Complete,
+TR-00011,E0078,NX-0122,Air travel,1397.90,502026000011,1397.90,0.0,Exact match,Complete,
+TR-00012,E0085,NX-0133,Local transport,760.01,502026000012,760.01,0.0,Exact match,Complete,
+TR-00013,E0092,NX-0144,Other,667.41,502026000013,667.41,0.0,Exact match,Complete,
+TR-00014,E0099,NX-0155,Rail travel,207.07,502026000014,207.07,0.0,Exact match,Complete,
+TR-00015,E0106,NX-0166,Parking,465.46,502026000015,465.46,0.0,Exact match,Complete,
+TR-00016,E0113,NX-0177,Accommodation,477.50,502026000016,477.50,0.0,Exact match,Complete,
+TR-00017,E0120,NX-0188,Meals,1044.79,502026000017,1044.79,0.0,Exact match,Complete,
+TR-00018,E0127,NX-0199,Conference,919.33,502026000018,902.08,-17.25,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00019,E0134,NX-0210,Air travel,1138.91,502026000019,1138.91,0.0,Exact match,Complete,
+TR-00020,E0141,NX-0221,Local transport,980.45,502026000020,980.45,0.0,Exact match,Complete,
+TR-00021,E0148,NX-0232,Other,667.62,502026000021,667.62,0.0,Exact match,Complete,
+TR-00022,E0155,NX-0243,Rail travel,156.66,502026000022,156.66,0.0,Exact match,Complete,
+TR-00023,E0162,NX-0254,Parking,1318.98,502026000023,1318.98,0.0,Exact match,Incomplete,Missing receipt
+TR-00024,E0169,NX-0265,Accommodation,994.49,502026000024,994.49,0.0,Exact match,Complete,
+TR-00025,E0176,NX-0276,Meals,988.82,502026000025,988.82,0.0,Exact match,Complete,
+TR-00026,E0183,NX-0287,Conference,147.25,502026000026,147.25,0.0,Exact match,Complete,
+TR-00027,E0190,NX-0298,Air travel,491.99,502026000027,522.99,31.0,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00028,E0197,NX-0309,Local transport,480.39,502026000028,480.39,0.0,Exact match,Complete,
+TR-00029,E0204,NX-0320,Other,1438.22,502026000029,1438.22,0.0,Exact match,Complete,
+TR-00030,E0211,NX-0331,Rail travel,519.28,502026000030,519.28,0.0,Exact match,Complete,
+TR-00031,E0218,NX-0342,Parking,624.77,502026000031,624.77,0.0,Exact match,Complete,
+TR-00032,E0225,NX-0353,Accommodation,456.07,502026000032,456.07,0.0,Exact match,Complete,
+TR-00033,E0232,NX-0364,Meals,236.89,502026000033,236.89,0.0,Exact match,Complete,
+TR-00034,E0239,NX-0375,Conference,1009.72,502026000034,1009.72,0.0,Exact match,Complete,
+TR-00035,E0246,NX-0386,Air travel,1013.66,502026000035,1013.66,0.0,Exact match,Complete,
+TR-00036,E0253,NX-0397,Local transport,801.48,502026000036,813.88,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00037,E0260,NX-0408,Other,688.52,502026000037,688.52,0.0,Exact match,Complete,
+TR-00038,E0267,NX-0419,Rail travel,899.43,502026000038,899.43,0.0,Exact match,Complete,
+TR-00039,E0274,NX-0430,Parking,486.54,502026000039,486.54,0.0,Exact match,Complete,
+TR-00040,E0281,NX-0441,Accommodation,1177.44,502026000040,1177.44,0.0,Exact match,Complete,
+TR-00041,E0288,NX-9999,Meals,129.63,502026000041,129.63,0.0,Dimension discrepancy,Incomplete,"Invalid project code; Project, employee or category differs from ERP"
+TR-00042,E0295,NX-0463,Conference,913.48,502026000042,913.48,0.0,Exact match,Complete,
+TR-00043,E0302,NX-0474,Air travel,263.29,502026000043,263.29,0.0,Exact match,Complete,
+TR-00044,E0309,NX-0485,Local transport,899.55,502026000044,899.55,0.0,Exact match,Complete,
+TR-00045,E0316,NX-0496,Other,749.19,502026000045,761.59,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00046,E0323,NX-0507,Rail travel,211.26,502026000046,211.26,0.0,Exact match,Incomplete,Missing receipt
+TR-00047,E0330,NX-0518,Parking,784.51,502026000047,784.51,0.0,Exact match,Complete,
+TR-00048,E0337,NX-0529,Accommodation,522.99,502026000048,522.99,0.0,Exact match,Complete,
+TR-00049,E0344,NX-0540,Meals,238.64,502026000049,238.64,0.0,Exact match,Complete,
+TR-00050,E0351,NX-0551,Conference,1108.99,502026000050,1108.99,0.0,Exact match,Complete,
+TR-00051,E0358,NX-0562,Air travel,982.44,502026000051,982.44,0.0,Exact match,Complete,
+TR-00052,E0365,NX-0573,Local transport,1393.86,502026000052,1393.86,0.0,Exact match,Complete,
+TR-00053,E0372,NX-0584,Other,76.39,502026000053,76.39,0.0,Exact match,Incomplete,Missing travel dates
+TR-00054,E0379,NX-0595,Rail travel,144.47,502026000054,156.87,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00055,E0386,NX-0006,Parking,287.03,502026000055,287.03,0.0,Exact match,Complete,
+TR-00056,E0393,NX-0017,Accommodation,64.98,502026000056,64.98,0.0,Exact match,Complete,
+TR-00057,E0400,NX-0028,Meals,432.52,502026000057,432.52,0.0,Exact match,Complete,
+TR-00058,E0407,NX-0039,Conference,225.58,502026000058,225.58,0.0,Exact match,Complete,
+TR-00059,E0414,NX-0050,Air travel,1160.93,502026000059,1160.93,0.0,Exact match,Complete,
+TR-00060,E0421,NX-0061,Local transport,773.74,502026000060,773.74,0.0,Exact match,Complete,
+TR-00061,E0428,NX-0072,Other,1386.22,502026000061,1386.22,0.0,Exact match,Complete,
+TR-00062,E0435,NX-0083,Rail travel,1411.18,502026000062,1411.18,0.0,Exact match,Complete,
+TR-00063,E0442,NX-0094,Parking,983.68,502026000063,966.43,-17.25,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00064,E0449,NX-0105,Accommodation,820.81,502026000064,820.81,0.0,Exact match,Complete,
+TR-00065,E0456,NX-0116,Meals,1198.62,502026000065,1198.62,0.0,Exact match,Complete,
+TR-00066,E0463,NX-0127,Conference,302.02,502026000066,302.02,0.0,Exact match,Complete,
+TR-00067,,NX-0138,Air travel,354.72,502026000067,354.72,0.0,Dimension discrepancy,Incomplete,"Missing or invalid employee; Project, employee or category differs from ERP"
+TR-00068,E0477,NX-0149,Local transport,1146.89,502026000068,1146.89,0.0,Exact match,Complete,
+TR-00069,E0484,NX-0160,Other,515.48,502026000069,515.48,0.0,Exact match,Incomplete,Missing receipt
+TR-00070,E0491,NX-0171,Rail travel,1238.19,502026000070,1238.19,0.0,Exact match,Complete,
+TR-00071,E0498,NX-0182,,641.11,502026000071,641.11,0.0,Dimension discrepancy,Incomplete,"Missing expense category; Project, employee or category differs from ERP"
+TR-00072,E0505,NX-0193,Accommodation,53.02,502026000072,84.02,31.0,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00073,E0512,NX-0204,Meals,917.80,502026000073,917.80,0.0,Exact match,Complete,
+TR-00074,E0519,NX-0215,Conference,394.68,502026000074,394.68,0.0,Exact match,Complete,
+TR-00075,E0526,NX-0226,Air travel,135.56,502026000075,135.56,0.0,Exact match,Complete,
+TR-00076,E0533,NX-0237,Local transport,579.34,502026000076,579.34,0.0,Exact match,Complete,
+TR-00077,E0540,NX-0248,Other,207.23,502026000077,207.23,0.0,Exact match,Complete,
+TR-00078,E0547,NX-0259,Rail travel,321.29,502026000078,321.29,0.0,Exact match,Complete,
+TR-00079,E0554,NX-0270,Parking,90.66,502026000079,90.66,0.0,Exact match,Complete,
+TR-00080,E0561,NX-0281,Accommodation,613.34,502026000080,613.34,0.0,Exact match,Complete,
+TR-00081,E0568,NX-0292,Meals,1038.58,502026000081,1021.33,-17.25,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00082,E0575,NX-9999,Conference,47.56,502026000082,47.56,0.0,Dimension discrepancy,Incomplete,"Invalid project code; Project, employee or category differs from ERP"
+TR-00083,E0582,NX-0314,Air travel,1124.53,502026000083,1124.53,0.0,Exact match,Complete,
+TR-00084,E0589,NX-0325,Local transport,1135.16,502026000084,1135.16,0.0,Exact match,Complete,
+TR-00085,E0596,NX-0336,Other,988.41,502026000085,988.41,0.0,Exact match,Complete,
+TR-00086,E0003,NX-0347,Rail travel,1390.49,502026000086,1390.49,0.0,Exact match,Complete,
+TR-00087,E0010,NX-0358,Parking,1188.51,502026000087,1188.51,0.0,Exact match,Complete,
+TR-00088,E0017,NX-0369,Accommodation,1364.55,502026000088,1364.55,0.0,Exact match,Complete,
+TR-00089,E0024,NX-0380,Meals,830.22,502026000089,830.22,0.0,Exact match,Complete,
+TR-00090,E0031,NX-0391,Conference,206.68,502026000090,219.08,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00091,E0038,NX-0402,Air travel,818.60,502026000091,818.60,0.0,Exact match,Complete,
+TR-00092,E0045,NX-0413,Local transport,1285.31,502026000092,1285.31,0.0,Exact match,Incomplete,Missing receipt
+TR-00093,E0052,NX-0424,Other,202.82,502026000093,202.82,0.0,Exact match,Complete,
+TR-00094,E0059,NX-0435,Rail travel,928.50,502026000094,928.50,0.0,Exact match,Complete,
+TR-00095,E0066,NX-0446,Parking,105.18,502026000095,105.18,0.0,Exact match,Complete,
+TR-00096,E0073,NX-0457,Accommodation,1340.09,502026000096,1340.09,0.0,Exact match,Complete,
+TR-00097,E0080,NX-0468,Meals,622.87,502026000097,622.87,0.0,Exact match,Complete,
+TR-00098,E0087,NX-0479,Conference,977.04,502026000098,977.04,0.0,Exact match,Complete,
+TR-00099,E0094,NX-0490,Air travel,275.60,502026000099,258.35,-17.25,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00100,E0101,NX-0501,Local transport,569.73,502026000100,569.73,0.0,Exact match,Complete,Potential duplicate declaration
+TR-00101,E0108,NX-0512,Other,820.31,502026000101,820.31,0.0,Exact match,Complete,Potential duplicate declaration
+TR-00102,E0115,NX-0523,Rail travel,55.44,502026000102,55.44,0.0,Exact match,Complete,Potential duplicate declaration
+TR-00103,E0122,NX-0534,Parking,747.87,502026000103,747.87,0.0,Exact match,Complete,Potential duplicate declaration
+TR-00104,E0129,NX-0545,Accommodation,94.50,502026000104,94.50,0.0,Exact match,Complete,Potential duplicate declaration
+TR-00105,E0136,NX-0556,Meals,66.56,502026000105,66.56,0.0,Exact match,Complete,Potential duplicate declaration
+TR-00106,E0143,NX-0567,Conference,398.04,502026000106,398.04,0.0,Exact match,Incomplete,Missing travel dates; Potential duplicate declaration
+TR-00107,E0150,NX-0578,Air travel,206.70,502026000107,206.70,0.0,Exact match,Complete,Potential duplicate declaration
+TR-00108,E0157,NX-0589,Local transport,830.22,502026000108,842.62,12.4,Amount discrepancy,Complete,Potential duplicate declaration; Declared and ERP amounts differ
+TR-00109,E0164,NX-0600,Other,1288.04,502026000109,1288.04,0.0,Exact match,Complete,Potential duplicate declaration
+TR-00110,E0171,NX-0011,Rail travel,319.57,502026000110,319.57,0.0,Exact match,Complete,Potential duplicate declaration
+TR-00111,E0178,NX-0022,Parking,1134.21,502026000111,1134.21,0.0,Exact match,Complete,Potential duplicate declaration
+TR-00112,E0185,NX-0033,Accommodation,220.45,502026000112,220.45,0.0,Exact match,Complete,
+TR-00113,E0192,NX-0044,Meals,988.17,502026000113,988.17,0.0,Exact match,Complete,
+TR-00114,E0199,NX-0055,Conference,568.92,502026000114,568.92,0.0,Exact match,Complete,
+TR-00115,E0206,NX-0066,Air travel,313.31,502026000115,313.31,0.0,Exact match,Incomplete,Missing receipt
+TR-00116,E0213,NX-0077,Local transport,792.90,502026000116,792.90,0.0,Exact match,Complete,
+TR-00117,E0220,NX-0088,Other,598.02,502026000117,629.02,31.0,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00118,E0227,NX-0099,Rail travel,1169.92,502026000118,1169.92,0.0,Exact match,Complete,
+TR-00119,E0234,NX-0110,Parking,154.83,502026000119,154.83,0.0,Exact match,Complete,
+TR-00120,E0241,NX-0121,Accommodation,251.12,502026000120,251.12,0.0,Exact match,Complete,
+TR-00121,E0248,NX-0132,Meals,713.80,502026000121,713.80,0.0,Exact match,Complete,
+TR-00122,E0255,NX-0143,Conference,161.37,502026000122,161.37,0.0,Exact match,Complete,
+TR-00123,E0262,NX-9999,Air travel,1398.34,502026000123,1398.34,0.0,Dimension discrepancy,Incomplete,"Invalid project code; Project, employee or category differs from ERP"
+TR-00124,E0269,NX-0165,Local transport,116.75,502026000124,116.75,0.0,Exact match,Complete,
+TR-00125,E0276,NX-0176,Other,1332.52,502026000125,1332.52,0.0,Exact match,Complete,
+TR-00126,E0283,NX-0187,Rail travel,1405.33,502026000126,1417.73,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00127,E0290,NX-0198,Parking,754.91,502026000127,754.91,0.0,Exact match,Complete,
+TR-00128,E0297,NX-0209,Accommodation,886.77,502026000128,886.77,0.0,Exact match,Complete,
+TR-00129,E0304,NX-0220,Meals,1384.42,502026000129,1384.42,0.0,Exact match,Complete,
+TR-00130,E0311,NX-0231,Conference,188.06,502026000130,188.06,0.0,Exact match,Complete,
+TR-00131,E0318,NX-0242,Air travel,594.77,502026000131,594.77,0.0,Exact match,Complete,
+TR-00132,E0325,NX-0253,Local transport,489.32,502026000132,489.32,0.0,Exact match,Complete,
+TR-00133,E0332,NX-0264,Other,189.17,502026000133,189.17,0.0,Exact match,Complete,
+TR-00134,,NX-0275,Rail travel,536.48,502026000134,536.48,0.0,Dimension discrepancy,Incomplete,"Missing or invalid employee; Project, employee or category differs from ERP"
+TR-00135,E0346,NX-0286,Parking,127.76,502026000135,140.16,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00136,E0353,NX-0297,Accommodation,853.62,502026000136,853.62,0.0,Exact match,Complete,
+TR-00137,E0360,NX-0308,Meals,1063.11,502026000137,1063.11,0.0,Exact match,Complete,
+TR-00138,E0367,NX-0319,Conference,1345.74,502026000138,1345.74,0.0,Exact match,Incomplete,Missing receipt
+TR-00139,E0374,NX-0330,Air travel,987.15,502026000139,987.15,0.0,Exact match,Complete,
+TR-00140,E0381,NX-0341,Local transport,497.81,502026000140,497.81,0.0,Exact match,Complete,
+TR-00141,E0388,NX-0352,Other,509.93,502026000141,509.93,0.0,Exact match,Complete,
+TR-00142,E0395,NX-0363,,274.54,502026000142,274.54,0.0,Dimension discrepancy,Incomplete,"Missing expense category; Project, employee or category differs from ERP"
+TR-00143,E0402,NX-0374,Parking,58.57,502026000143,58.57,0.0,Exact match,Complete,
+TR-00144,E0409,NX-0385,Accommodation,152.04,502026000144,183.04,31.0,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00145,E0416,NX-0396,Meals,1368.98,502026000145,1368.98,0.0,Exact match,Complete,
+TR-00146,E0423,NX-0407,Conference,988.03,502026000146,988.03,0.0,Exact match,Complete,
+TR-00147,E0430,NX-0418,Air travel,1371.80,502026000147,1371.80,0.0,Exact match,Complete,
+TR-00148,E0437,NX-0429,Local transport,1376.73,502026000148,1376.73,0.0,Exact match,Complete,
+TR-00149,E0444,NX-0440,Other,47.47,502026000149,47.47,0.0,Exact match,Complete,
+TR-00150,E0451,NX-0451,Rail travel,1228.33,502026000150,1228.33,0.0,Exact match,Complete,
+TR-00151,E0458,NX-0462,Parking,576.19,502026000151,576.19,0.0,Exact match,Complete,
+TR-00152,E0465,NX-0473,Accommodation,844.04,502026000152,844.04,0.0,Exact match,Complete,
+TR-00153,E0472,NX-0484,Meals,173.25,502026000153,204.25,31.0,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00154,E0479,NX-0495,Conference,1180.81,502026000154,1180.81,0.0,Exact match,Complete,
+TR-00155,E0486,NX-0506,Air travel,99.98,502026000155,99.98,0.0,Exact match,Complete,
+TR-00156,E0493,NX-0517,Local transport,1008.20,502026000156,1008.20,0.0,Exact match,Complete,
+TR-00157,E0500,NX-0528,Other,898.82,502026000157,898.82,0.0,Exact match,Complete,
+TR-00158,E0507,NX-0539,Rail travel,852.75,502026000158,852.75,0.0,Exact match,Complete,
+TR-00159,E0514,NX-0550,Parking,464.36,502026000159,464.36,0.0,Exact match,Incomplete,Missing travel dates
+TR-00160,E0521,NX-0561,Accommodation,194.70,502026000160,194.70,0.0,Exact match,Complete,
+TR-00161,E0528,NX-0572,Meals,81.57,502026000161,81.57,0.0,Exact match,Incomplete,Missing receipt
+TR-00162,E0535,NX-0583,Conference,74.47,502026000162,86.87,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00163,E0542,NX-0594,Air travel,1258.70,502026000163,1258.70,0.0,Exact match,Complete,
+TR-00164,E0549,NX-9999,Local transport,904.53,502026000164,904.53,0.0,Dimension discrepancy,Incomplete,"Invalid project code; Project, employee or category differs from ERP"
+TR-00165,E0556,NX-0016,Other,1364.00,502026000165,1364.00,0.0,Exact match,Complete,
+TR-00166,E0563,NX-0027,Rail travel,779.33,502026000166,779.33,0.0,Exact match,Complete,
+TR-00167,E0570,NX-0038,Parking,237.47,502026000167,237.47,0.0,Exact match,Complete,
+TR-00168,E0577,NX-0049,Accommodation,533.47,502026000168,533.47,0.0,Exact match,Complete,
+TR-00169,E0584,NX-0060,Meals,990.34,502026000169,990.34,0.0,Exact match,Complete,
+TR-00170,E0591,NX-0071,Conference,931.59,502026000170,931.59,0.0,Exact match,Complete,
+TR-00171,E0598,NX-0082,Air travel,1190.72,502026000171,1221.72,31.0,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00172,E0005,NX-0093,Local transport,597.69,502026000172,597.69,0.0,Exact match,Complete,
+TR-00173,E0012,NX-0104,Other,384.38,502026000173,384.38,0.0,Exact match,Complete,
+TR-00174,E0019,NX-0115,Rail travel,272.25,502026000174,272.25,0.0,Exact match,Complete,
+TR-00175,E0026,NX-0126,Parking,987.98,502026000175,987.98,0.0,Exact match,Complete,
+TR-00176,E0033,NX-0137,Accommodation,1251.87,502026000176,1251.87,0.0,Exact match,Complete,
+TR-00177,E0040,NX-0148,Meals,705.17,502026000177,705.17,0.0,Exact match,Complete,
+TR-00178,E0047,NX-0159,Conference,1373.60,502026000178,1373.60,0.0,Exact match,Complete,
+TR-00179,E0054,NX-0170,Air travel,456.40,502026000179,456.40,0.0,Exact match,Complete,
+TR-00180,E0061,NX-0181,Local transport,408.70,502026000180,439.70,31.0,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00181,E0068,NX-0192,Other,1088.36,502026000181,1088.36,0.0,Exact match,Complete,
+TR-00182,E0075,NX-0203,Rail travel,595.19,502026000182,595.19,0.0,Exact match,Complete,
+TR-00183,E0082,NX-0214,Parking,97.22,502026000183,97.22,0.0,Exact match,Complete,
+TR-00184,E0089,NX-0225,Accommodation,378.16,502026000184,378.16,0.0,Exact match,Incomplete,Missing receipt
+TR-00185,E0096,NX-0236,Meals,125.49,502026000185,125.49,0.0,Exact match,Complete,
+TR-00186,E0103,NX-0247,Conference,693.52,502026000186,693.52,0.0,Exact match,Complete,
+TR-00187,E0110,NX-0258,Air travel,695.26,502026000187,695.26,0.0,Exact match,Complete,
+TR-00188,E0117,NX-0269,Local transport,460.97,502026000188,460.97,0.0,Exact match,Complete,
+TR-00189,E0124,NX-0280,Other,807.53,502026000189,790.28,-17.25,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00190,E0131,NX-0291,Rail travel,1031.39,502026000190,1031.39,0.0,Exact match,Complete,
+TR-00191,E0138,NX-0302,Parking,848.93,502026000191,848.93,0.0,Exact match,Complete,
+TR-00192,E0145,NX-0313,Accommodation,467.95,502026000192,467.95,0.0,Exact match,Complete,
+TR-00193,E0152,NX-0324,Meals,1407.85,502026000193,1407.85,0.0,Exact match,Complete,
+TR-00194,E0159,NX-0335,Conference,121.17,502026000194,121.17,0.0,Exact match,Complete,
+TR-00195,E0166,NX-0346,Air travel,1333.50,502026000195,1333.50,0.0,Exact match,Complete,
+TR-00196,E0173,NX-0357,Local transport,244.27,502026000196,244.27,0.0,Exact match,Complete,
+TR-00197,E0180,NX-0368,Other,982.49,502026000197,982.49,0.0,Exact match,Complete,
+TR-00198,E0187,NX-0379,Rail travel,442.23,502026000198,473.23,31.0,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00199,E0194,NX-0390,Parking,619.42,502026000199,619.42,0.0,Exact match,Complete,
+TR-00200,E0201,NX-0401,Accommodation,441.16,502026000200,441.16,0.0,Exact match,Complete,
+TR-00201,,NX-0412,Meals,1325.42,502026000201,1325.42,0.0,Dimension discrepancy,Incomplete,"Missing or invalid employee; Project, employee or category differs from ERP"
+TR-00202,E0215,NX-0423,Conference,870.42,502026000202,870.42,0.0,Exact match,Complete,
+TR-00203,E0222,NX-0434,Air travel,425.74,502026000203,425.74,0.0,Exact match,Complete,
+TR-00204,E0229,NX-0445,Local transport,1006.30,502026000204,1006.30,0.0,Exact match,Complete,
+TR-00205,E0236,NX-9999,Other,1183.35,502026000205,1183.35,0.0,Dimension discrepancy,Incomplete,"Invalid project code; Project, employee or category differs from ERP"
+TR-00206,E0243,NX-0467,Rail travel,1080.71,502026000206,1080.71,0.0,Exact match,Complete,
+TR-00207,E0250,NX-0478,Parking,58.73,502026000207,89.73,31.0,Amount discrepancy,Incomplete,Missing receipt; Declared and ERP amounts differ
+TR-00208,E0257,NX-0489,Accommodation,1154.88,502026000208,1154.88,0.0,Exact match,Complete,
+TR-00209,E0264,NX-0500,Meals,183.31,502026000209,183.31,0.0,Exact match,Complete,
+TR-00210,E0271,NX-0511,Conference,997.07,502026000210,997.07,0.0,Exact match,Complete,
+TR-00211,E0278,NX-0522,Air travel,516.87,502026000211,516.87,0.0,Exact match,Complete,
+TR-00212,E0285,NX-0533,Local transport,724.23,502026000212,724.23,0.0,Exact match,Incomplete,Missing travel dates
+TR-00213,E0292,NX-0544,,1054.50,502026000213,1054.50,0.0,Dimension discrepancy,Incomplete,"Missing expense category; Project, employee or category differs from ERP"
+TR-00214,E0299,NX-0555,Rail travel,140.21,502026000214,140.21,0.0,Exact match,Complete,
+TR-00215,E0306,NX-0566,Parking,870.43,502026000215,870.43,0.0,Exact match,Complete,
+TR-00216,E0313,NX-0577,Accommodation,958.32,502026000216,941.07,-17.25,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00217,E0320,NX-0588,Meals,135.28,502026000217,135.28,0.0,Exact match,Complete,
+TR-00218,E0327,NX-0599,Conference,815.60,502026000218,815.60,0.0,Exact match,Complete,
+TR-00219,E0334,NX-0010,Air travel,1348.09,502026000219,1348.09,0.0,Exact match,Complete,
+TR-00220,E0341,NX-0021,Local transport,408.95,502026000220,408.95,0.0,Exact match,Complete,
+TR-00221,E0348,NX-0032,Other,1040.59,502026000221,1040.59,0.0,Exact match,Complete,
+TR-00222,E0355,NX-0043,Rail travel,382.76,502026000222,382.76,0.0,Exact match,Complete,
+TR-00223,E0362,NX-0054,Parking,696.89,502026000223,696.89,0.0,Exact match,Complete,
+TR-00224,E0369,NX-0065,Accommodation,687.06,502026000224,687.06,0.0,Exact match,Complete,
+TR-00225,E0376,NX-0076,Meals,1034.96,502026000225,1065.96,31.0,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00226,E0383,NX-0087,Conference,1066.33,502026000226,1066.33,0.0,Exact match,Complete,
+TR-00227,E0390,NX-0098,Air travel,637.56,502026000227,637.56,0.0,Exact match,Complete,
+TR-00228,E0397,NX-0109,Local transport,276.18,502026000228,276.18,0.0,Exact match,Complete,
+TR-00229,E0404,NX-0120,Other,854.35,502026000229,854.35,0.0,Exact match,Complete,
+TR-00230,E0411,NX-0131,Rail travel,218.10,502026000230,218.10,0.0,Exact match,Incomplete,Missing receipt
+TR-00231,E0418,NX-0142,Parking,713.95,502026000231,713.95,0.0,Exact match,Complete,
+TR-00232,E0425,NX-0153,Accommodation,843.02,502026000232,843.02,0.0,Exact match,Complete,
+TR-00233,E0432,NX-0164,Meals,1274.34,502026000233,1274.34,0.0,Exact match,Complete,
+TR-00234,E0439,NX-0175,Conference,1090.80,502026000234,1073.55,-17.25,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00235,E0446,NX-0186,Air travel,1131.86,502026000235,1131.86,0.0,Exact match,Complete,
+TR-00236,E0453,NX-0197,Local transport,706.73,502026000236,706.73,0.0,Exact match,Complete,
+TR-00237,E0460,NX-0208,Other,1057.16,502026000237,1057.16,0.0,Exact match,Complete,
+TR-00238,E0467,NX-0219,Rail travel,1376.43,502026000238,1376.43,0.0,Exact match,Complete,
+TR-00239,E0474,NX-0230,Parking,157.61,502026000239,157.61,0.0,Exact match,Complete,
+TR-00240,E0481,NX-0241,Accommodation,773.85,502026000240,773.85,0.0,Exact match,Complete,
+TR-00241,E0488,NX-0252,Meals,674.30,502026000241,674.30,0.0,Exact match,Complete,
+TR-00242,E0495,NX-0263,Conference,350.65,502026000242,350.65,0.0,Exact match,Complete,
+TR-00243,E0502,NX-0274,Air travel,1426.06,502026000243,1457.06,31.0,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00244,E0509,NX-0285,Local transport,574.06,502026000244,574.06,0.0,Exact match,Complete,
+TR-00245,E0516,NX-0296,Other,805.87,502026000245,805.87,0.0,Exact match,Complete,
+TR-00246,E0523,NX-9999,Rail travel,736.01,502026000246,736.01,0.0,Dimension discrepancy,Incomplete,"Invalid project code; Project, employee or category differs from ERP"
+TR-00247,E0530,NX-0318,Parking,40.27,502026000247,40.27,0.0,Exact match,Complete,
+TR-00248,E0537,NX-0329,Accommodation,1045.32,502026000248,1045.32,0.0,Exact match,Complete,
+TR-00249,E0544,NX-0340,Meals,361.44,502026000249,361.44,0.0,Exact match,Complete,
+TR-00250,E0551,NX-0351,Conference,1133.78,502026000250,1133.78,0.0,Exact match,Complete,
+TR-00251,E0558,NX-0362,Air travel,934.76,502026000251,934.76,0.0,Exact match,Complete,
+TR-00252,E0565,NX-0373,Local transport,235.19,502026000252,247.59,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00253,E0572,NX-0384,Other,1352.89,502026000253,1352.89,0.0,Exact match,Incomplete,Missing receipt
+TR-00254,E0579,NX-0395,Rail travel,214.03,502026000254,214.03,0.0,Exact match,Complete,
+TR-00255,E0586,NX-0406,Parking,1216.88,502026000255,1216.88,0.0,Exact match,Complete,
+TR-00256,E0593,NX-0417,Accommodation,1264.49,502026000256,1264.49,0.0,Exact match,Complete,
+TR-00257,E0600,NX-0428,Meals,994.29,502026000257,994.29,0.0,Exact match,Complete,
+TR-00258,E0007,NX-0439,Conference,251.34,502026000258,251.34,0.0,Exact match,Complete,
+TR-00259,E0014,NX-0450,Air travel,1073.77,502026000259,1073.77,0.0,Exact match,Complete,
+TR-00260,E0021,NX-0461,Local transport,994.71,502026000260,994.71,0.0,Exact match,Complete,
+TR-00261,E0028,NX-0472,Other,699.33,502026000261,711.73,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00262,E0035,NX-0483,Rail travel,266.87,502026000262,266.87,0.0,Exact match,Complete,
+TR-00263,E0042,NX-0494,Parking,841.19,502026000263,841.19,0.0,Exact match,Complete,
+TR-00264,E0049,NX-0505,Accommodation,272.44,502026000264,272.44,0.0,Exact match,Complete,
+TR-00265,E0056,NX-0516,Meals,1029.92,502026000265,1029.92,0.0,Exact match,Incomplete,Missing travel dates
+TR-00266,E0063,NX-0527,Conference,1172.94,502026000266,1172.94,0.0,Exact match,Complete,
+TR-00267,E0070,NX-0538,Air travel,937.92,502026000267,937.92,0.0,Exact match,Complete,
+TR-00268,,NX-0549,Local transport,949.99,502026000268,949.99,0.0,Dimension discrepancy,Incomplete,"Missing or invalid employee; Project, employee or category differs from ERP"
+TR-00269,E0084,NX-0560,Other,534.64,502026000269,534.64,0.0,Exact match,Complete,
+TR-00270,E0091,NX-0571,Rail travel,1054.21,502026000270,1066.61,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00271,E0098,NX-0582,Parking,1314.80,502026000271,1314.80,0.0,Exact match,Complete,
+TR-00272,E0105,NX-0593,Accommodation,1261.22,502026000272,1261.22,0.0,Exact match,Complete,
+TR-00273,E0112,NX-0004,Meals,728.11,502026000273,728.11,0.0,Exact match,Complete,
+TR-00274,E0119,NX-0015,Conference,74.38,502026000274,74.38,0.0,Exact match,Complete,
+TR-00275,E0126,NX-0026,Air travel,321.22,502026000275,321.22,0.0,Exact match,Complete,
+TR-00276,E0133,NX-0037,Local transport,1277.78,502026000276,1277.78,0.0,Exact match,Incomplete,Missing receipt
+TR-00277,E0140,NX-0048,Other,161.19,502026000277,161.19,0.0,Exact match,Complete,
+TR-00278,E0147,NX-0059,Rail travel,1189.96,502026000278,1189.96,0.0,Exact match,Complete,
+TR-00279,E0154,NX-0070,Parking,447.24,502026000279,478.24,31.0,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00280,E0161,NX-0081,Accommodation,138.91,502026000280,138.91,0.0,Exact match,Complete,
+TR-00281,E0168,NX-0092,Meals,176.05,502026000281,176.05,0.0,Exact match,Complete,
+TR-00282,E0175,NX-0103,Conference,820.47,502026000282,820.47,0.0,Exact match,Complete,
+TR-00283,E0182,NX-0114,Air travel,1136.30,502026000283,1136.30,0.0,Exact match,Complete,
+TR-00284,E0189,NX-0125,,1227.84,502026000284,1227.84,0.0,Dimension discrepancy,Incomplete,"Missing expense category; Project, employee or category differs from ERP"
+TR-00285,E0196,NX-0136,Other,206.36,502026000285,206.36,0.0,Exact match,Complete,
+TR-00286,E0203,NX-0147,Rail travel,91.36,502026000286,91.36,0.0,Exact match,Complete,
+TR-00287,E0210,NX-9999,Parking,714.13,502026000287,714.13,0.0,Dimension discrepancy,Incomplete,"Invalid project code; Project, employee or category differs from ERP"
+TR-00288,E0217,NX-0169,Accommodation,1444.12,502026000288,1456.52,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00289,E0224,NX-0180,Meals,1181.88,502026000289,1181.88,0.0,Exact match,Complete,
+TR-00290,E0231,NX-0191,Conference,1230.46,502026000290,1230.46,0.0,Exact match,Complete,
+TR-00291,E0238,NX-0202,Air travel,907.22,502026000291,907.22,0.0,Exact match,Complete,
+TR-00292,E0245,NX-0213,Local transport,1160.05,502026000292,1160.05,0.0,Exact match,Complete,
+TR-00293,E0252,NX-0224,Other,644.56,502026000293,644.56,0.0,Exact match,Complete,
+TR-00294,E0259,NX-0235,Rail travel,565.08,502026000294,565.08,0.0,Exact match,Complete,
+TR-00295,E0266,NX-0246,Parking,405.65,502026000295,405.65,0.0,Exact match,Complete,
+TR-00296,E0273,NX-0257,Accommodation,1394.73,502026000296,1394.73,0.0,Exact match,Complete,
+TR-00297,E0280,NX-0268,Meals,381.80,502026000297,364.55,-17.25,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00298,E0287,NX-0279,Conference,1435.18,502026000298,1435.18,0.0,Exact match,Complete,
+TR-00299,E0294,NX-0290,Air travel,246.38,502026000299,246.38,0.0,Exact match,Incomplete,Missing receipt
+TR-00300,E0301,NX-0301,Local transport,1092.24,502026000300,1092.24,0.0,Exact match,Complete,
+TR-00301,E0308,NX-0312,Other,1362.84,502026000301,1362.84,0.0,Exact match,Complete,
+TR-00302,E0315,NX-0323,Rail travel,217.50,502026000302,217.50,0.0,Exact match,Complete,
+TR-00303,E0322,NX-0334,Parking,1299.62,502026000303,1299.62,0.0,Exact match,Complete,
+TR-00304,E0329,NX-0345,Accommodation,163.03,502026000304,163.03,0.0,Exact match,Complete,
+TR-00305,E0336,NX-0356,Meals,253.95,502026000305,253.95,0.0,Exact match,Complete,
+TR-00306,E0343,NX-0367,Conference,1325.53,502026000306,1337.93,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00307,E0350,NX-0378,Air travel,857.84,502026000307,857.84,0.0,Exact match,Complete,
+TR-00308,E0357,NX-0389,Local transport,1081.34,502026000308,1081.34,0.0,Exact match,Complete,
+TR-00309,E0364,NX-0400,Other,229.06,502026000309,229.06,0.0,Exact match,Complete,
+TR-00310,E0371,NX-0411,Rail travel,1104.92,502026000310,1104.92,0.0,Exact match,Complete,
+TR-00311,E0378,NX-0422,Parking,370.17,502026000311,370.17,0.0,Exact match,Complete,
+TR-00312,E0385,NX-0433,Accommodation,704.52,502026000312,704.52,0.0,Exact match,Complete,
+TR-00313,E0392,NX-0444,Meals,816.59,502026000313,816.59,0.0,Exact match,Complete,
+TR-00314,E0399,NX-0455,Conference,44.44,502026000314,44.44,0.0,Exact match,Complete,
+TR-00315,E0406,NX-0466,Air travel,172.16,502026000315,154.91,-17.25,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00316,E0413,NX-0477,Local transport,1362.28,502026000316,1362.28,0.0,Exact match,Complete,
+TR-00317,E0420,NX-0488,Other,1416.41,502026000317,1416.41,0.0,Exact match,Complete,
+TR-00318,E0427,NX-0499,Rail travel,909.14,502026000318,909.14,0.0,Exact match,Incomplete,Missing travel dates
+TR-00319,E0434,NX-0510,Parking,1317.34,502026000319,1317.34,0.0,Exact match,Complete,
+TR-00320,E0441,NX-0521,Accommodation,1229.65,502026000320,1229.65,0.0,Exact match,Complete,
+TR-00321,E0448,NX-0532,Meals,1207.66,502026000321,1207.66,0.0,Exact match,Complete,
+TR-00322,E0455,NX-0543,Conference,356.83,502026000322,356.83,0.0,Exact match,Incomplete,Missing receipt
+TR-00323,E0462,NX-0554,Air travel,83.38,502026000323,83.38,0.0,Exact match,Complete,
+TR-00324,E0469,NX-0565,Local transport,1448.22,502026000324,1460.62,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00325,E0476,NX-0576,Other,1257.04,502026000325,1257.04,0.0,Exact match,Complete,
+TR-00326,E0483,NX-0587,Rail travel,133.61,502026000326,133.61,0.0,Exact match,Complete,
+TR-00327,E0490,NX-0598,Parking,145.59,502026000327,145.59,0.0,Exact match,Complete,
+TR-00328,E0497,NX-9999,Accommodation,1235.58,502026000328,1235.58,0.0,Dimension discrepancy,Incomplete,"Invalid project code; Project, employee or category differs from ERP"
+TR-00329,E0504,NX-0020,Meals,1365.50,502026000329,1365.50,0.0,Exact match,Complete,
+TR-00330,E0511,NX-0031,Conference,1326.69,502026000330,1326.69,0.0,Exact match,Complete,
+TR-00331,E0518,NX-0042,Air travel,996.84,502026000331,996.84,0.0,Exact match,Complete,
+TR-00332,E0525,NX-0053,Local transport,607.58,502026000332,607.58,0.0,Exact match,Complete,
+TR-00333,E0532,NX-0064,Other,1084.46,502026000333,1096.86,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00334,E0539,NX-0075,Rail travel,405.36,502026000334,405.36,0.0,Exact match,Complete,
+TR-00335,,NX-0086,Parking,26.07,502026000335,26.07,0.0,Dimension discrepancy,Incomplete,"Missing or invalid employee; Project, employee or category differs from ERP"
+TR-00336,E0553,NX-0097,Accommodation,73.02,502026000336,73.02,0.0,Exact match,Complete,
+TR-00337,E0560,NX-0108,Meals,842.04,502026000337,842.04,0.0,Exact match,Complete,
+TR-00338,E0567,NX-0119,Conference,457.78,502026000338,457.78,0.0,Exact match,Complete,
+TR-00339,E0574,NX-0130,Air travel,367.24,502026000339,367.24,0.0,Exact match,Complete,
+TR-00340,E0581,NX-0141,Local transport,473.37,502026000340,473.37,0.0,Exact match,Complete,
+TR-00341,E0588,NX-0152,Other,1209.30,502026000341,1209.30,0.0,Exact match,Complete,
+TR-00342,E0595,NX-0163,Rail travel,604.77,502026000342,617.17,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00343,E0002,NX-0174,Parking,102.28,502026000343,102.28,0.0,Exact match,Complete,
+TR-00344,E0009,NX-0185,Accommodation,1191.97,502026000344,1191.97,0.0,Exact match,Complete,
+TR-00345,E0016,NX-0196,Meals,914.65,502026000345,914.65,0.0,Exact match,Incomplete,Missing receipt
+TR-00346,E0023,NX-0207,Conference,689.32,502026000346,689.32,0.0,Exact match,Complete,
+TR-00347,E0030,NX-0218,Air travel,1011.30,502026000347,1011.30,0.0,Exact match,Complete,
+TR-00348,E0037,NX-0229,Local transport,499.33,502026000348,499.33,0.0,Exact match,Complete,
+TR-00349,E0044,NX-0240,Other,212.10,502026000349,212.10,0.0,Exact match,Complete,
+TR-00350,E0051,NX-0251,Rail travel,1361.60,502026000350,1361.60,0.0,Exact match,Complete,
+TR-00351,E0058,NX-0262,Parking,1297.30,502026000351,1280.05,-17.25,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00352,E0065,NX-0273,Accommodation,845.66,502026000352,845.66,0.0,Exact match,Complete,
+TR-00353,E0072,NX-0284,Meals,1349.28,502026000353,1349.28,0.0,Exact match,Complete,
+TR-00354,E0079,NX-0295,Conference,1144.33,502026000354,1144.33,0.0,Exact match,Complete,
+TR-00355,E0086,NX-0306,,1294.87,502026000355,1294.87,0.0,Dimension discrepancy,Incomplete,"Missing expense category; Project, employee or category differs from ERP"
+TR-00356,E0093,NX-0317,Local transport,547.62,502026000356,547.62,0.0,Exact match,Complete,
+TR-00357,E0100,NX-0328,Other,982.05,502026000357,982.05,0.0,Exact match,Complete,
+TR-00358,E0107,NX-0339,Rail travel,1052.09,502026000358,1052.09,0.0,Exact match,Complete,
+TR-00359,E0114,NX-0350,Parking,448.18,502026000359,448.18,0.0,Exact match,Complete,
+TR-00360,E0121,NX-0361,Accommodation,200.14,502026000360,212.54,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00361,E0128,NX-0372,Meals,1334.24,502026000361,1334.24,0.0,Exact match,Complete,
+TR-00362,E0135,NX-0383,Conference,1234.30,502026000362,1234.30,0.0,Exact match,Complete,
+TR-00363,E0142,NX-0394,Air travel,585.28,502026000363,585.28,0.0,Exact match,Complete,
+TR-00364,E0149,NX-0405,Local transport,337.09,502026000364,337.09,0.0,Exact match,Complete,
+TR-00365,E0156,NX-0416,Other,932.72,502026000365,932.72,0.0,Exact match,Complete,
+TR-00366,E0163,NX-0427,Rail travel,748.06,502026000366,748.06,0.0,Exact match,Complete,
+TR-00367,E0170,NX-0438,Parking,220.63,502026000367,220.63,0.0,Exact match,Complete,
+TR-00368,E0177,NX-0449,Accommodation,743.71,502026000368,743.71,0.0,Exact match,Incomplete,Missing receipt
+TR-00369,E0184,NX-9999,Meals,1084.60,502026000369,1067.35,-17.25,Dimension discrepancy,Incomplete,"Invalid project code; Project, employee or category differs from ERP"
+TR-00370,E0191,NX-0471,Conference,95.65,502026000370,95.65,0.0,Exact match,Complete,
+TR-00371,E0198,NX-0482,Air travel,490.14,502026000371,490.14,0.0,Exact match,Incomplete,Missing travel dates
+TR-00372,E0205,NX-0493,Local transport,716.24,502026000372,716.24,0.0,Exact match,Complete,
+TR-00373,E0212,NX-0504,Other,1152.99,502026000373,1152.99,0.0,Exact match,Complete,
+TR-00374,E0219,NX-0515,Rail travel,1319.13,502026000374,1319.13,0.0,Exact match,Complete,
+TR-00375,E0226,NX-0526,Parking,599.44,502026000375,599.44,0.0,Exact match,Complete,
+TR-00376,E0233,NX-0537,Accommodation,1066.85,502026000376,1066.85,0.0,Exact match,Complete,
+TR-00377,E0240,NX-0548,Meals,704.75,502026000377,704.75,0.0,Exact match,Complete,
+TR-00378,E0247,NX-0559,Conference,1418.05,502026000378,1430.45,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00379,E0254,NX-0570,Air travel,1419.75,502026000379,1419.75,0.0,Exact match,Complete,
+TR-00380,E0261,NX-0581,Local transport,1211.88,502026000380,1211.88,0.0,Exact match,Complete,
+TR-00381,E0268,NX-0592,Other,59.87,502026000381,59.87,0.0,Exact match,Complete,
+TR-00382,E0275,NX-0003,Rail travel,837.50,502026000382,837.50,0.0,Exact match,Complete,
+TR-00383,E0282,NX-0014,Parking,1035.42,502026000383,1035.42,0.0,Exact match,Complete,
+TR-00384,E0289,NX-0025,Accommodation,142.99,502026000384,142.99,0.0,Exact match,Complete,
+TR-00385,E0296,NX-0036,Meals,1041.18,502026000385,1041.18,0.0,Exact match,Complete,
+TR-00386,E0303,NX-0047,Conference,636.45,502026000386,636.45,0.0,Exact match,Complete,
+TR-00387,E0310,NX-0058,Air travel,387.09,502026000387,418.09,31.0,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00388,E0317,NX-0069,Local transport,1350.25,502026000388,1350.25,0.0,Exact match,Complete,
+TR-00389,E0324,NX-0080,Other,1388.45,502026000389,1388.45,0.0,Exact match,Complete,
+TR-00390,E0331,NX-0091,Rail travel,178.92,502026000390,178.92,0.0,Exact match,Complete,
+TR-00391,E0338,NX-0102,Parking,1280.57,502026000391,1280.57,0.0,Exact match,Incomplete,Missing receipt
+TR-00392,E0345,NX-0113,Accommodation,1329.10,502026000392,1329.10,0.0,Exact match,Complete,
+TR-00393,E0352,NX-0124,Meals,771.68,502026000393,771.68,0.0,Exact match,Complete,
+TR-00394,E0359,NX-0135,Conference,818.91,502026000394,818.91,0.0,Exact match,Complete,
+TR-00395,E0366,NX-0146,Air travel,745.35,502026000395,745.35,0.0,Exact match,Complete,
+TR-00396,E0373,NX-0157,Local transport,972.59,502026000396,1003.59,31.0,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00397,E0380,NX-0168,Other,1349.90,502026000397,1349.90,0.0,Exact match,Complete,
+TR-00398,E0387,NX-0179,Rail travel,320.29,502026000398,320.29,0.0,Exact match,Complete,
+TR-00399,E0394,NX-0190,Parking,616.39,502026000399,616.39,0.0,Exact match,Complete,
+TR-00400,E0401,NX-0201,Accommodation,287.74,502026000400,287.74,0.0,Exact match,Complete,
+TR-00401,E0408,NX-0212,Meals,552.21,502026000401,552.21,0.0,Exact match,Complete,
+TR-00402,,NX-0223,Conference,1193.17,502026000402,1193.17,0.0,Dimension discrepancy,Incomplete,"Missing or invalid employee; Project, employee or category differs from ERP"
+TR-00403,E0422,NX-0234,Air travel,128.42,502026000403,128.42,0.0,Exact match,Complete,
+TR-00404,E0429,NX-0245,Local transport,61.41,502026000404,61.41,0.0,Exact match,Complete,
+TR-00405,E0436,NX-0256,Other,1369.32,502026000405,1381.72,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00406,E0443,NX-0267,Rail travel,1224.29,502026000406,1224.29,0.0,Exact match,Complete,
+TR-00407,E0450,NX-0278,Parking,1389.78,502026000407,1389.78,0.0,Exact match,Complete,
+TR-00408,E0457,NX-0289,Accommodation,655.17,502026000408,655.17,0.0,Exact match,Complete,
+TR-00409,E0464,NX-0300,Meals,890.36,502026000409,890.36,0.0,Exact match,Complete,
+TR-00410,E0471,NX-9999,Conference,1425.14,502026000410,1425.14,0.0,Dimension discrepancy,Incomplete,"Invalid project code; Project, employee or category differs from ERP"
+TR-00411,E0478,NX-0322,Air travel,574.79,502026000411,574.79,0.0,Exact match,Complete,
+TR-00412,E0485,NX-0333,Local transport,369.51,502026000412,369.51,0.0,Exact match,Complete,
+TR-00413,E0492,NX-0344,Other,621.91,502026000413,621.91,0.0,Exact match,Complete,
+TR-00414,E0499,NX-0355,Rail travel,678.81,502026000414,709.81,31.0,Amount discrepancy,Incomplete,Missing receipt; Declared and ERP amounts differ
+TR-00415,E0506,NX-0366,Parking,495.83,502026000415,495.83,0.0,Exact match,Complete,
+TR-00416,E0513,NX-0377,Accommodation,1022.32,502026000416,1022.32,0.0,Exact match,Complete,
+TR-00417,E0520,NX-0388,Meals,1152.96,502026000417,1152.96,0.0,Exact match,Complete,
+TR-00418,E0527,NX-0399,Conference,155.41,502026000418,155.41,0.0,Exact match,Complete,
+TR-00419,E0534,NX-0410,Air travel,256.32,502026000419,256.32,0.0,Exact match,Complete,
+TR-00420,E0541,NX-0421,Local transport,1342.55,502026000420,1342.55,0.0,Exact match,Complete,
+TR-00421,E0548,NX-0432,Other,1069.85,502026000421,1069.85,0.0,Exact match,Complete,
+TR-00422,E0555,NX-0443,Rail travel,1296.08,502026000422,1296.08,0.0,Exact match,Complete,
+TR-00423,E0562,NX-0454,Parking,1223.90,502026000423,1254.90,31.0,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00424,E0569,NX-0465,Accommodation,1435.28,502026000424,1435.28,0.0,Exact match,Incomplete,Missing travel dates
+TR-00425,E0576,NX-0476,Meals,1188.28,502026000425,1188.28,0.0,Exact match,Complete,
+TR-00426,E0583,NX-0487,,1199.65,502026000426,1199.65,0.0,Dimension discrepancy,Incomplete,"Missing expense category; Project, employee or category differs from ERP"
+TR-00427,E0590,NX-0498,Air travel,885.88,502026000427,885.88,0.0,Exact match,Complete,
+TR-00428,E0597,NX-0509,Local transport,1006.13,502026000428,1006.13,0.0,Exact match,Complete,
+TR-00429,E0004,NX-0520,Other,921.66,502026000429,921.66,0.0,Exact match,Complete,
+TR-00430,E0011,NX-0531,Rail travel,393.11,502026000430,393.11,0.0,Exact match,Complete,
+TR-00431,E0018,NX-0542,Parking,1209.62,502026000431,1209.62,0.0,Exact match,Complete,
+TR-00432,E0025,NX-0553,Accommodation,268.43,502026000432,299.43,31.0,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00433,E0032,NX-0564,Meals,418.68,502026000433,418.68,0.0,Exact match,Complete,
+TR-00434,E0039,NX-0575,Conference,320.99,502026000434,320.99,0.0,Exact match,Complete,
+TR-00435,E0046,NX-0586,Air travel,439.02,502026000435,439.02,0.0,Exact match,Complete,
+TR-00436,E0053,NX-0597,Local transport,708.27,502026000436,708.27,0.0,Exact match,Complete,
+TR-00437,E0060,NX-0008,Other,854.62,502026000437,854.62,0.0,Exact match,Incomplete,Missing receipt
+TR-00438,E0067,NX-0019,Rail travel,1205.62,502026000438,1205.62,0.0,Exact match,Complete,
+TR-00439,E0074,NX-0030,Parking,1040.53,502026000439,1040.53,0.0,Exact match,Complete,
+TR-00440,E0081,NX-0041,Accommodation,1346.90,502026000440,1346.90,0.0,Exact match,Complete,
+TR-00441,E0088,NX-0052,Meals,338.69,502026000441,321.44,-17.25,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00442,E0095,NX-0063,Conference,1374.47,502026000442,1374.47,0.0,Exact match,Complete,
+TR-00443,E0102,NX-0074,Air travel,771.17,502026000443,771.17,0.0,Exact match,Complete,
+TR-00444,E0109,NX-0085,Local transport,856.93,502026000444,856.93,0.0,Exact match,Complete,
+TR-00445,E0116,NX-0096,Other,1050.46,502026000445,1050.46,0.0,Exact match,Complete,
+TR-00446,E0123,NX-0107,Rail travel,599.35,502026000446,599.35,0.0,Exact match,Complete,
+TR-00447,E0130,NX-0118,Parking,458.73,502026000447,458.73,0.0,Exact match,Complete,
+TR-00448,E0137,NX-0129,Accommodation,462.56,502026000448,462.56,0.0,Exact match,Complete,
+TR-00449,E0144,NX-0140,Meals,396.38,502026000449,396.38,0.0,Exact match,Complete,
+TR-00450,E0151,NX-0151,Conference,1017.81,502026000450,1030.21,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00451,E0158,NX-9999,Air travel,378.32,502026000451,378.32,0.0,Dimension discrepancy,Incomplete,"Invalid project code; Project, employee or category differs from ERP"
+TR-00452,E0165,NX-0173,Local transport,117.61,502026000452,117.61,0.0,Exact match,Complete,
+TR-00453,E0172,NX-0184,Other,336.43,502026000453,336.43,0.0,Exact match,Complete,
+TR-00454,E0179,NX-0195,Rail travel,1151.84,502026000454,1151.84,0.0,Exact match,Complete,
+TR-00455,E0186,NX-0206,Parking,374.81,502026000455,374.81,0.0,Exact match,Complete,
+TR-00456,E0193,NX-0217,Accommodation,579.51,502026000456,579.51,0.0,Exact match,Complete,
+TR-00457,E0200,NX-0228,Meals,993.66,502026000457,993.66,0.0,Exact match,Complete,
+TR-00458,E0207,NX-0239,Conference,1235.01,502026000458,1235.01,0.0,Exact match,Complete,
+TR-00459,E0214,NX-0250,Air travel,1244.11,502026000459,1226.86,-17.25,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00460,E0221,NX-0261,Local transport,929.31,502026000460,929.31,0.0,Exact match,Incomplete,Missing receipt
+TR-00461,E0228,NX-0272,Other,852.11,502026000461,852.11,0.0,Exact match,Complete,
+TR-00462,E0235,NX-0283,Rail travel,833.61,502026000462,833.61,0.0,Exact match,Complete,
+TR-00463,E0242,NX-0294,Parking,1028.75,502026000463,1028.75,0.0,Exact match,Complete,
+TR-00464,E0249,NX-0305,Accommodation,1056.34,502026000464,1056.34,0.0,Exact match,Complete,
+TR-00465,E0256,NX-0316,Meals,893.49,502026000465,893.49,0.0,Exact match,Complete,
+TR-00466,E0263,NX-0327,Conference,897.13,502026000466,897.13,0.0,Exact match,Complete,
+TR-00467,E0270,NX-0338,Air travel,706.98,502026000467,706.98,0.0,Exact match,Complete,
+TR-00468,E0277,NX-0349,Local transport,1331.30,502026000468,1343.70,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00469,,NX-0360,Other,325.06,502026000469,325.06,0.0,Dimension discrepancy,Incomplete,"Missing or invalid employee; Project, employee or category differs from ERP"
+TR-00470,E0291,NX-0371,Rail travel,680.73,502026000470,680.73,0.0,Exact match,Complete,
+TR-00471,E0298,NX-0382,Parking,391.83,502026000471,391.83,0.0,Exact match,Complete,
+TR-00472,E0305,NX-0393,Accommodation,1156.40,502026000472,1156.40,0.0,Exact match,Complete,
+TR-00473,E0312,NX-0404,Meals,333.22,502026000473,333.22,0.0,Exact match,Complete,
+TR-00474,E0319,NX-0415,Conference,279.02,502026000474,279.02,0.0,Exact match,Complete,
+TR-00475,E0326,NX-0426,Air travel,164.43,502026000475,164.43,0.0,Exact match,Complete,
+TR-00476,E0333,NX-0437,Local transport,535.45,502026000476,535.45,0.0,Exact match,Complete,
+TR-00477,E0340,NX-0448,Other,838.09,502026000477,869.09,31.0,Amount discrepancy,Incomplete,Missing travel dates; Declared and ERP amounts differ
+TR-00478,E0347,NX-0459,Rail travel,1006.99,502026000478,1006.99,0.0,Exact match,Complete,
+TR-00479,E0354,NX-0470,Parking,1223.01,502026000479,1223.01,0.0,Exact match,Complete,
+TR-00480,E0361,NX-0481,Accommodation,656.78,502026000480,656.78,0.0,Exact match,Complete,
+TR-00481,E0368,NX-0492,Meals,212.82,502026000481,212.82,0.0,Exact match,Complete,
+TR-00482,E0375,NX-0503,Conference,1228.57,502026000482,1228.57,0.0,Exact match,Complete,
+TR-00483,E0382,NX-0514,Air travel,1237.45,502026000483,1237.45,0.0,Exact match,Incomplete,Missing receipt
+TR-00484,E0389,NX-0525,Local transport,1411.84,502026000484,1411.84,0.0,Exact match,Complete,
+TR-00485,E0396,NX-0536,Other,917.37,502026000485,917.37,0.0,Exact match,Complete,
+TR-00486,E0403,NX-0547,Rail travel,958.03,502026000486,989.03,31.0,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00487,E0410,NX-0558,Parking,453.11,502026000487,453.11,0.0,Exact match,Complete,
+TR-00488,E0417,NX-0569,Accommodation,797.23,502026000488,797.23,0.0,Exact match,Complete,
+TR-00489,E0424,NX-0580,Meals,476.87,502026000489,476.87,0.0,Exact match,Complete,
+TR-00490,E0431,NX-0591,Conference,46.73,502026000490,46.73,0.0,Exact match,Complete,
+TR-00491,E0438,NX-0002,Air travel,923.70,502026000491,923.70,0.0,Exact match,Complete,
+TR-00492,E0445,NX-9999,Local transport,392.16,502026000492,392.16,0.0,Dimension discrepancy,Incomplete,"Invalid project code; Project, employee or category differs from ERP"
+TR-00493,E0452,NX-0024,Other,560.35,502026000493,560.35,0.0,Exact match,Complete,
+TR-00494,E0459,NX-0035,Rail travel,772.56,502026000494,772.56,0.0,Exact match,Complete,
+TR-00495,E0466,NX-0046,Parking,1069.63,502026000495,1100.63,31.0,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00496,E0473,NX-0057,Accommodation,705.97,502026000496,705.97,0.0,Exact match,Complete,
+TR-00497,E0480,NX-0068,,1329.55,502026000497,1329.55,0.0,Dimension discrepancy,Incomplete,"Missing expense category; Project, employee or category differs from ERP"
+TR-00498,E0487,NX-0079,Conference,1293.40,502026000498,1293.40,0.0,Exact match,Complete,
+TR-00499,E0494,NX-0090,Air travel,969.47,502026000499,969.47,0.0,Exact match,Complete,
+TR-00500,E0501,NX-0101,Local transport,1303.96,502026000500,1303.96,0.0,Exact match,Complete,
+TR-00501,E0508,NX-0112,Other,799.08,502026000501,799.08,0.0,Exact match,Complete,
+TR-00502,E0515,NX-0123,Rail travel,533.67,502026000502,533.67,0.0,Exact match,Complete,
+TR-00503,E0522,NX-0134,Parking,1164.76,502026000503,1164.76,0.0,Exact match,Complete,
+TR-00504,E0529,NX-0145,Accommodation,67.46,502026000504,98.46,31.0,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00505,E0536,NX-0156,Meals,1336.39,502026000505,1336.39,0.0,Exact match,Complete,
+TR-00506,E0543,NX-0167,Conference,70.70,502026000506,70.70,0.0,Exact match,Incomplete,Missing receipt
+TR-00507,E0550,NX-0178,Air travel,120.83,502026000507,120.83,0.0,Exact match,Complete,
+TR-00508,E0557,NX-0189,Local transport,241.17,502026000508,241.17,0.0,Exact match,Complete,
+TR-00509,E0564,NX-0200,Other,506.48,502026000509,506.48,0.0,Exact match,Complete,
+TR-00510,E0571,NX-0211,Rail travel,754.40,502026000510,754.40,0.0,Exact match,Complete,
+TR-00511,E0578,NX-0222,Parking,1097.93,502026000511,1097.93,0.0,Exact match,Complete,
+TR-00512,E0585,NX-0233,Accommodation,383.86,502026000512,383.86,0.0,Exact match,Complete,
+TR-00513,E0592,NX-0244,Meals,196.18,502026000513,178.93,-17.25,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00514,E0599,NX-0255,Conference,44.01,502026000514,44.01,0.0,Exact match,Complete,
+TR-00515,E0006,NX-0266,Air travel,1222.24,502026000515,1222.24,0.0,Exact match,Complete,
+TR-00516,E0013,NX-0277,Local transport,363.09,502026000516,363.09,0.0,Exact match,Complete,
+TR-00517,E0020,NX-0288,Other,512.55,502026000517,512.55,0.0,Exact match,Complete,
+TR-00518,E0027,NX-0299,Rail travel,750.78,502026000518,750.78,0.0,Exact match,Complete,
+TR-00519,E0034,NX-0310,Parking,1373.89,502026000519,1373.89,0.0,Exact match,Complete,
+TR-00520,E0041,NX-0321,Accommodation,860.94,502026000520,860.94,0.0,Exact match,Complete,
+TR-00521,E0048,NX-0332,Meals,1234.39,502026000521,1234.39,0.0,Exact match,Complete,
+TR-00522,E0055,NX-0343,Conference,419.44,502026000522,431.84,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00523,E0062,NX-0354,Air travel,36.72,502026000523,36.72,0.0,Exact match,Complete,
+TR-00524,E0069,NX-0365,Local transport,655.48,502026000524,655.48,0.0,Exact match,Complete,
+TR-00525,E0076,NX-0376,Other,1437.04,502026000525,1437.04,0.0,Exact match,Complete,
+TR-00526,E0083,NX-0387,Rail travel,325.84,502026000526,325.84,0.0,Exact match,Complete,
+TR-00527,E0090,NX-0398,Parking,1117.67,502026000527,1117.67,0.0,Exact match,Complete,
+TR-00528,E0097,NX-0409,Accommodation,233.55,502026000528,233.55,0.0,Exact match,Complete,
+TR-00529,E0104,NX-0420,Meals,1039.93,502026000529,1039.93,0.0,Exact match,Incomplete,Missing receipt
+TR-00530,E0111,NX-0431,Conference,640.11,502026000530,640.11,0.0,Exact match,Incomplete,Missing travel dates
+TR-00531,E0118,NX-0442,Air travel,1423.61,502026000531,1406.36,-17.25,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00532,E0125,NX-0453,Local transport,1340.27,502026000532,1340.27,0.0,Exact match,Complete,
+TR-00533,E0132,NX-9999,Other,851.99,502026000533,851.99,0.0,Dimension discrepancy,Incomplete,"Invalid project code; Project, employee or category differs from ERP"
+TR-00534,E0139,NX-0475,Rail travel,581.88,502026000534,581.88,0.0,Exact match,Complete,
+TR-00535,E0146,NX-0486,Parking,292.87,502026000535,292.87,0.0,Exact match,Complete,
+TR-00536,,NX-0497,Accommodation,1160.47,502026000536,1160.47,0.0,Dimension discrepancy,Incomplete,"Missing or invalid employee; Project, employee or category differs from ERP"
+TR-00537,E0160,NX-0508,Meals,222.42,502026000537,222.42,0.0,Exact match,Complete,
+TR-00538,E0167,NX-0519,Conference,693.53,502026000538,693.53,0.0,Exact match,Complete,
+TR-00539,E0174,NX-0530,Air travel,714.63,502026000539,714.63,0.0,Exact match,Complete,
+TR-00540,E0181,NX-0541,Local transport,473.26,502026000540,504.26,31.0,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00541,E0188,NX-0552,Other,669.01,502026000541,669.01,0.0,Exact match,Complete,
+TR-00542,E0195,NX-0563,Rail travel,409.94,502026000542,409.94,0.0,Exact match,Complete,
+TR-00543,E0202,NX-0574,Parking,1071.19,502026000543,1071.19,0.0,Exact match,Complete,
+TR-00544,E0209,NX-0585,Accommodation,522.61,502026000544,522.61,0.0,Exact match,Complete,
+TR-00545,E0216,NX-0596,Meals,539.98,502026000545,539.98,0.0,Exact match,Complete,
+TR-00546,E0223,NX-0007,Conference,1269.65,502026000546,1269.65,0.0,Exact match,Complete,
+TR-00547,E0230,NX-0018,Air travel,876.67,502026000547,876.67,0.0,Exact match,Complete,
+TR-00548,E0237,NX-0029,Local transport,558.30,502026000548,558.30,0.0,Exact match,Complete,
+TR-00549,E0244,NX-0040,Other,879.91,502026000549,892.31,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00550,E0251,NX-0051,Rail travel,1009.89,502026000550,1009.89,0.0,Exact match,Complete,
+TR-00551,E0258,NX-0062,Parking,1279.74,502026000551,1279.74,0.0,Exact match,Complete,
+TR-00552,E0265,NX-0073,Accommodation,425.42,502026000552,425.42,0.0,Exact match,Incomplete,Missing receipt
+TR-00553,E0272,NX-0084,Meals,1346.08,502026000553,1346.08,0.0,Exact match,Complete,
+TR-00554,E0279,NX-0095,Conference,413.54,502026000554,413.54,0.0,Exact match,Complete,
+TR-00555,E0286,NX-0106,Air travel,1398.62,502026000555,1398.62,0.0,Exact match,Complete,
+TR-00556,E0293,NX-0117,Local transport,305.61,502026000556,305.61,0.0,Exact match,Complete,
+TR-00557,E0300,NX-0128,Other,1371.92,502026000557,1371.92,0.0,Exact match,Complete,
+TR-00558,E0307,NX-0139,Rail travel,166.46,502026000558,178.86,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00559,E0314,NX-0150,Parking,124.03,502026000559,124.03,0.0,Exact match,Complete,
+TR-00560,E0321,NX-0161,Accommodation,1423.41,502026000560,1423.41,0.0,Exact match,Complete,
+TR-00561,E0328,NX-0172,Meals,672.02,502026000561,672.02,0.0,Exact match,Complete,
+TR-00562,E0335,NX-0183,Conference,651.55,502026000562,651.55,0.0,Exact match,Complete,
+TR-00563,E0342,NX-0194,Air travel,1050.06,502026000563,1050.06,0.0,Exact match,Complete,
+TR-00564,E0349,NX-0205,Local transport,994.28,502026000564,994.28,0.0,Exact match,Complete,
+TR-00565,E0356,NX-0216,Other,1408.10,502026000565,1408.10,0.0,Exact match,Complete,
+TR-00566,E0363,NX-0227,Rail travel,537.08,502026000566,537.08,0.0,Exact match,Complete,
+TR-00567,E0370,NX-0238,Parking,807.39,502026000567,790.14,-17.25,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00568,E0377,NX-0249,,1395.25,502026000568,1395.25,0.0,Dimension discrepancy,Incomplete,"Missing expense category; Project, employee or category differs from ERP"
+TR-00569,E0384,NX-0260,Meals,446.37,502026000569,446.37,0.0,Exact match,Complete,
+TR-00570,E0391,NX-0271,Conference,481.13,502026000570,481.13,0.0,Exact match,Complete,
+TR-00571,E0398,NX-0282,Air travel,990.82,502026000571,990.82,0.0,Exact match,Complete,
+TR-00572,E0405,NX-0293,Local transport,134.07,502026000572,134.07,0.0,Exact match,Complete,
+TR-00573,E0412,NX-0304,Other,150.32,502026000573,150.32,0.0,Exact match,Complete,
+TR-00574,E0419,NX-9999,Rail travel,1157.19,502026000574,1157.19,0.0,Dimension discrepancy,Incomplete,"Invalid project code; Project, employee or category differs from ERP"
+TR-00575,E0426,NX-0326,Parking,788.25,502026000575,788.25,0.0,Exact match,Incomplete,Missing receipt
+TR-00576,E0433,NX-0337,Accommodation,121.28,502026000576,152.28,31.0,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00577,E0440,NX-0348,Meals,108.94,502026000577,108.94,0.0,Exact match,Complete,
+TR-00578,E0447,NX-0359,Conference,323.22,502026000578,323.22,0.0,Exact match,Complete,
+TR-00579,E0454,NX-0370,Air travel,412.48,502026000579,412.48,0.0,Exact match,Complete,
+TR-00580,E0461,NX-0381,Local transport,1438.80,502026000580,1438.80,0.0,Exact match,Complete,
+TR-00581,E0468,NX-0392,Other,1117.31,502026000581,1117.31,0.0,Exact match,Complete,
+TR-00582,E0475,NX-0403,Rail travel,1136.35,502026000582,1136.35,0.0,Exact match,Complete,
+TR-00583,E0482,NX-0414,Parking,703.69,502026000583,703.69,0.0,Exact match,Incomplete,Missing travel dates
+TR-00584,E0489,NX-0425,Accommodation,1293.14,502026000584,1293.14,0.0,Exact match,Complete,
+TR-00585,E0496,NX-0436,Meals,1112.64,502026000585,1125.04,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00586,E0503,NX-0447,Conference,1136.96,502026000586,1136.96,0.0,Exact match,Complete,
+TR-00587,E0510,NX-0458,Air travel,783.34,502026000587,783.34,0.0,Exact match,Complete,
+TR-00588,E0517,NX-0469,Local transport,59.12,502026000588,59.12,0.0,Exact match,Complete,
+TR-00589,E0524,NX-0480,Other,1177.53,502026000589,1177.53,0.0,Exact match,Complete,
+TR-00590,E0531,NX-0491,Rail travel,848.61,502026000590,848.61,0.0,Exact match,Complete,
+TR-00591,E0538,NX-0502,Parking,761.13,502026000591,761.13,0.0,Exact match,Complete,
+TR-00592,E0545,NX-0513,Accommodation,898.17,502026000592,898.17,0.0,Exact match,Complete,
+TR-00593,E0552,NX-0524,Meals,673.43,502026000593,673.43,0.0,Exact match,Complete,
+TR-00594,E0559,NX-0535,Conference,607.44,502026000594,590.19,-17.25,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00595,E0566,NX-0546,Air travel,342.74,502026000595,342.74,0.0,Exact match,Complete,
+TR-00596,E0573,NX-0557,Local transport,127.86,502026000596,127.86,0.0,Exact match,Complete,
+TR-00597,E0580,NX-0568,Other,605.17,502026000597,605.17,0.0,Exact match,Complete,
+TR-00598,E0587,NX-0579,Rail travel,908.03,502026000598,908.03,0.0,Exact match,Incomplete,Missing receipt
+TR-00599,E0594,NX-0590,Parking,298.24,502026000599,298.24,0.0,Exact match,Complete,
+TR-00600,E0001,NX-0001,Accommodation,1391.22,502026000600,1391.22,0.0,Exact match,Complete,
+TR-00601,E0008,NX-0012,Meals,122.14,502026000601,122.14,0.0,Exact match,Complete,
+TR-00602,E0015,NX-0023,Conference,774.22,502026000602,774.22,0.0,Exact match,Complete,
+TR-00603,,NX-0034,Air travel,786.30,502026000603,817.30,31.0,Dimension discrepancy,Incomplete,"Missing or invalid employee; Project, employee or category differs from ERP"
+TR-00604,E0029,NX-0045,Local transport,1441.65,502026000604,1441.65,0.0,Exact match,Complete,
+TR-00605,E0036,NX-0056,Other,1213.50,502026000605,1213.50,0.0,Exact match,Complete,
+TR-00606,E0043,NX-0067,Rail travel,704.91,502026000606,704.91,0.0,Exact match,Complete,
+TR-00607,E0050,NX-0078,Parking,296.28,502026000607,296.28,0.0,Exact match,Complete,
+TR-00608,E0057,NX-0089,Accommodation,1128.95,502026000608,1128.95,0.0,Exact match,Complete,
+TR-00609,E0064,NX-0100,Meals,1073.73,502026000609,1073.73,0.0,Exact match,Complete,
+TR-00610,E0071,NX-0111,Conference,343.72,502026000610,343.72,0.0,Exact match,Complete,
+TR-00611,E0078,NX-0122,Air travel,267.31,502026000611,267.31,0.0,Exact match,Complete,
+TR-00612,E0085,NX-0133,Local transport,155.42,502026000612,167.82,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00613,E0092,NX-0144,Other,1134.26,502026000613,1134.26,0.0,Exact match,Complete,
+TR-00614,E0099,NX-0155,Rail travel,1384.75,502026000614,1384.75,0.0,Exact match,Complete,
+TR-00615,E0106,NX-9999,Parking,1142.97,502026000615,1142.97,0.0,Dimension discrepancy,Incomplete,"Invalid project code; Project, employee or category differs from ERP"
+TR-00616,E0113,NX-0177,Accommodation,410.51,502026000616,410.51,0.0,Exact match,Complete,
+TR-00617,E0120,NX-0188,Meals,971.18,502026000617,971.18,0.0,Exact match,Complete,
+TR-00618,E0127,NX-0199,Conference,188.35,502026000618,188.35,0.0,Exact match,Complete,
+TR-00619,E0134,NX-0210,Air travel,1230.38,502026000619,1230.38,0.0,Exact match,Complete,
+TR-00620,E0141,NX-0221,Local transport,353.14,502026000620,353.14,0.0,Exact match,Complete,
+TR-00621,E0148,NX-0232,Other,326.81,502026000621,357.81,31.0,Amount discrepancy,Incomplete,Missing receipt; Declared and ERP amounts differ
+TR-00622,E0155,NX-0243,Rail travel,754.00,502026000622,754.00,0.0,Exact match,Complete,
+TR-00623,E0162,NX-0254,Parking,1235.61,502026000623,1235.61,0.0,Exact match,Complete,
+TR-00624,E0169,NX-0265,Accommodation,709.58,502026000624,709.58,0.0,Exact match,Complete,
+TR-00625,E0176,NX-0276,Meals,282.53,502026000625,282.53,0.0,Exact match,Complete,
+TR-00626,E0183,NX-0287,Conference,1331.99,502026000626,1331.99,0.0,Exact match,Complete,
+TR-00627,E0190,NX-0298,Air travel,1344.60,502026000627,1344.60,0.0,Exact match,Complete,
+TR-00628,E0197,NX-0309,Local transport,445.38,502026000628,445.38,0.0,Exact match,Complete,
+TR-00629,E0204,NX-0320,Other,1359.30,502026000629,1359.30,0.0,Exact match,Complete,
+TR-00630,E0211,NX-0331,Rail travel,671.74,502026000630,684.14,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00631,E0218,NX-0342,Parking,546.78,502026000631,546.78,0.0,Exact match,Complete,
+TR-00632,E0225,NX-0353,Accommodation,85.00,502026000632,85.00,0.0,Exact match,Complete,
+TR-00633,E0232,NX-0364,Meals,1435.23,502026000633,1435.23,0.0,Exact match,Complete,
+TR-00634,E0239,NX-0375,Conference,766.95,502026000634,766.95,0.0,Exact match,Complete,
+TR-00635,E0246,NX-0386,Air travel,1066.67,502026000635,1066.67,0.0,Exact match,Complete,
+TR-00636,E0253,NX-0397,Local transport,406.01,502026000636,406.01,0.0,Exact match,Incomplete,Missing travel dates
+TR-00637,E0260,NX-0408,Other,275.11,502026000637,275.11,0.0,Exact match,Complete,
+TR-00638,E0267,NX-0419,Rail travel,622.96,502026000638,622.96,0.0,Exact match,Complete,
+TR-00639,E0274,NX-0430,,570.81,502026000639,601.81,31.0,Dimension discrepancy,Incomplete,"Missing expense category; Project, employee or category differs from ERP"
+TR-00640,E0281,NX-0441,Accommodation,1343.77,502026000640,1343.77,0.0,Exact match,Complete,
+TR-00641,E0288,NX-0452,Meals,569.63,502026000641,569.63,0.0,Exact match,Complete,
+TR-00642,E0295,NX-0463,Conference,1117.90,502026000642,1117.90,0.0,Exact match,Complete,
+TR-00643,E0302,NX-0474,Air travel,747.53,502026000643,747.53,0.0,Exact match,Complete,
+TR-00644,E0309,NX-0485,Local transport,926.84,502026000644,926.84,0.0,Exact match,Incomplete,Missing receipt
+TR-00645,E0316,NX-0496,Other,1291.52,502026000645,1291.52,0.0,Exact match,Complete,
+TR-00646,E0323,NX-0507,Rail travel,1135.22,502026000646,1135.22,0.0,Exact match,Complete,
+TR-00647,E0330,NX-0518,Parking,1248.10,502026000647,1248.10,0.0,Exact match,Complete,
+TR-00648,E0337,NX-0529,Accommodation,1170.28,502026000648,1201.28,31.0,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00649,E0344,NX-0540,Meals,1166.50,502026000649,1166.50,0.0,Exact match,Complete,
+TR-00650,E0351,NX-0551,Conference,913.47,502026000650,913.47,0.0,Exact match,Complete,
+TR-00651,E0358,NX-0562,Air travel,946.37,502026000651,946.37,0.0,Exact match,Complete,
+TR-00652,E0365,NX-0573,Local transport,703.59,502026000652,703.59,0.0,Exact match,Complete,
+TR-00653,E0372,NX-0584,Other,847.81,502026000653,847.81,0.0,Exact match,Complete,
+TR-00654,E0379,NX-0595,Rail travel,1236.32,502026000654,1236.32,0.0,Exact match,Complete,
+TR-00655,E0386,NX-0006,Parking,139.74,502026000655,139.74,0.0,Exact match,Complete,
+TR-00656,E0393,NX-9999,Accommodation,1098.56,502026000656,1098.56,0.0,Dimension discrepancy,Incomplete,"Invalid project code; Project, employee or category differs from ERP"
+TR-00657,E0400,NX-0028,Meals,554.97,502026000657,537.72,-17.25,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00658,E0407,NX-0039,Conference,1340.27,502026000658,1340.27,0.0,Exact match,Complete,
+TR-00659,E0414,NX-0050,Air travel,1142.36,502026000659,1142.36,0.0,Exact match,Complete,
+TR-00660,E0421,NX-0061,Local transport,578.07,502026000660,578.07,0.0,Exact match,Complete,
+TR-00661,E0428,NX-0072,Other,1222.81,502026000661,1222.81,0.0,Exact match,Complete,
+TR-00662,E0435,NX-0083,Rail travel,240.56,502026000662,240.56,0.0,Exact match,Complete,
+TR-00663,E0442,NX-0094,Parking,1289.17,502026000663,1289.17,0.0,Exact match,Complete,
+TR-00664,E0449,NX-0105,Accommodation,1114.15,502026000664,1114.15,0.0,Exact match,Complete,
+TR-00665,E0456,NX-0116,Meals,470.35,502026000665,470.35,0.0,Exact match,Complete,
+TR-00666,E0463,NX-0127,Conference,771.16,502026000666,783.56,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00667,E0470,NX-0138,Air travel,1183.04,502026000667,1183.04,0.0,Exact match,Incomplete,Missing receipt
+TR-00668,E0477,NX-0149,Local transport,94.49,502026000668,94.49,0.0,Exact match,Complete,
+TR-00669,E0484,NX-0160,Other,1136.10,502026000669,1136.10,0.0,Exact match,Complete,
+TR-00670,,NX-0171,Rail travel,696.71,502026000670,696.71,0.0,Dimension discrepancy,Incomplete,"Missing or invalid employee; Project, employee or category differs from ERP"
+TR-00671,E0498,NX-0182,Parking,34.46,502026000671,34.46,0.0,Exact match,Complete,
+TR-00672,E0505,NX-0193,Accommodation,965.88,502026000672,965.88,0.0,Exact match,Complete,
+TR-00673,E0512,NX-0204,Meals,1317.02,502026000673,1317.02,0.0,Exact match,Complete,
+TR-00674,E0519,NX-0215,Conference,209.80,502026000674,209.80,0.0,Exact match,Complete,
+TR-00675,E0526,NX-0226,Air travel,517.68,502026000675,548.68,31.0,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00676,E0533,NX-0237,Local transport,794.04,502026000676,794.04,0.0,Exact match,Complete,
+TR-00677,E0540,NX-0248,Other,315.30,502026000677,315.30,0.0,Exact match,Complete,
+TR-00678,E0547,NX-0259,Rail travel,1105.93,502026000678,1105.93,0.0,Exact match,Complete,
+TR-00679,E0554,NX-0270,Parking,575.65,502026000679,575.65,0.0,Exact match,Complete,
+TR-00680,E0561,NX-0281,Accommodation,1121.71,502026000680,1121.71,0.0,Exact match,Complete,
+TR-00681,E0568,NX-0292,Meals,931.47,502026000681,931.47,0.0,Exact match,Complete,
+TR-00682,E0575,NX-0303,Conference,137.91,502026000682,137.91,0.0,Exact match,Complete,
+TR-00683,E0582,NX-0314,Air travel,1404.85,502026000683,1404.85,0.0,Exact match,Complete,
+TR-00684,E0589,NX-0325,Local transport,291.81,502026000684,322.81,31.0,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00685,E0596,NX-0336,Other,1218.94,502026000685,1218.94,0.0,Exact match,Complete,
+TR-00686,E0003,NX-0347,Rail travel,1043.97,502026000686,1043.97,0.0,Exact match,Complete,
+TR-00687,E0010,NX-0358,Parking,1116.28,502026000687,1116.28,0.0,Exact match,Complete,
+TR-00688,E0017,NX-0369,Accommodation,1094.98,502026000688,1094.98,0.0,Exact match,Complete,
+TR-00689,E0024,NX-0380,Meals,1206.22,502026000689,1206.22,0.0,Exact match,Incomplete,Missing travel dates
+TR-00690,E0031,NX-0391,Conference,1399.70,502026000690,1399.70,0.0,Exact match,Incomplete,Missing receipt
+TR-00691,E0038,NX-0402,Air travel,1393.96,502026000691,1393.96,0.0,Exact match,Complete,
+TR-00692,E0045,NX-0413,Local transport,674.73,502026000692,674.73,0.0,Exact match,Complete,
+TR-00693,E0052,NX-0424,Other,321.01,502026000693,333.41,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00694,E0059,NX-0435,Rail travel,1278.85,502026000694,1278.85,0.0,Exact match,Complete,
+TR-00695,E0066,NX-0446,Parking,858.86,502026000695,858.86,0.0,Exact match,Complete,
+TR-00696,E0073,NX-0457,Accommodation,1286.75,502026000696,1286.75,0.0,Exact match,Complete,
+TR-00697,E0080,NX-9999,Meals,253.03,502026000697,253.03,0.0,Dimension discrepancy,Incomplete,"Invalid project code; Project, employee or category differs from ERP"
+TR-00698,E0087,NX-0479,Conference,228.35,502026000698,228.35,0.0,Exact match,Complete,
+TR-00699,E0094,NX-0490,Air travel,59.66,502026000699,59.66,0.0,Exact match,Complete,
+TR-00700,E0101,NX-0501,Local transport,640.85,502026000700,640.85,0.0,Exact match,Complete,
+TR-00701,E0108,NX-0512,Other,518.51,502026000701,518.51,0.0,Exact match,Complete,
+TR-00702,E0115,NX-0523,Rail travel,788.73,502026000702,819.73,31.0,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00703,E0122,NX-0534,Parking,75.03,502026000703,75.03,0.0,Exact match,Complete,
+TR-00704,E0129,NX-0545,Accommodation,427.18,502026000704,427.18,0.0,Exact match,Complete,
+TR-00705,E0136,NX-0556,Meals,787.10,502026000705,787.10,0.0,Exact match,Complete,
+TR-00706,E0143,NX-0567,Conference,1059.27,502026000706,1059.27,0.0,Exact match,Complete,
+TR-00707,E0150,NX-0578,Air travel,1067.36,502026000707,1067.36,0.0,Exact match,Complete,
+TR-00708,E0157,NX-0589,Local transport,895.12,502026000708,895.12,0.0,Exact match,Complete,
+TR-00709,E0164,NX-0600,Other,716.07,502026000709,716.07,0.0,Exact match,Complete,
+TR-00710,E0171,NX-0011,,306.23,502026000710,306.23,0.0,Dimension discrepancy,Incomplete,"Missing expense category; Project, employee or category differs from ERP"
+TR-00711,E0178,NX-0022,Parking,1029.44,502026000711,1041.84,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00712,E0185,NX-0033,Accommodation,426.18,502026000712,426.18,0.0,Exact match,Complete,
+TR-00713,E0192,NX-0044,Meals,249.02,502026000713,249.02,0.0,Exact match,Incomplete,Missing receipt
+TR-00714,E0199,NX-0055,Conference,1030.36,502026000714,1030.36,0.0,Exact match,Complete,
+TR-00715,E0206,NX-0066,Air travel,263.64,502026000715,263.64,0.0,Exact match,Complete,
+TR-00716,E0213,NX-0077,Local transport,342.17,502026000716,342.17,0.0,Exact match,Complete,
+TR-00717,E0220,NX-0088,Other,482.50,502026000717,482.50,0.0,Exact match,Complete,
+TR-00718,E0227,NX-0099,Rail travel,1411.96,502026000718,1411.96,0.0,Exact match,Complete,
+TR-00719,E0234,NX-0110,Parking,750.35,502026000719,750.35,0.0,Exact match,Complete,
+TR-00720,E0241,NX-0121,Accommodation,473.65,502026000720,486.05,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00721,E0248,NX-0132,Meals,150.32,502026000721,150.32,0.0,Exact match,Complete,
+TR-00722,E0255,NX-0143,Conference,562.20,502026000722,562.20,0.0,Exact match,Complete,
+TR-00723,E0262,NX-0154,Air travel,278.12,502026000723,278.12,0.0,Exact match,Complete,
+TR-00724,E0269,NX-0165,Local transport,1048.42,502026000724,1048.42,0.0,Exact match,Complete,
+TR-00725,E0276,NX-0176,Other,1104.02,502026000725,1104.02,0.0,Exact match,Complete,
+TR-00726,E0283,NX-0187,Rail travel,180.59,502026000726,180.59,0.0,Exact match,Complete,
+TR-00727,E0290,NX-0198,Parking,575.18,502026000727,575.18,0.0,Exact match,Complete,
+TR-00728,E0297,NX-0209,Accommodation,679.05,502026000728,679.05,0.0,Exact match,Complete,
+TR-00729,E0304,NX-0220,Meals,1211.10,502026000729,1242.10,31.0,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00730,E0311,NX-0231,Conference,1320.30,502026000730,1320.30,0.0,Exact match,Complete,
+TR-00731,E0318,NX-0242,Air travel,835.95,502026000731,835.95,0.0,Exact match,Complete,
+TR-00732,E0325,NX-0253,Local transport,1332.56,502026000732,1332.56,0.0,Exact match,Complete,
+TR-00733,E0332,NX-0264,Other,1431.93,502026000733,1431.93,0.0,Exact match,Complete,
+TR-00734,E0339,NX-0275,Rail travel,778.44,502026000734,778.44,0.0,Exact match,Complete,
+TR-00735,E0346,NX-0286,Parking,111.38,502026000735,111.38,0.0,Exact match,Complete,
+TR-00736,E0353,NX-0297,Accommodation,656.48,502026000736,656.48,0.0,Exact match,Incomplete,Missing receipt
+TR-00737,,NX-0308,Meals,1371.00,502026000737,1371.00,0.0,Dimension discrepancy,Incomplete,"Missing or invalid employee; Project, employee or category differs from ERP"
+TR-00738,E0367,NX-9999,Conference,1265.16,502026000738,1296.16,31.0,Dimension discrepancy,Incomplete,"Invalid project code; Project, employee or category differs from ERP"
+TR-00739,E0374,NX-0330,Air travel,239.98,502026000739,239.98,0.0,Exact match,Complete,
+TR-00740,E0381,NX-0341,Local transport,939.35,502026000740,939.35,0.0,Exact match,Complete,
+TR-00741,E0388,NX-0352,Other,259.36,502026000741,259.36,0.0,Exact match,Complete,
+TR-00742,E0395,NX-0363,Rail travel,863.15,502026000742,863.15,0.0,Exact match,Incomplete,Missing travel dates
+TR-00743,E0402,NX-0374,Parking,1182.40,502026000743,1182.40,0.0,Exact match,Complete,
+TR-00744,E0409,NX-0385,Accommodation,665.28,502026000744,665.28,0.0,Exact match,Complete,
+TR-00745,E0416,NX-0396,Meals,1233.11,502026000745,1233.11,0.0,Exact match,Complete,
+TR-00746,E0423,NX-0407,Conference,1259.29,502026000746,1259.29,0.0,Exact match,Complete,
+TR-00747,E0430,NX-0418,Air travel,333.49,502026000747,316.24,-17.25,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00748,E0437,NX-0429,Local transport,882.56,502026000748,882.56,0.0,Exact match,Complete,
+TR-00749,E0444,NX-0440,Other,460.71,502026000749,460.71,0.0,Exact match,Complete,
+TR-00750,E0451,NX-0451,Rail travel,1283.41,502026000750,1283.41,0.0,Exact match,Complete,
+TR-00751,E0458,NX-0462,Parking,439.70,502026000751,439.70,0.0,Exact match,Complete,
+TR-00752,E0465,NX-0473,Accommodation,305.15,502026000752,305.15,0.0,Exact match,Complete,
+TR-00753,E0472,NX-0484,Meals,649.52,502026000753,649.52,0.0,Exact match,Complete,
+TR-00754,E0479,NX-0495,Conference,1035.72,502026000754,1035.72,0.0,Exact match,Complete,
+TR-00755,E0486,NX-0506,Air travel,1066.86,502026000755,1066.86,0.0,Exact match,Complete,
+TR-00756,E0493,NX-0517,Local transport,861.07,502026000756,873.47,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00757,E0500,NX-0528,Other,242.64,502026000757,242.64,0.0,Exact match,Complete,
+TR-00758,E0507,NX-0539,Rail travel,1283.02,502026000758,1283.02,0.0,Exact match,Complete,
+TR-00759,E0514,NX-0550,Parking,336.19,502026000759,336.19,0.0,Exact match,Incomplete,Missing receipt
+TR-00760,E0521,NX-0561,Accommodation,1141.58,502026000760,1141.58,0.0,Exact match,Complete,
+TR-00761,E0528,NX-0572,Meals,1226.58,502026000761,1226.58,0.0,Exact match,Complete,
+TR-00762,E0535,NX-0583,Conference,957.85,502026000762,957.85,0.0,Exact match,Complete,
+TR-00763,E0542,NX-0594,Air travel,1103.39,502026000763,1103.39,0.0,Exact match,Complete,
+TR-00764,E0549,NX-0005,Local transport,1298.94,502026000764,1298.94,0.0,Exact match,Complete,
+TR-00765,E0556,NX-0016,Other,1422.41,502026000765,1405.16,-17.25,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00766,E0563,NX-0027,Rail travel,205.50,502026000766,205.50,0.0,Exact match,Complete,
+TR-00767,E0570,NX-0038,Parking,892.00,502026000767,892.00,0.0,Exact match,Complete,
+TR-00768,E0577,NX-0049,Accommodation,958.22,502026000768,958.22,0.0,Exact match,Complete,
+TR-00769,E0584,NX-0060,Meals,824.02,502026000769,824.02,0.0,Exact match,Complete,
+TR-00770,E0591,NX-0071,Conference,634.30,502026000770,634.30,0.0,Exact match,Complete,
+TR-00771,E0598,NX-0082,Air travel,153.47,502026000771,153.47,0.0,Exact match,Complete,
+TR-00772,E0005,NX-0093,Local transport,581.60,502026000772,581.60,0.0,Exact match,Complete,
+TR-00773,E0012,NX-0104,Other,323.24,502026000773,323.24,0.0,Exact match,Complete,
+TR-00774,E0019,NX-0115,Rail travel,1315.27,502026000774,1327.67,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00775,E0026,NX-0126,Parking,1084.82,502026000775,1084.82,0.0,Exact match,Complete,
+TR-00776,E0033,NX-0137,Accommodation,161.22,502026000776,161.22,0.0,Exact match,Complete,
+TR-00777,E0040,NX-0148,Meals,604.45,502026000777,604.45,0.0,Exact match,Complete,
+TR-00778,E0047,NX-0159,Conference,1247.40,502026000778,1247.40,0.0,Exact match,Complete,
+TR-00779,E0054,NX-9999,Air travel,788.83,502026000779,788.83,0.0,Dimension discrepancy,Incomplete,"Invalid project code; Project, employee or category differs from ERP"
+TR-00780,E0061,NX-0181,Local transport,1073.49,502026000780,1073.49,0.0,Exact match,Complete,
+TR-00781,E0068,NX-0192,,50.41,502026000781,50.41,0.0,Dimension discrepancy,Incomplete,"Missing expense category; Project, employee or category differs from ERP"
+TR-00782,E0075,NX-0203,Rail travel,979.31,502026000782,979.31,0.0,Exact match,Incomplete,Missing receipt
+TR-00783,E0082,NX-0214,Parking,1393.74,502026000783,1406.14,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00784,E0089,NX-0225,Accommodation,702.15,502026000784,702.15,0.0,Exact match,Complete,
+TR-00785,E0096,NX-0236,Meals,165.24,502026000785,165.24,0.0,Exact match,Complete,
+TR-00786,E0103,NX-0247,Conference,233.74,502026000786,233.74,0.0,Exact match,Complete,
+TR-00787,E0110,NX-0258,Air travel,935.38,502026000787,935.38,0.0,Exact match,Complete,
+TR-00788,E0117,NX-0269,Local transport,317.75,502026000788,317.75,0.0,Exact match,Complete,
+TR-00789,E0124,NX-0280,Other,989.52,502026000789,989.52,0.0,Exact match,Complete,
+TR-00790,E0131,NX-0291,Rail travel,1294.51,502026000790,1294.51,0.0,Exact match,Complete,
+TR-00791,E0138,NX-0302,Parking,1114.75,502026000791,1114.75,0.0,Exact match,Complete,
+TR-00792,E0145,NX-0313,Accommodation,795.21,502026000792,807.61,12.4,Amount discrepancy,Complete,Declared and ERP amounts differ
+TR-00793,E0152,NX-0324,Meals,1149.34,502026000793,1149.34,0.0,Exact match,Complete,
+TR-00794,E0159,NX-0335,Conference,253.38,502026000794,253.38,0.0,Exact match,Complete,
+TR-00795,E0166,NX-0346,Air travel,1087.85,502026000795,1087.85,0.0,Exact match,Incomplete,Missing travel dates
+TR-00796,E0173,NX-0357,Local transport,116.27,502026000796,116.27,0.0,Exact match,Complete,
+TR-00797,E0180,NX-0368,Other,937.37,502026000797,937.37,0.0,Exact match,Complete,
+TR-00798,E0187,NX-0379,Rail travel,933.49,502026000798,933.49,0.0,Exact match,Complete,
+TR-00799,E0194,NX-0390,Parking,700.85,502026000799,700.85,0.0,Exact match,Complete,
+TR-00800,E0201,NX-0401,Accommodation,880.48,502026000800,880.48,0.0,Exact match,Complete,
+TR-00801,E0208,NX-0412,Meals,710.48,,,,Unmatched declaration,Complete,
+TR-00802,E0215,NX-0423,Conference,480.06,,,,Unmatched declaration,Complete,
+TR-00803,E0222,NX-0434,Air travel,1287.18,,,,Unmatched declaration,Complete,
+TR-00804,,NX-0445,Local transport,189.11,,,,Unmatched declaration,Incomplete,Missing or invalid employee
+TR-00805,E0236,NX-0456,Other,1288.80,,,,Unmatched declaration,Incomplete,Missing receipt
+TR-00806,E0243,NX-0467,Rail travel,763.60,,,,Unmatched declaration,Complete,
+TR-00807,E0250,NX-0478,Parking,879.09,,,,Unmatched declaration,Complete,
+TR-00808,E0257,NX-0489,Accommodation,990.63,,,,Unmatched declaration,Complete,
+TR-00809,E0264,NX-0500,Meals,1207.58,,,,Unmatched declaration,Complete,
+TR-00810,E0271,NX-0511,Conference,912.24,,,,Unmatched declaration,Complete,
+TR-00811,E0278,NX-0522,Air travel,454.90,,,,Unmatched declaration,Complete,
+TR-00812,E0285,NX-0533,Local transport,1317.15,,,,Unmatched declaration,Complete,
+TR-00813,E0292,NX-0544,Other,901.96,,,,Unmatched declaration,Complete,
+TR-00814,E0299,NX-0555,Rail travel,528.78,,,,Unmatched declaration,Complete,
+TR-00815,E0306,NX-0566,Parking,895.35,,,,Unmatched declaration,Complete,
+TR-00816,E0313,NX-0577,Accommodation,680.82,,,,Unmatched declaration,Complete,
+TR-00817,E0320,NX-0588,Meals,1443.10,,,,Unmatched declaration,Complete,
+TR-00818,E0327,NX-0599,Conference,721.08,,,,Unmatched declaration,Complete,
+TR-00819,E0334,NX-0010,Air travel,464.11,,,,Unmatched declaration,Complete,
+TR-00820,E0341,NX-9999,Local transport,156.16,,,,Unmatched declaration,Incomplete,Invalid project code
+TR-00821,E0348,NX-0032,Other,1342.00,,,,Unmatched declaration,Complete,
+TR-00822,E0355,NX-0043,Rail travel,758.99,,,,Unmatched declaration,Complete,
+TR-00823,E0362,NX-0054,Parking,800.34,,,,Unmatched declaration,Complete,
+TR-00824,E0369,NX-0065,Accommodation,289.10,,,,Unmatched declaration,Complete,
+TR-00825,E0376,NX-0076,Meals,852.29,,,,Unmatched declaration,Complete,
+TR-00826,E0383,NX-0087,Conference,488.62,,,,Unmatched declaration,Complete,
+TR-00827,E0390,NX-0098,Air travel,1405.63,,,,Unmatched declaration,Complete,
+TR-00828,E0397,NX-0109,Local transport,78.26,,,,Unmatched declaration,Incomplete,Missing receipt
+TR-00829,E0404,NX-0120,Other,1189.21,,,,Unmatched declaration,Complete,
+TR-00830,E0411,NX-0131,Rail travel,783.74,,,,Unmatched declaration,Complete,
+TR-00831,E0418,NX-0142,Parking,1002.28,,,,Unmatched declaration,Complete,
+TR-00832,E0425,NX-0153,Accommodation,470.25,,,,Unmatched declaration,Complete,
+TR-00833,E0432,NX-0164,Meals,1246.71,,,,Unmatched declaration,Complete,
+TR-00834,E0439,NX-0175,Conference,1306.39,,,,Unmatched declaration,Complete,
+TR-00835,E0446,NX-0186,Air travel,688.07,,,,Unmatched declaration,Complete,
+TR-00836,E0453,NX-0197,Local transport,1174.20,,,,Unmatched declaration,Complete,
+TR-00837,E0460,NX-0208,Other,339.92,,,,Unmatched declaration,Complete,
+TR-00838,E0467,NX-0219,Rail travel,353.79,,,,Unmatched declaration,Complete,
+TR-00839,E0474,NX-0230,Parking,932.22,,,,Unmatched declaration,Complete,
+TR-00840,E0481,NX-0241,Accommodation,767.42,,,,Unmatched declaration,Complete,
+TR-00841,E0488,NX-0252,Meals,1294.35,,,,Unmatched declaration,Complete,
+TR-00842,E0495,NX-0263,Conference,395.65,,,,Unmatched declaration,Complete,
+TR-00843,E0502,NX-0274,Air travel,294.76,,,,Unmatched declaration,Complete,
+TR-00844,E0509,NX-0285,Local transport,286.20,,,,Unmatched declaration,Complete,
+TR-00845,E0516,NX-0296,Other,142.26,,,,Unmatched declaration,Complete,
+TR-00846,E0523,NX-0307,Rail travel,655.26,,,,Unmatched declaration,Complete,
+TR-00847,E0530,NX-0318,Parking,688.40,,,,Unmatched declaration,Complete,
+TR-00848,E0537,NX-0329,Accommodation,1039.70,,,,Unmatched declaration,Incomplete,Missing travel dates
+TR-00849,E0544,NX-0340,Meals,234.25,,,,Unmatched declaration,Complete,
+TR-00850,E0551,NX-0351,Conference,479.90,,,,Unmatched declaration,Complete,
+TR-00851,E0558,NX-0362,Air travel,287.63,,,,Unmatched declaration,Incomplete,Missing receipt
+TR-00852,E0565,NX-0373,,831.80,,,,Unmatched declaration,Incomplete,Missing expense category
+TR-00853,E0572,NX-0384,Other,871.36,,,,Unmatched declaration,Complete,
+TR-00854,E0579,NX-0395,Rail travel,942.48,,,,Unmatched declaration,Complete,
+TR-00855,E0586,NX-0406,Parking,117.58,,,,Unmatched declaration,Complete,
+TR-00856,E0593,NX-0417,Accommodation,1062.65,,,,Unmatched declaration,Complete,
+TR-00857,E0600,NX-0428,Meals,168.85,,,,Unmatched declaration,Complete,
+TR-00858,E0007,NX-0439,Conference,614.00,,,,Unmatched declaration,Complete,
+TR-00859,E0014,NX-0450,Air travel,1405.08,,,,Unmatched declaration,Complete,
+TR-00860,E0021,NX-0461,Local transport,1307.37,,,,Unmatched declaration,Complete,
+TR-00861,E0028,NX-9999,Other,929.82,,,,Unmatched declaration,Incomplete,Invalid project code
+TR-00862,E0035,NX-0483,Rail travel,498.76,,,,Unmatched declaration,Complete,
+TR-00863,E0042,NX-0494,Parking,244.78,,,,Unmatched declaration,Complete,
+TR-00864,E0049,NX-0505,Accommodation,1135.73,,,,Unmatched declaration,Complete,
+TR-00865,E0056,NX-0516,Meals,583.03,,,,Unmatched declaration,Complete,
+TR-00866,E0063,NX-0527,Conference,500.63,,,,Unmatched declaration,Complete,
+TR-00867,E0070,NX-0538,Air travel,538.73,,,,Unmatched declaration,Complete,
+TR-00868,E0077,NX-0549,Local transport,444.33,,,,Unmatched declaration,Complete,
+TR-00869,E0084,NX-0560,Other,1255.47,,,,Unmatched declaration,Complete,
+TR-00870,E0091,NX-0571,Rail travel,794.43,,,,Unmatched declaration,Complete,
+TR-00871,,NX-0582,Parking,1437.10,,,,Unmatched declaration,Incomplete,Missing or invalid employee
+TR-00872,E0105,NX-0593,Accommodation,1358.67,,,,Unmatched declaration,Complete,
+TR-00873,E0112,NX-0004,Meals,633.88,,,,Unmatched declaration,Complete,
+TR-00874,E0119,NX-0015,Conference,1287.34,,,,Unmatched declaration,Incomplete,Missing receipt
+TR-00875,E0126,NX-0026,Air travel,725.74,,,,Unmatched declaration,Complete,
+TR-00876,E0133,NX-0037,Local transport,517.95,,,,Unmatched declaration,Complete,
+TR-00877,E0140,NX-0048,Other,1117.26,,,,Unmatched declaration,Complete,
+TR-00878,E0147,NX-0059,Rail travel,411.50,,,,Unmatched declaration,Complete,
+TR-00879,E0154,NX-0070,Parking,1124.48,,,,Unmatched declaration,Complete,
+TR-00880,E0161,NX-0081,Accommodation,942.06,,,,Unmatched declaration,Complete,
+TR-00881,E0168,NX-0092,Meals,1435.31,,,,Unmatched declaration,Complete,
+TR-00882,E0175,NX-0103,Conference,590.28,,,,Unmatched declaration,Complete,
+TR-00883,E0182,NX-0114,Air travel,595.96,,,,Unmatched declaration,Complete,
+TR-00884,E0189,NX-0125,Local transport,318.81,,,,Unmatched declaration,Complete,
+TR-00885,E0196,NX-0136,Other,1367.69,,,,Unmatched declaration,Complete,
+TR-00886,E0203,NX-0147,Rail travel,1165.43,,,,Unmatched declaration,Complete,
+TR-00887,E0210,NX-0158,Parking,681.32,,,,Unmatched declaration,Complete,
+TR-00888,E0217,NX-0169,Accommodation,169.00,,,,Unmatched declaration,Complete,
+TR-00889,E0224,NX-0180,Meals,1324.87,,,,Unmatched declaration,Complete,
+TR-00890,E0231,NX-0191,Conference,837.93,,,,Unmatched declaration,Complete,
+TR-00891,E0238,NX-0202,Air travel,70.05,,,,Unmatched declaration,Complete,
+TR-00892,E0245,NX-0213,Local transport,853.25,,,,Unmatched declaration,Complete,
+TR-00893,E0252,NX-0224,Other,687.79,,,,Unmatched declaration,Complete,
+TR-00894,E0259,NX-0235,Rail travel,1387.80,,,,Unmatched declaration,Complete,
+TR-00895,E0266,NX-0246,Parking,598.41,,,,Unmatched declaration,Complete,
+TR-00896,E0273,NX-0257,Accommodation,443.84,,,,Unmatched declaration,Complete,
+TR-00897,E0280,NX-0268,Meals,867.53,,,,Unmatched declaration,Incomplete,Missing receipt
+TR-00898,E0287,NX-0279,Conference,688.20,,,,Unmatched declaration,Complete,
+TR-00899,E0294,NX-0290,Air travel,1317.85,,,,Unmatched declaration,Complete,
+TR-00900,E0301,NX-0301,Local transport,177.60,,,,Unmatched declaration,Complete,
+TR-00901,E0308,NX-0312,Other,512.76,,,,Unmatched declaration,Incomplete,Missing travel dates
+TR-00902,E0315,NX-9999,Rail travel,239.86,,,,Unmatched declaration,Incomplete,Invalid project code
+TR-00903,E0322,NX-0334,Parking,725.46,,,,Unmatched declaration,Complete,
+TR-00904,E0329,NX-0345,Accommodation,49.09,,,,Unmatched declaration,Complete,
+TR-00905,E0336,NX-0356,Meals,455.20,,,,Unmatched declaration,Complete,
+TR-00906,E0343,NX-0367,Conference,763.20,,,,Unmatched declaration,Complete,
+TR-00907,E0350,NX-0378,Air travel,65.52,,,,Unmatched declaration,Complete,
+TR-00908,E0357,NX-0389,Local transport,394.10,,,,Unmatched declaration,Complete,
+TR-00909,E0364,NX-0400,Other,273.01,,,,Unmatched declaration,Complete,
+TR-00910,E0371,NX-0411,Rail travel,306.44,,,,Unmatched declaration,Complete,
+TR-00911,E0378,NX-0422,Parking,1298.11,,,,Unmatched declaration,Complete,
+TR-00912,E0385,NX-0433,Accommodation,840.58,,,,Unmatched declaration,Complete,
+TR-00913,E0392,NX-0444,Meals,1163.80,,,,Unmatched declaration,Complete,
+TR-00914,E0399,NX-0455,Conference,458.96,,,,Unmatched declaration,Complete,
+TR-00915,E0406,NX-0466,Air travel,1276.81,,,,Unmatched declaration,Complete,
+TR-00916,E0413,NX-0477,Local transport,1311.92,,,,Unmatched declaration,Complete,
+TR-00917,E0420,NX-0488,Other,58.07,,,,Unmatched declaration,Complete,
+TR-00918,E0427,NX-0499,Rail travel,1427.27,,,,Unmatched declaration,Complete,
+TR-00919,E0434,NX-0510,Parking,364.58,,,,Unmatched declaration,Complete,
+TR-00920,E0441,NX-0521,Accommodation,613.86,,,,Unmatched declaration,Incomplete,Missing receipt
+TR-00921,E0448,NX-0532,Meals,428.41,,,,Unmatched declaration,Complete,
+TR-00922,E0455,NX-0543,Conference,199.67,,,,Unmatched declaration,Complete,
+TR-00923,E0462,NX-0554,,778.13,,,,Unmatched declaration,Incomplete,Missing expense category
+TR-00924,E0469,NX-0565,Local transport,444.02,,,,Unmatched declaration,Complete,
+TR-00925,E0476,NX-0576,Other,240.27,,,,Unmatched declaration,Complete,
+TR-00926,E0483,NX-0587,Rail travel,817.44,,,,Unmatched declaration,Complete,
+TR-00927,E0490,NX-0598,Parking,838.99,,,,Unmatched declaration,Complete,
+TR-00928,E0497,NX-0009,Accommodation,518.03,,,,Unmatched declaration,Complete,
+TR-00929,E0504,NX-0020,Meals,1035.48,,,,Unmatched declaration,Complete,
+TR-00930,E0511,NX-0031,Conference,541.57,,,,Unmatched declaration,Complete,
+TR-00931,E0518,NX-0042,Air travel,739.23,,,,Unmatched declaration,Complete,
+TR-00932,E0525,NX-0053,Local transport,307.39,,,,Unmatched declaration,Complete,
+TR-00933,E0532,NX-0064,Other,954.33,,,,Unmatched declaration,Complete,
+TR-00934,E0539,NX-0075,Rail travel,925.45,,,,Unmatched declaration,Complete,
+TR-00935,E0546,NX-0086,Parking,235.99,,,,Unmatched declaration,Complete,
+TR-00936,E0553,NX-0097,Accommodation,59.77,,,,Unmatched declaration,Complete,
+TR-00937,E0560,NX-0108,Meals,372.38,,,,Unmatched declaration,Complete,
+TR-00938,,NX-0119,Conference,581.44,,,,Unmatched declaration,Incomplete,Missing or invalid employee
+TR-00939,E0574,NX-0130,Air travel,939.23,,,,Unmatched declaration,Complete,
+TR-00940,E0581,NX-0141,Local transport,1370.29,,,,Unmatched declaration,Complete,
+TR-00941,E0588,NX-0152,Other,1282.45,,,,Unmatched declaration,Complete,
+TR-00942,E0595,NX-0163,Rail travel,490.02,,,,Unmatched declaration,Complete,
+TR-00943,E0002,NX-9999,Parking,822.01,,,,Unmatched declaration,Incomplete,Invalid project code; Missing receipt
+TR-00944,E0009,NX-0185,Accommodation,557.84,,,,Unmatched declaration,Complete,
+TR-00945,E0016,NX-0196,Meals,540.59,,,,Unmatched declaration,Complete,
+TR-00946,E0023,NX-0207,Conference,643.66,,,,Unmatched declaration,Complete,
+TR-00947,E0030,NX-0218,Air travel,726.64,,,,Unmatched declaration,Complete,
+TR-00948,E0037,NX-0229,Local transport,1184.97,,,,Unmatched declaration,Complete,
+TR-00949,E0044,NX-0240,Other,489.29,,,,Unmatched declaration,Complete,
+TR-00950,E0051,NX-0251,Rail travel,1204.04,,,,Unmatched declaration,Complete,
+TR-00951,E0058,NX-0262,Parking,146.74,,,,Unmatched declaration,Complete,
+TR-00952,E0065,NX-0273,Accommodation,1344.86,,,,Unmatched declaration,Complete,
+TR-00953,E0072,NX-0284,Meals,536.23,,,,Unmatched declaration,Complete,
+TR-00954,E0079,NX-0295,Conference,497.21,,,,Unmatched declaration,Incomplete,Missing travel dates
+TR-00955,E0086,NX-0306,Air travel,83.16,,,,Unmatched declaration,Complete,
+TR-00956,E0093,NX-0317,Local transport,961.27,,,,Unmatched declaration,Complete,
+TR-00957,E0100,NX-0328,Other,1148.97,,,,Unmatched declaration,Complete,
+TR-00958,E0107,NX-0339,Rail travel,804.76,,,,Unmatched declaration,Complete,
+TR-00959,E0114,NX-0350,Parking,1449.58,,,,Unmatched declaration,Complete,
+TR-00960,E0121,NX-0361,Accommodation,816.62,,,,Unmatched declaration,Complete,
+TR-00961,E0128,NX-0372,Meals,1398.76,,,,Unmatched declaration,Complete,
+TR-00962,E0135,NX-0383,Conference,840.79,,,,Unmatched declaration,Complete,
+TR-00963,E0142,NX-0394,Air travel,1354.91,,,,Unmatched declaration,Complete,
+TR-00964,E0149,NX-0405,Local transport,676.51,,,,Unmatched declaration,Complete,
+TR-00965,E0156,NX-0416,Other,1074.55,,,,Unmatched declaration,Complete,
+TR-00966,E0163,NX-0427,Rail travel,45.36,,,,Unmatched declaration,Incomplete,Missing receipt
+TR-00967,E0170,NX-0438,Parking,978.89,,,,Unmatched declaration,Complete,
+TR-00968,E0177,NX-0449,Accommodation,1040.19,,,,Unmatched declaration,Complete,
+TR-00969,E0184,NX-0460,Meals,95.71,,,,Unmatched declaration,Complete,
+TR-00970,E0191,NX-0471,Conference,1181.04,,,,Unmatched declaration,Complete,
+TR-00971,E0198,NX-0482,Air travel,1332.84,,,,Unmatched declaration,Complete,
+TR-00972,E0205,NX-0493,Local transport,757.51,,,,Unmatched declaration,Complete,
+TR-00973,E0212,NX-0504,Other,411.68,,,,Unmatched declaration,Complete,
+TR-00974,E0219,NX-0515,Rail travel,1202.88,,,,Unmatched declaration,Complete,
+TR-00975,E0226,NX-0526,Parking,1235.23,,,,Unmatched declaration,Complete,
+TR-00976,E0233,NX-0537,Accommodation,27.64,,,,Unmatched declaration,Complete,
+TR-00977,E0240,NX-0548,Meals,1084.91,,,,Unmatched declaration,Complete,
+TR-00978,E0247,NX-0559,Conference,29.98,,,,Unmatched declaration,Complete,
+TR-00979,E0254,NX-0570,Air travel,934.99,,,,Unmatched declaration,Complete,
+TR-00980,E0261,NX-0581,Local transport,114.82,,,,Unmatched declaration,Complete,
+TR-00981,E0268,NX-0592,Other,181.84,,,,Unmatched declaration,Complete,
+TR-00982,E0275,NX-0003,Rail travel,1064.00,,,,Unmatched declaration,Complete,
+TR-00983,E0282,NX-0014,Parking,420.64,,,,Unmatched declaration,Complete,
+TR-00984,E0289,NX-9999,Accommodation,572.27,,,,Unmatched declaration,Incomplete,Invalid project code
+TR-00985,E0296,NX-0036,Meals,911.42,,,,Unmatched declaration,Complete,
+TR-00986,E0303,NX-0047,Conference,320.08,,,,Unmatched declaration,Complete,
+TR-00987,E0310,NX-0058,Air travel,1437.34,,,,Unmatched declaration,Complete,
+TR-00988,E0317,NX-0069,Local transport,365.96,,,,Unmatched declaration,Complete,
+TR-00989,E0324,NX-0080,Other,926.68,,,,Unmatched declaration,Incomplete,Missing receipt
+TR-00990,E0331,NX-0091,Rail travel,904.25,,,,Unmatched declaration,Complete,
+TR-00991,E0338,NX-0102,Parking,545.81,,,,Unmatched declaration,Complete,
+TR-00992,E0345,NX-0113,Accommodation,948.43,,,,Unmatched declaration,Complete,
+TR-00993,E0352,NX-0124,Meals,70.98,,,,Unmatched declaration,Complete,
+TR-00994,E0359,NX-0135,,936.29,,,,Unmatched declaration,Incomplete,Missing expense category
+TR-00995,E0366,NX-0146,Air travel,218.50,,,,Unmatched declaration,Complete,
+TR-00996,E0373,NX-0157,Local transport,1284.59,,,,Unmatched declaration,Complete,
+TR-00997,E0380,NX-0168,Other,256.60,,,,Unmatched declaration,Complete,
+TR-00998,E0387,NX-0179,Rail travel,69.65,,,,Unmatched declaration,Complete,
+TR-00999,E0394,NX-0190,Parking,913.93,,,,Unmatched declaration,Complete,
+TR-01000,E0401,NX-0201,Accommodation,119.74,,,,Unmatched declaration,Complete,
+TR-DUP-001,E0101,NX-0501,Local transport,569.73,,,,Unmatched declaration,Complete,Potential duplicate declaration
+TR-DUP-002,E0108,NX-0512,Other,820.31,,,,Unmatched declaration,Complete,Potential duplicate declaration
+TR-DUP-003,E0115,NX-0523,Rail travel,55.44,,,,Unmatched declaration,Complete,Potential duplicate declaration
+TR-DUP-004,E0122,NX-0534,Parking,747.87,,,,Unmatched declaration,Complete,Potential duplicate declaration
+TR-DUP-005,E0129,NX-0545,Accommodation,94.50,,,,Unmatched declaration,Complete,Potential duplicate declaration
+TR-DUP-006,E0136,NX-0556,Meals,66.56,,,,Unmatched declaration,Complete,Potential duplicate declaration
+TR-DUP-007,E0143,NX-0567,Conference,398.04,,,,Unmatched declaration,Incomplete,Missing travel dates; Potential duplicate declaration
+TR-DUP-008,E0150,NX-0578,Air travel,206.70,,,,Unmatched declaration,Complete,Potential duplicate declaration
+TR-DUP-009,E0157,NX-0589,Local transport,830.22,,,,Unmatched declaration,Complete,Potential duplicate declaration
+TR-DUP-010,E0164,NX-0600,Other,1288.04,,,,Unmatched declaration,Complete,Potential duplicate declaration
+TR-DUP-011,E0171,NX-0011,Rail travel,319.57,,,,Unmatched declaration,Complete,Potential duplicate declaration
+TR-DUP-012,E0178,NX-0022,Parking,1134.21,,,,Unmatched declaration,Complete,Potential duplicate declaration

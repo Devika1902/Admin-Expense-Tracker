@@ -1,0 +1,601 @@
+﻿ProjectID,ProjectName,Department,BudgetEUR,RecordedSpendEUR,BudgetUtilization
+NX-0001,Customer delivery 001,Engineering,605000.00,1391.22,0.2300%
+NX-0002,Platform modernization 002,Sales,190000.00,1455.73,0.7662%
+NX-0003,Network planning 003,Customer Success,510000.00,837.50,0.1642%
+NX-0004,Digital workplace 004,Operations,80000.00,728.11,0.9101%
+NX-0005,Security uplift 005,Finance,105000.00,3372.57,3.2120%
+NX-0006,Service transition 006,People,510000.00,426.77,0.0837%
+NX-0007,Data migration 007,Product,585000.00,2520.18,0.4308%
+NX-0008,Field operations 008,IT,520000.00,854.62,0.1643%
+NX-0009,Customer delivery 009,Engineering,165000.00,1235.58,0.7488%
+NX-0010,Platform modernization 010,Sales,640000.00,1348.09,0.2106%
+NX-0011,Network planning 011,Customer Success,465000.00,625.80,0.1346%
+NX-0012,Digital workplace 012,Operations,375000.00,2045.19,0.5454%
+NX-0013,Security uplift 013,Finance,390000.00,392.16,0.1006%
+NX-0014,Service transition 014,People,180000.00,1350.45,0.7503%
+NX-0015,Data migration 015,Product,565000.00,74.38,0.0132%
+NX-0016,Field operations 016,IT,360000.00,2769.16,0.7692%
+NX-0017,Customer delivery 017,Engineering,350000.00,2617.82,0.7479%
+NX-0018,Platform modernization 018,Sales,575000.00,876.67,0.1525%
+NX-0019,Network planning 019,Customer Success,615000.00,1411.12,0.2295%
+NX-0020,Digital workplace 020,Operations,440000.00,1365.50,0.3103%
+NX-0021,Security uplift 021,Finance,235000.00,408.95,0.1740%
+NX-0022,Service transition 022,People,125000.00,2660.48,2.1284%
+NX-0023,Data migration 023,Product,590000.00,2080.88,0.3527%
+NX-0024,Field operations 024,IT,540000.00,1238.60,0.2294%
+NX-0025,Customer delivery 025,Engineering,80000.00,142.99,0.1787%
+NX-0026,Platform modernization 026,Sales,450000.00,321.22,0.0714%
+NX-0027,Network planning 027,Customer Success,435000.00,984.83,0.2264%
+NX-0028,Digital workplace 028,Operations,645000.00,970.24,0.1504%
+NX-0029,Security uplift 029,Finance,115000.00,1141.63,0.9927%
+NX-0030,Service transition 030,People,170000.00,1040.53,0.6121%
+NX-0031,Data migration 031,Product,485000.00,2468.03,0.5089%
+NX-0032,Field operations 032,IT,365000.00,1040.59,0.2851%
+NX-0033,Customer delivery 033,Engineering,265000.00,646.63,0.2440%
+NX-0034,Platform modernization 034,Sales,640000.00,3616.75,0.5651%
+NX-0035,Network planning 035,Customer Success,95000.00,772.56,0.8132%
+NX-0036,Digital workplace 036,Operations,560000.00,1283.34,0.2292%
+NX-0037,Security uplift 037,Finance,585000.00,1277.78,0.2184%
+NX-0038,Service transition 038,People,530000.00,1129.47,0.2131%
+NX-0039,Data migration 039,Product,425000.00,1930.97,0.4543%
+NX-0040,Field operations 040,IT,305000.00,892.31,0.2926%
+NX-0041,Customer delivery 041,Engineering,455000.00,2992.25,0.6576%
+NX-0042,Platform modernization 042,Sales,240000.00,996.84,0.4153%
+NX-0043,Network planning 043,Customer Success,125000.00,382.76,0.3062%
+NX-0044,Digital workplace 044,Operations,125000.00,1237.19,0.9898%
+NX-0045,Security uplift 045,Finance,415000.00,2636.57,0.6353%
+NX-0046,Service transition 046,People,240000.00,1951.81,0.8133%
+NX-0047,Data migration 047,Product,610000.00,636.45,0.1043%
+NX-0048,Field operations 048,IT,490000.00,1433.44,0.2925%
+NX-0049,Customer delivery 049,Engineering,180000.00,1491.69,0.8287%
+NX-0050,Platform modernization 050,Sales,365000.00,2303.29,0.6310%
+NX-0051,Network planning 051,Customer Success,430000.00,2387.66,0.5553%
+NX-0052,Digital workplace 052,Operations,550000.00,321.44,0.0584%
+NX-0053,Security uplift 053,Finance,285000.00,1763.45,0.6188%
+NX-0054,Service transition 054,People,225000.00,696.89,0.3097%
+NX-0055,Data migration 055,Product,585000.00,1599.28,0.2734%
+NX-0056,Field operations 056,IT,245000.00,3976.31,1.6230%
+NX-0057,Customer delivery 057,Engineering,455000.00,705.97,0.1552%
+NX-0058,Platform modernization 058,Sales,510000.00,1905.04,0.3735%
+NX-0059,Network planning 059,Customer Success,245000.00,1189.96,0.4857%
+NX-0060,Digital workplace 060,Operations,250000.00,1814.36,0.7257%
+NX-0061,Security uplift 061,Finance,310000.00,1351.81,0.4361%
+NX-0062,Service transition 062,People,595000.00,1279.74,0.2151%
+NX-0063,Data migration 063,Product,445000.00,2275.71,0.5114%
+NX-0064,Field operations 064,IT,165000.00,1096.86,0.6648%
+NX-0065,Customer delivery 065,Engineering,400000.00,800.38,0.2001%
+NX-0066,Platform modernization 066,Sales,290000.00,576.95,0.1989%
+NX-0067,Network planning 067,Customer Success,95000.00,2020.85,2.1272%
+NX-0068,Digital workplace 068,Operations,270000.00,2502.80,0.9270%
+NX-0069,Security uplift 069,Finance,105000.00,1350.25,1.2860%
+NX-0070,Service transition 070,People,175000.00,994.95,0.5685%
+NX-0071,Data migration 071,Product,95000.00,1565.89,1.6483%
+NX-0072,Field operations 072,IT,260000.00,2609.03,1.0035%
+NX-0073,Customer delivery 073,Engineering,410000.00,1149.10,0.2803%
+NX-0074,Platform modernization 074,Sales,575000.00,771.17,0.1341%
+NX-0075,Network planning 075,Customer Success,375000.00,1561.84,0.4165%
+NX-0076,Digital workplace 076,Operations,580000.00,1065.96,0.1838%
+NX-0077,Security uplift 077,Finance,335000.00,1135.07,0.3388%
+NX-0078,Service transition 078,People,385000.00,1115.81,0.2898%
+NX-0079,Data migration 079,Product,335000.00,1293.40,0.3861%
+NX-0080,Field operations 080,IT,550000.00,1949.96,0.3545%
+NX-0081,Customer delivery 081,Engineering,465000.00,138.91,0.0299%
+NX-0082,Platform modernization 082,Sales,405000.00,3203.80,0.7911%
+NX-0083,Network planning 083,Customer Success,495000.00,1651.74,0.3337%
+NX-0084,Digital workplace 084,Operations,350000.00,1346.08,0.3846%
+NX-0085,Security uplift 085,Finance,210000.00,1371.84,0.6533%
+NX-0086,Service transition 086,People,280000.00,26.07,0.0093%
+NX-0087,Data migration 087,Product,630000.00,2908.45,0.4617%
+NX-0088,Field operations 088,IT,200000.00,1111.52,0.5558%
+NX-0089,Customer delivery 089,Engineering,585000.00,1682.86,0.2877%
+NX-0090,Platform modernization 090,Sales,620000.00,2469.64,0.3983%
+NX-0091,Network planning 091,Customer Success,195000.00,178.92,0.0918%
+NX-0092,Digital workplace 092,Operations,155000.00,615.86,0.3973%
+NX-0093,Security uplift 093,Finance,205000.00,1179.29,0.5753%
+NX-0094,Service transition 094,People,610000.00,2255.60,0.3698%
+NX-0095,Data migration 095,Product,620000.00,413.54,0.0667%
+NX-0096,Field operations 096,IT,390000.00,1050.46,0.2693%
+NX-0097,Customer delivery 097,Engineering,490000.00,1867.55,0.3811%
+NX-0098,Platform modernization 098,Sales,330000.00,637.56,0.1932%
+NX-0099,Network planning 099,Customer Success,200000.00,2922.07,1.4610%
+NX-0100,Digital workplace 100,Operations,550000.00,1916.21,0.3484%
+NX-0101,Security uplift 101,Finance,640000.00,1303.96,0.2037%
+NX-0102,Service transition 102,People,125000.00,2283.41,1.8267%
+NX-0103,Data migration 103,Product,345000.00,820.47,0.2378%
+NX-0104,Field operations 104,IT,185000.00,2300.14,1.2433%
+NX-0105,Customer delivery 105,Engineering,650000.00,1934.96,0.2977%
+NX-0106,Platform modernization 106,Sales,460000.00,1398.62,0.3040%
+NX-0107,Network planning 107,Customer Success,355000.00,645.50,0.1818%
+NX-0108,Digital workplace 108,Operations,325000.00,842.04,0.2591%
+NX-0109,Security uplift 109,Finance,390000.00,1589.54,0.4076%
+NX-0110,Service transition 110,People,145000.00,905.18,0.6243%
+NX-0111,Data migration 111,Product,375000.00,1748.70,0.4663%
+NX-0112,Field operations 112,IT,100000.00,799.08,0.7991%
+NX-0113,Customer delivery 113,Engineering,385000.00,1329.10,0.3452%
+NX-0114,Platform modernization 114,Sales,560000.00,1856.81,0.3316%
+NX-0115,Network planning 115,Customer Success,340000.00,1599.92,0.4706%
+NX-0116,Digital workplace 116,Operations,445000.00,2924.63,0.6572%
+NX-0117,Security uplift 117,Finance,560000.00,305.61,0.0546%
+NX-0118,Service transition 118,People,635000.00,458.73,0.0722%
+NX-0119,Data migration 119,Product,140000.00,2221.81,1.5870%
+NX-0120,Field operations 120,IT,100000.00,854.35,0.8544%
+NX-0121,Customer delivery 121,Engineering,635000.00,893.88,0.1408%
+NX-0122,Platform modernization 122,Sales,390000.00,1665.21,0.4270%
+NX-0123,Network planning 123,Customer Success,215000.00,533.67,0.2482%
+NX-0124,Digital workplace 124,Operations,435000.00,1050.16,0.2414%
+NX-0125,Security uplift 125,Finance,310000.00,1227.84,0.3961%
+NX-0126,Service transition 126,People,395000.00,2724.36,0.6897%
+NX-0127,Data migration 127,Product,185000.00,1085.58,0.5868%
+NX-0128,Field operations 128,IT,505000.00,1371.92,0.2717%
+NX-0129,Customer delivery 129,Engineering,170000.00,462.56,0.2721%
+NX-0130,Platform modernization 130,Sales,550000.00,367.24,0.0668%
+NX-0131,Network planning 131,Customer Success,375000.00,661.43,0.1764%
+NX-0132,Digital workplace 132,Operations,595000.00,864.12,0.1452%
+NX-0133,Security uplift 133,Finance,515000.00,2048.75,0.3978%
+NX-0134,Service transition 134,People,285000.00,1164.76,0.4087%
+NX-0135,Data migration 135,Product,100000.00,818.91,0.8189%
+NX-0136,Field operations 136,IT,245000.00,734.05,0.2996%
+NX-0137,Customer delivery 137,Engineering,620000.00,1413.09,0.2279%
+NX-0138,Platform modernization 138,Sales,335000.00,3340.31,0.9971%
+NX-0139,Network planning 139,Customer Success,325000.00,178.86,0.0550%
+NX-0140,Digital workplace 140,Operations,305000.00,396.38,0.1300%
+NX-0141,Security uplift 141,Finance,400000.00,1037.72,0.2594%
+NX-0142,Service transition 142,People,485000.00,713.95,0.1472%
+NX-0143,Data migration 143,Product,285000.00,2059.88,0.7228%
+NX-0144,Field operations 144,IT,450000.00,1801.67,0.4004%
+NX-0145,Customer delivery 145,Engineering,135000.00,98.46,0.0729%
+NX-0146,Platform modernization 146,Sales,85000.00,745.35,0.8769%
+NX-0147,Network planning 147,Customer Success,135000.00,91.36,0.0677%
+NX-0148,Digital workplace 148,Operations,165000.00,1938.23,1.1747%
+NX-0149,Security uplift 149,Finance,615000.00,1241.38,0.2019%
+NX-0150,Service transition 150,People,430000.00,680.34,0.1582%
+NX-0151,Data migration 151,Product,255000.00,1030.21,0.4040%
+NX-0152,Field operations 152,IT,230000.00,1209.30,0.5258%
+NX-0153,Customer delivery 153,Engineering,515000.00,1734.22,0.3367%
+NX-0154,Platform modernization 154,Sales,565000.00,1676.46,0.2967%
+NX-0155,Network planning 155,Customer Success,355000.00,2842.16,0.8006%
+NX-0156,Digital workplace 156,Operations,430000.00,1336.39,0.3108%
+NX-0157,Security uplift 157,Finance,405000.00,1003.59,0.2478%
+NX-0158,Service transition 158,People,125000.00,1585.34,1.2683%
+NX-0159,Data migration 159,Product,210000.00,2621.00,1.2481%
+NX-0160,Field operations 160,IT,100000.00,1695.71,1.6957%
+NX-0161,Customer delivery 161,Engineering,360000.00,1423.41,0.3954%
+NX-0162,Platform modernization 162,Sales,645000.00,378.32,0.0587%
+NX-0163,Network planning 163,Customer Success,115000.00,617.17,0.5367%
+NX-0164,Digital workplace 164,Operations,80000.00,1274.34,1.5929%
+NX-0165,Security uplift 165,Finance,295000.00,1861.40,0.6310%
+NX-0166,Service transition 166,People,375000.00,1608.43,0.4289%
+NX-0167,Data migration 167,Product,260000.00,807.21,0.3105%
+NX-0168,Field operations 168,IT,510000.00,1349.90,0.2647%
+NX-0169,Customer delivery 169,Engineering,380000.00,1456.52,0.3833%
+NX-0170,Platform modernization 170,Sales,325000.00,1423.94,0.4381%
+NX-0171,Network planning 171,Customer Success,200000.00,1934.90,0.9675%
+NX-0172,Digital workplace 172,Operations,595000.00,2161.23,0.3632%
+NX-0173,Security uplift 173,Finance,335000.00,117.61,0.0351%
+NX-0174,Service transition 174,People,220000.00,102.28,0.0465%
+NX-0175,Data migration 175,Product,545000.00,2674.63,0.4908%
+NX-0176,Field operations 176,IT,215000.00,2436.54,1.1333%
+NX-0177,Customer delivery 177,Engineering,370000.00,1657.59,0.4480%
+NX-0178,Platform modernization 178,Sales,575000.00,120.83,0.0210%
+NX-0179,Network planning 179,Customer Success,250000.00,320.29,0.1281%
+NX-0180,Digital workplace 180,Operations,210000.00,1181.88,0.5628%
+NX-0181,Security uplift 181,Finance,310000.00,1513.19,0.4881%
+NX-0182,Service transition 182,People,650000.00,1151.96,0.1772%
+NX-0183,Data migration 183,Product,310000.00,651.55,0.2102%
+NX-0184,Field operations 184,IT,255000.00,479.26,0.1879%
+NX-0185,Customer delivery 185,Engineering,90000.00,1191.97,1.3244%
+NX-0186,Platform modernization 186,Sales,305000.00,1131.86,0.3711%
+NX-0187,Network planning 187,Customer Success,600000.00,2077.12,0.3462%
+NX-0188,Digital workplace 188,Operations,80000.00,2015.97,2.5200%
+NX-0189,Security uplift 189,Finance,515000.00,382.66,0.0743%
+NX-0190,Service transition 190,People,395000.00,616.39,0.1560%
+NX-0191,Data migration 191,Product,295000.00,1230.46,0.4171%
+NX-0192,Field operations 192,IT,445000.00,2908.83,0.6537%
+NX-0193,Customer delivery 193,Engineering,325000.00,1049.90,0.3230%
+NX-0194,Platform modernization 194,Sales,500000.00,2898.28,0.5797%
+NX-0195,Network planning 195,Customer Success,500000.00,1151.84,0.2304%
+NX-0196,Digital workplace 196,Operations,90000.00,914.65,1.0163%
+NX-0197,Security uplift 197,Finance,555000.00,706.73,0.1273%
+NX-0198,Service transition 198,People,640000.00,1330.09,0.2078%
+NX-0199,Data migration 199,Product,165000.00,2436.27,1.4765%
+NX-0200,Field operations 200,IT,480000.00,506.48,0.1055%
+NX-0201,Customer delivery 201,Engineering,205000.00,341.63,0.1666%
+NX-0202,Platform modernization 202,Sales,525000.00,907.22,0.1728%
+NX-0203,Network planning 203,Customer Success,230000.00,1574.50,0.6846%
+NX-0204,Digital workplace 204,Operations,215000.00,2686.32,1.2495%
+NX-0205,Security uplift 205,Finance,575000.00,994.28,0.1729%
+NX-0206,Service transition 206,People,430000.00,1360.18,0.3163%
+NX-0207,Data migration 207,Product,335000.00,689.32,0.2058%
+NX-0208,Field operations 208,IT,170000.00,1057.16,0.6219%
+NX-0209,Customer delivery 209,Engineering,115000.00,1697.36,1.4760%
+NX-0210,Platform modernization 210,Sales,485000.00,2369.29,0.4885%
+NX-0211,Network planning 211,Customer Success,445000.00,1793.87,0.4031%
+NX-0212,Digital workplace 212,Operations,215000.00,552.21,0.2568%
+NX-0213,Security uplift 213,Finance,540000.00,1160.05,0.2148%
+NX-0214,Service transition 214,People,105000.00,1503.36,1.4318%
+NX-0215,Data migration 215,Product,480000.00,604.48,0.1259%
+NX-0216,Field operations 216,IT,305000.00,1726.18,0.5660%
+NX-0217,Customer delivery 217,Engineering,105000.00,579.51,0.5519%
+NX-0218,Platform modernization 218,Sales,485000.00,1011.30,0.2085%
+NX-0219,Network planning 219,Customer Success,355000.00,1376.43,0.3877%
+NX-0220,Digital workplace 220,Operations,385000.00,2626.52,0.6822%
+NX-0221,Security uplift 221,Finance,315000.00,1444.29,0.4585%
+NX-0222,Service transition 222,People,460000.00,1097.93,0.2387%
+NX-0223,Data migration 223,Product,635000.00,1559.38,0.2456%
+NX-0224,Field operations 224,IT,270000.00,644.56,0.2387%
+NX-0225,Customer delivery 225,Engineering,215000.00,1080.31,0.5025%
+NX-0226,Platform modernization 226,Sales,585000.00,1517.58,0.2594%
+NX-0227,Network planning 227,Customer Success,645000.00,537.08,0.0833%
+NX-0228,Digital workplace 228,Operations,565000.00,1999.35,0.3539%
+NX-0229,Security uplift 229,Finance,135000.00,499.33,0.3699%
+NX-0230,Service transition 230,People,270000.00,157.61,0.0584%
+NX-0231,Data migration 231,Product,415000.00,1508.36,0.3635%
+NX-0232,Field operations 232,IT,440000.00,1025.43,0.2331%
+NX-0233,Customer delivery 233,Engineering,255000.00,648.85,0.2545%
+NX-0234,Platform modernization 234,Sales,205000.00,128.42,0.0626%
+NX-0235,Network planning 235,Customer Success,540000.00,565.08,0.1046%
+NX-0236,Digital workplace 236,Operations,125000.00,290.73,0.2326%
+NX-0237,Security uplift 237,Finance,545000.00,1373.38,0.2520%
+NX-0238,Service transition 238,People,445000.00,1664.81,0.3741%
+NX-0239,Data migration 239,Product,175000.00,1235.01,0.7057%
+NX-0240,Field operations 240,IT,285000.00,1468.54,0.5153%
+NX-0241,Customer delivery 241,Engineering,595000.00,773.85,0.1301%
+NX-0242,Platform modernization 242,Sales,520000.00,1430.72,0.2751%
+NX-0243,Network planning 243,Customer Success,165000.00,1269.79,0.7696%
+NX-0244,Digital workplace 244,Operations,90000.00,178.93,0.1988%
+NX-0245,Security uplift 245,Finance,320000.00,1286.18,0.4019%
+NX-0246,Service transition 246,People,535000.00,405.65,0.0758%
+NX-0247,Data migration 247,Product,220000.00,927.26,0.4215%
+NX-0248,Field operations 248,IT,355000.00,522.53,0.1472%
+NX-0249,Customer delivery 249,Engineering,105000.00,1395.25,1.3288%
+NX-0250,Platform modernization 250,Sales,365000.00,2327.52,0.6377%
+NX-0251,Network planning 251,Customer Success,105000.00,1361.60,1.2968%
+NX-0252,Digital workplace 252,Operations,515000.00,674.30,0.1309%
+NX-0253,Security uplift 253,Finance,270000.00,1821.88,0.6748%
+NX-0254,Service transition 254,People,420000.00,2554.59,0.6082%
+NX-0255,Data migration 255,Product,160000.00,1422.76,0.8892%
+NX-0256,Field operations 256,IT,400000.00,1381.72,0.3454%
+NX-0257,Customer delivery 257,Engineering,445000.00,1483.43,0.3334%
+NX-0258,Platform modernization 258,Sales,250000.00,1630.64,0.6523%
+NX-0259,Network planning 259,Customer Success,330000.00,1427.22,0.4325%
+NX-0260,Digital workplace 260,Operations,355000.00,1910.66,0.5382%
+NX-0261,Security uplift 261,Finance,580000.00,929.31,0.1602%
+NX-0262,Service transition 262,People,570000.00,2722.26,0.4776%
+NX-0263,Data migration 263,Product,410000.00,350.65,0.0855%
+NX-0264,Field operations 264,IT,225000.00,1621.10,0.7205%
+NX-0265,Customer delivery 265,Engineering,190000.00,1704.07,0.8969%
+NX-0266,Platform modernization 266,Sales,415000.00,1222.24,0.2945%
+NX-0267,Network planning 267,Customer Success,585000.00,1391.37,0.2378%
+NX-0268,Digital workplace 268,Operations,80000.00,364.55,0.4557%
+NX-0269,Security uplift 269,Finance,610000.00,778.72,0.1277%
+NX-0270,Service transition 270,People,630000.00,666.31,0.1058%
+NX-0271,Data migration 271,Product,165000.00,481.13,0.2916%
+NX-0272,Field operations 272,IT,190000.00,2173.98,1.1442%
+NX-0273,Customer delivery 273,Engineering,635000.00,845.66,0.1332%
+NX-0274,Platform modernization 274,Sales,360000.00,2590.39,0.7196%
+NX-0275,Network planning 275,Customer Success,630000.00,1314.92,0.2087%
+NX-0276,Digital workplace 276,Operations,615000.00,1271.35,0.2067%
+NX-0277,Security uplift 277,Finance,540000.00,2161.25,0.4002%
+NX-0278,Service transition 278,People,605000.00,1389.78,0.2297%
+NX-0279,Data migration 279,Product,195000.00,2137.68,1.0962%
+NX-0280,Field operations 280,IT,550000.00,1779.80,0.3236%
+NX-0281,Customer delivery 281,Engineering,290000.00,1735.05,0.5983%
+NX-0282,Platform modernization 282,Sales,305000.00,990.82,0.3249%
+NX-0283,Network planning 283,Customer Success,290000.00,833.61,0.2875%
+NX-0284,Digital workplace 284,Operations,415000.00,1549.00,0.3733%
+NX-0285,Security uplift 285,Finance,605000.00,574.06,0.0949%
+NX-0286,Service transition 286,People,605000.00,251.54,0.0416%
+NX-0287,Data migration 287,Product,620000.00,1479.24,0.2386%
+NX-0288,Field operations 288,IT,455000.00,512.55,0.1126%
+NX-0289,Customer delivery 289,Engineering,505000.00,1584.53,0.3138%
+NX-0290,Platform modernization 290,Sales,205000.00,246.38,0.1202%
+NX-0291,Network planning 291,Customer Success,260000.00,3762.28,1.4470%
+NX-0292,Digital workplace 292,Operations,230000.00,1952.80,0.8490%
+NX-0293,Security uplift 293,Finance,430000.00,134.07,0.0312%
+NX-0294,Service transition 294,People,455000.00,1686.20,0.3706%
+NX-0295,Data migration 295,Product,100000.00,1144.33,1.1443%
+NX-0296,Field operations 296,IT,600000.00,1921.65,0.3203%
+NX-0297,Customer delivery 297,Engineering,375000.00,1510.10,0.4027%
+NX-0298,Platform modernization 298,Sales,530000.00,1867.59,0.3524%
+NX-0299,Network planning 299,Customer Success,390000.00,750.78,0.1925%
+NX-0300,Digital workplace 300,Operations,285000.00,890.36,0.3124%
+NX-0301,Security uplift 301,Finance,295000.00,2845.51,0.9646%
+NX-0302,Service transition 302,People,385000.00,1963.68,0.5100%
+NX-0303,Data migration 303,Product,555000.00,185.47,0.0334%
+NX-0304,Field operations 304,IT,555000.00,150.32,0.0271%
+NX-0305,Customer delivery 305,Engineering,160000.00,1056.34,0.6602%
+NX-0306,Platform modernization 306,Sales,295000.00,2140.03,0.7254%
+NX-0307,Network planning 307,Customer Success,635000.00,736.01,0.1159%
+NX-0308,Digital workplace 308,Operations,390000.00,3252.18,0.8339%
+NX-0309,Security uplift 309,Finance,505000.00,925.77,0.1833%
+NX-0310,Service transition 310,People,115000.00,1373.89,1.1947%
+NX-0311,Data migration 311,Product,400000.00,2709.04,0.6773%
+NX-0312,Field operations 312,IT,450000.00,1362.84,0.3029%
+NX-0313,Customer delivery 313,Engineering,270000.00,1968.44,0.7291%
+NX-0314,Platform modernization 314,Sales,495000.00,2529.38,0.5110%
+NX-0315,Network planning 315,Customer Success,535000.00,1157.19,0.2163%
+NX-0316,Digital workplace 316,Operations,535000.00,893.49,0.1670%
+NX-0317,Security uplift 317,Finance,610000.00,547.62,0.0898%
+NX-0318,Service transition 318,People,550000.00,534.66,0.0972%
+NX-0319,Data migration 319,Product,565000.00,2641.90,0.4676%
+NX-0320,Field operations 320,IT,125000.00,2797.52,2.2380%
+NX-0321,Customer delivery 321,Engineering,650000.00,860.94,0.1325%
+NX-0322,Platform modernization 322,Sales,650000.00,574.79,0.0884%
+NX-0323,Network planning 323,Customer Success,545000.00,1675.61,0.3075%
+NX-0324,Digital workplace 324,Operations,275000.00,2557.19,0.9299%
+NX-0325,Security uplift 325,Finance,205000.00,2548.42,1.2431%
+NX-0326,Service transition 326,People,520000.00,788.25,0.1516%
+NX-0327,Data migration 327,Product,485000.00,897.13,0.1850%
+NX-0328,Field operations 328,IT,295000.00,2150.54,0.7290%
+NX-0329,Customer delivery 329,Engineering,460000.00,1045.32,0.2272%
+NX-0330,Platform modernization 330,Sales,105000.00,2362.35,2.2499%
+NX-0331,Network planning 331,Customer Success,375000.00,1203.42,0.3209%
+NX-0332,Digital workplace 332,Operations,390000.00,1234.39,0.3165%
+NX-0333,Security uplift 333,Finance,300000.00,369.51,0.1232%
+NX-0334,Service transition 334,People,260000.00,1299.62,0.4999%
+NX-0335,Data migration 335,Product,335000.00,1540.53,0.4599%
+NX-0336,Field operations 336,IT,575000.00,2207.35,0.3839%
+NX-0337,Customer delivery 337,Engineering,300000.00,152.28,0.0508%
+NX-0338,Platform modernization 338,Sales,590000.00,706.98,0.1198%
+NX-0339,Network planning 339,Customer Success,430000.00,1052.09,0.2447%
+NX-0340,Digital workplace 340,Operations,225000.00,2087.68,0.9279%
+NX-0341,Security uplift 341,Finance,260000.00,1437.16,0.5528%
+NX-0342,Service transition 342,People,395000.00,2330.00,0.5899%
+NX-0343,Data migration 343,Product,315000.00,431.84,0.1371%
+NX-0344,Field operations 344,IT,530000.00,621.91,0.1173%
+NX-0345,Customer delivery 345,Engineering,510000.00,699.87,0.1372%
+NX-0346,Platform modernization 346,Sales,85000.00,2421.35,2.8486%
+NX-0347,Network planning 347,Customer Success,350000.00,3025.83,0.8645%
+NX-0348,Digital workplace 348,Operations,470000.00,108.94,0.0232%
+NX-0349,Security uplift 349,Finance,195000.00,1343.70,0.6891%
+NX-0350,Service transition 350,People,350000.00,448.18,0.1281%
+NX-0351,Data migration 351,Product,130000.00,1133.78,0.8721%
+NX-0352,Field operations 352,IT,295000.00,1217.50,0.4127%
+NX-0353,Customer delivery 353,Engineering,560000.00,541.07,0.0966%
+NX-0354,Platform modernization 354,Sales,315000.00,36.72,0.0117%
+NX-0355,Network planning 355,Customer Success,250000.00,709.81,0.2839%
+NX-0356,Digital workplace 356,Operations,250000.00,253.95,0.1016%
+NX-0357,Security uplift 357,Finance,320000.00,1825.96,0.5706%
+NX-0358,Service transition 358,People,490000.00,2304.79,0.4704%
+NX-0359,Data migration 359,Product,260000.00,1970.81,0.7580%
+NX-0360,Field operations 360,IT,80000.00,325.06,0.4063%
+NX-0361,Customer delivery 361,Engineering,275000.00,212.54,0.0773%
+NX-0362,Platform modernization 362,Sales,190000.00,2789.06,1.4679%
+NX-0363,Network planning 363,Customer Success,425000.00,1137.69,0.2677%
+NX-0364,Digital workplace 364,Operations,520000.00,2752.70,0.5294%
+NX-0365,Security uplift 365,Finance,240000.00,655.48,0.2731%
+NX-0366,Service transition 366,People,410000.00,495.83,0.1209%
+NX-0367,Data migration 367,Product,510000.00,1337.93,0.2623%
+NX-0368,Field operations 368,IT,475000.00,1919.86,0.4042%
+NX-0369,Customer delivery 369,Engineering,445000.00,4034.97,0.9067%
+NX-0370,Platform modernization 370,Sales,180000.00,412.48,0.2292%
+NX-0371,Network planning 371,Customer Success,340000.00,680.73,0.2002%
+NX-0372,Digital workplace 372,Operations,100000.00,1334.24,1.3342%
+NX-0373,Security uplift 373,Finance,470000.00,247.59,0.0527%
+NX-0374,Service transition 374,People,395000.00,2267.31,0.5740%
+NX-0375,Data migration 375,Product,100000.00,1776.67,1.7767%
+NX-0376,Field operations 376,IT,550000.00,2669.24,0.4853%
+NX-0377,Customer delivery 377,Engineering,450000.00,1022.32,0.2272%
+NX-0378,Platform modernization 378,Sales,370000.00,857.84,0.2318%
+NX-0379,Network planning 379,Customer Success,615000.00,2004.58,0.3259%
+NX-0380,Digital workplace 380,Operations,440000.00,2036.44,0.4628%
+NX-0381,Security uplift 381,Finance,360000.00,3083.88,0.8566%
+NX-0382,Service transition 382,People,245000.00,391.83,0.1599%
+NX-0383,Data migration 383,Product,530000.00,1234.30,0.2329%
+NX-0384,Field operations 384,IT,525000.00,1352.89,0.2577%
+NX-0385,Customer delivery 385,Engineering,140000.00,848.32,0.6059%
+NX-0386,Platform modernization 386,Sales,505000.00,3269.32,0.6474%
+NX-0387,Network planning 387,Customer Success,230000.00,325.84,0.1417%
+NX-0388,Digital workplace 388,Operations,390000.00,1152.96,0.2956%
+NX-0389,Security uplift 389,Finance,175000.00,1081.34,0.6179%
+NX-0390,Service transition 390,People,590000.00,1320.27,0.2238%
+NX-0391,Data migration 391,Product,640000.00,2811.83,0.4393%
+NX-0392,Field operations 392,IT,540000.00,1117.31,0.2069%
+NX-0393,Customer delivery 393,Engineering,400000.00,2533.48,0.6334%
+NX-0394,Platform modernization 394,Sales,520000.00,585.28,0.1126%
+NX-0395,Network planning 395,Customer Success,495000.00,214.03,0.0432%
+NX-0396,Digital workplace 396,Operations,470000.00,3365.11,0.7160%
+NX-0397,Security uplift 397,Finance,445000.00,1219.89,0.2741%
+NX-0398,Service transition 398,People,320000.00,2002.22,0.6257%
+NX-0399,Data migration 399,Product,455000.00,155.41,0.0342%
+NX-0400,Field operations 400,IT,275000.00,229.06,0.0833%
+NX-0401,Customer delivery 401,Engineering,350000.00,1321.64,0.3776%
+NX-0402,Platform modernization 402,Sales,535000.00,2212.56,0.4136%
+NX-0403,Network planning 403,Customer Success,610000.00,2185.19,0.3582%
+NX-0404,Digital workplace 404,Operations,230000.00,333.22,0.1449%
+NX-0405,Security uplift 405,Finance,210000.00,337.09,0.1605%
+NX-0406,Service transition 406,People,215000.00,1216.88,0.5660%
+NX-0407,Data migration 407,Product,305000.00,2247.32,0.7368%
+NX-0408,Field operations 408,IT,285000.00,2467.41,0.8658%
+NX-0409,Customer delivery 409,Engineering,180000.00,233.55,0.1298%
+NX-0410,Platform modernization 410,Sales,345000.00,1996.94,0.5788%
+NX-0411,Network planning 411,Customer Success,615000.00,1104.92,0.1797%
+NX-0412,Digital workplace 412,Operations,140000.00,1325.42,0.9467%
+NX-0413,Security uplift 413,Finance,460000.00,2406.30,0.5231%
+NX-0414,Service transition 414,People,340000.00,703.69,0.2070%
+NX-0415,Data migration 415,Product,180000.00,539.92,0.3000%
+NX-0416,Field operations 416,IT,575000.00,932.72,0.1622%
+NX-0417,Customer delivery 417,Engineering,600000.00,1264.49,0.2107%
+NX-0418,Platform modernization 418,Sales,110000.00,2201.90,2.0017%
+NX-0419,Network planning 419,Customer Success,475000.00,1522.39,0.3205%
+NX-0420,Digital workplace 420,Operations,430000.00,2385.21,0.5547%
+NX-0421,Security uplift 421,Finance,100000.00,1342.55,1.3425%
+NX-0422,Service transition 422,People,320000.00,370.17,0.1157%
+NX-0423,Data migration 423,Product,280000.00,870.42,0.3109%
+NX-0424,Field operations 424,IT,545000.00,536.23,0.0984%
+NX-0425,Customer delivery 425,Engineering,110000.00,1486.36,1.3512%
+NX-0426,Platform modernization 426,Sales,375000.00,164.43,0.0438%
+NX-0427,Network planning 427,Customer Success,240000.00,1095.55,0.4565%
+NX-0428,Digital workplace 428,Operations,460000.00,994.29,0.2161%
+NX-0429,Security uplift 429,Finance,265000.00,2259.29,0.8526%
+NX-0430,Service transition 430,People,160000.00,1612.42,1.0078%
+NX-0431,Data migration 431,Product,190000.00,640.11,0.3369%
+NX-0432,Field operations 432,IT,300000.00,2568.94,0.8563%
+NX-0433,Customer delivery 433,Engineering,215000.00,704.52,0.3277%
+NX-0434,Platform modernization 434,Sales,250000.00,425.74,0.1703%
+NX-0435,Network planning 435,Customer Success,285000.00,3331.02,1.1688%
+NX-0436,Digital workplace 436,Operations,515000.00,1125.04,0.2185%
+NX-0437,Security uplift 437,Finance,175000.00,2311.00,1.3206%
+NX-0438,Service transition 438,People,620000.00,220.63,0.0356%
+NX-0439,Data migration 439,Product,620000.00,251.34,0.0405%
+NX-0440,Field operations 440,IT,560000.00,508.18,0.0907%
+NX-0441,Customer delivery 441,Engineering,355000.00,2521.21,0.7102%
+NX-0442,Platform modernization 442,Sales,440000.00,2279.41,0.5180%
+NX-0443,Network planning 443,Customer Success,150000.00,1296.08,0.8641%
+NX-0444,Digital workplace 444,Operations,250000.00,1271.90,0.5088%
+NX-0445,Security uplift 445,Finance,265000.00,1006.30,0.3797%
+NX-0446,Service transition 446,People,305000.00,964.04,0.3161%
+NX-0447,Data migration 447,Product,385000.00,2425.46,0.6300%
+NX-0448,Field operations 448,IT,295000.00,869.09,0.2946%
+NX-0449,Customer delivery 449,Engineering,250000.00,1189.57,0.4758%
+NX-0450,Platform modernization 450,Sales,260000.00,1073.77,0.4130%
+NX-0451,Network planning 451,Customer Success,305000.00,2511.74,0.8235%
+NX-0452,Digital workplace 452,Operations,570000.00,2203.33,0.3865%
+NX-0453,Security uplift 453,Finance,205000.00,1340.27,0.6538%
+NX-0454,Service transition 454,People,590000.00,2327.97,0.3946%
+NX-0455,Data migration 455,Product,530000.00,44.44,0.0084%
+NX-0456,Field operations 456,IT,100000.00,1183.35,1.1833%
+NX-0457,Customer delivery 457,Engineering,550000.00,2626.84,0.4776%
+NX-0458,Platform modernization 458,Sales,380000.00,783.34,0.2061%
+NX-0459,Network planning 459,Customer Success,640000.00,1389.48,0.2171%
+NX-0460,Digital workplace 460,Operations,510000.00,1067.35,0.2093%
+NX-0461,Security uplift 461,Finance,455000.00,2433.78,0.5349%
+NX-0462,Service transition 462,People,230000.00,1015.89,0.4417%
+NX-0463,Data migration 463,Product,460000.00,2031.38,0.4416%
+NX-0464,Field operations 464,IT,520000.00,1298.19,0.2497%
+NX-0465,Customer delivery 465,Engineering,630000.00,1435.28,0.2278%
+NX-0466,Platform modernization 466,Sales,385000.00,1549.76,0.4025%
+NX-0467,Network planning 467,Customer Success,375000.00,1080.71,0.2882%
+NX-0468,Digital workplace 468,Operations,500000.00,875.90,0.1752%
+NX-0469,Security uplift 469,Finance,210000.00,1937.08,0.9224%
+NX-0470,Service transition 470,People,255000.00,1223.01,0.4796%
+NX-0471,Data migration 471,Product,555000.00,969.10,0.1746%
+NX-0472,Field operations 472,IT,250000.00,711.73,0.2847%
+NX-0473,Customer delivery 473,Engineering,450000.00,1149.19,0.2554%
+NX-0474,Platform modernization 474,Sales,510000.00,1010.82,0.1982%
+NX-0475,Network planning 475,Customer Success,300000.00,581.88,0.1940%
+NX-0476,Digital workplace 476,Operations,320000.00,2009.83,0.6281%
+NX-0477,Security uplift 477,Finance,325000.00,1362.28,0.4192%
+NX-0478,Service transition 478,People,570000.00,1611.42,0.2827%
+NX-0479,Data migration 479,Product,120000.00,1205.39,1.0045%
+NX-0480,Field operations 480,IT,295000.00,1177.53,0.3992%
+NX-0481,Customer delivery 481,Engineering,250000.00,1589.00,0.6356%
+NX-0482,Platform modernization 482,Sales,525000.00,490.14,0.0934%
+NX-0483,Network planning 483,Customer Success,465000.00,1130.71,0.2432%
+NX-0484,Digital workplace 484,Operations,615000.00,853.77,0.1388%
+NX-0485,Security uplift 485,Finance,570000.00,1826.39,0.3204%
+NX-0486,Service transition 486,People,580000.00,576.39,0.0994%
+NX-0487,Data migration 487,Product,385000.00,1199.65,0.3116%
+NX-0488,Field operations 488,IT,350000.00,2389.92,0.6828%
+NX-0489,Customer delivery 489,Engineering,220000.00,1154.88,0.5249%
+NX-0490,Platform modernization 490,Sales,615000.00,318.01,0.0517%
+NX-0491,Network planning 491,Customer Success,315000.00,848.61,0.2694%
+NX-0492,Digital workplace 492,Operations,220000.00,212.82,0.0967%
+NX-0493,Security uplift 493,Finance,545000.00,2457.95,0.4510%
+NX-0494,Service transition 494,People,440000.00,841.19,0.1912%
+NX-0495,Data migration 495,Product,285000.00,2940.37,1.0317%
+NX-0496,Field operations 496,IT,270000.00,2053.11,0.7604%
+NX-0497,Customer delivery 497,Engineering,595000.00,1160.47,0.1950%
+NX-0498,Platform modernization 498,Sales,180000.00,1577.29,0.8763%
+NX-0499,Network planning 499,Customer Success,525000.00,909.14,0.1732%
+NX-0500,Digital workplace 500,Operations,295000.00,598.48,0.2029%
+NX-0501,Security uplift 501,Finance,170000.00,1210.58,0.7121%
+NX-0502,Service transition 502,People,235000.00,761.13,0.3239%
+NX-0503,Data migration 503,Product,595000.00,2075.33,0.3488%
+NX-0504,Field operations 504,IT,565000.00,1152.99,0.2041%
+NX-0505,Customer delivery 505,Engineering,440000.00,1618.57,0.3679%
+NX-0506,Platform modernization 506,Sales,345000.00,1166.84,0.3382%
+NX-0507,Network planning 507,Customer Success,140000.00,1346.48,0.9618%
+NX-0508,Digital workplace 508,Operations,625000.00,222.42,0.0356%
+NX-0509,Security uplift 509,Finance,80000.00,1006.13,1.2577%
+NX-0510,Service transition 510,People,580000.00,2568.95,0.4429%
+NX-0511,Data migration 511,Product,265000.00,997.07,0.3763%
+NX-0512,Field operations 512,IT,565000.00,1430.01,0.2531%
+NX-0513,Customer delivery 513,Engineering,180000.00,898.17,0.4990%
+NX-0514,Platform modernization 514,Sales,90000.00,1237.45,1.3749%
+NX-0515,Network planning 515,Customer Success,165000.00,2906.36,1.7614%
+NX-0516,Digital workplace 516,Operations,495000.00,1029.92,0.2081%
+NX-0517,Security uplift 517,Finance,435000.00,2155.74,0.4956%
+NX-0518,Service transition 518,People,575000.00,2032.61,0.3535%
+NX-0519,Data migration 519,Product,285000.00,693.53,0.2433%
+NX-0520,Field operations 520,IT,175000.00,2701.43,1.5437%
+NX-0521,Customer delivery 521,Engineering,335000.00,1229.65,0.3671%
+NX-0522,Platform modernization 522,Sales,535000.00,1043.97,0.1951%
+NX-0523,Network planning 523,Customer Success,230000.00,875.17,0.3805%
+NX-0524,Digital workplace 524,Operations,625000.00,673.43,0.1077%
+NX-0525,Security uplift 525,Finance,315000.00,1411.84,0.4482%
+NX-0526,Service transition 526,People,120000.00,599.44,0.4995%
+NX-0527,Data migration 527,Product,285000.00,2708.78,0.9504%
+NX-0528,Field operations 528,IT,515000.00,1141.46,0.2216%
+NX-0529,Customer delivery 529,Engineering,385000.00,2576.31,0.6692%
+NX-0530,Platform modernization 530,Sales,345000.00,714.63,0.2071%
+NX-0531,Network planning 531,Customer Success,260000.00,393.11,0.1512%
+NX-0532,Digital workplace 532,Operations,100000.00,2036.57,2.0366%
+NX-0533,Security uplift 533,Finance,570000.00,724.23,0.1271%
+NX-0534,Service transition 534,People,550000.00,2315.48,0.4210%
+NX-0535,Data migration 535,Product,645000.00,590.19,0.0915%
+NX-0536,Field operations 536,IT,295000.00,917.37,0.3110%
+NX-0537,Customer delivery 537,Engineering,235000.00,2273.17,0.9673%
+NX-0538,Platform modernization 538,Sales,120000.00,937.92,0.7816%
+NX-0539,Network planning 539,Customer Success,270000.00,2828.88,1.0477%
+NX-0540,Digital workplace 540,Operations,230000.00,1405.14,0.6109%
+NX-0541,Security uplift 541,Finance,405000.00,504.26,0.1245%
+NX-0542,Service transition 542,People,435000.00,1209.62,0.2781%
+NX-0543,Data migration 543,Product,370000.00,356.83,0.0964%
+NX-0544,Field operations 544,IT,410000.00,2781.02,0.6783%
+NX-0545,Customer delivery 545,Engineering,485000.00,521.68,0.1076%
+NX-0546,Platform modernization 546,Sales,335000.00,1206.59,0.3602%
+NX-0547,Network planning 547,Customer Success,180000.00,989.03,0.5495%
+NX-0548,Digital workplace 548,Operations,575000.00,704.75,0.1226%
+NX-0549,Security uplift 549,Finance,195000.00,1123.78,0.5763%
+NX-0550,Service transition 550,People,130000.00,800.55,0.6158%
+NX-0551,Data migration 551,Product,365000.00,3587.42,0.9829%
+NX-0552,Field operations 552,IT,300000.00,669.01,0.2230%
+NX-0553,Customer delivery 553,Engineering,505000.00,299.43,0.0593%
+NX-0554,Platform modernization 554,Sales,85000.00,749.90,0.8822%
+NX-0555,Network planning 555,Customer Success,610000.00,140.21,0.0230%
+NX-0556,Digital workplace 556,Operations,500000.00,2153.16,0.4306%
+NX-0557,Security uplift 557,Finance,575000.00,127.86,0.0222%
+NX-0558,Service transition 558,People,340000.00,453.11,0.1333%
+NX-0559,Data migration 559,Product,405000.00,1430.45,0.3532%
+NX-0560,Field operations 560,IT,460000.00,534.64,0.1162%
+NX-0561,Customer delivery 561,Engineering,250000.00,1414.93,0.5660%
+NX-0562,Platform modernization 562,Sales,105000.00,1928.81,1.8370%
+NX-0563,Network planning 563,Customer Success,585000.00,1955.26,0.3342%
+NX-0564,Digital workplace 564,Operations,495000.00,418.68,0.0846%
+NX-0565,Security uplift 565,Finance,435000.00,1460.62,0.3358%
+NX-0566,Service transition 566,People,300000.00,2166.80,0.7223%
+NX-0567,Data migration 567,Product,320000.00,1457.31,0.4554%
+NX-0568,Field operations 568,IT,255000.00,1308.86,0.5133%
+NX-0569,Customer delivery 569,Engineering,405000.00,797.23,0.1968%
+NX-0570,Platform modernization 570,Sales,385000.00,1419.75,0.3688%
+NX-0571,Network planning 571,Customer Success,140000.00,2355.65,1.6826%
+NX-0572,Digital workplace 572,Operations,95000.00,1308.15,1.3770%
+NX-0573,Security uplift 573,Finance,490000.00,2266.19,0.4625%
+NX-0574,Service transition 574,People,85000.00,1071.19,1.2602%
+NX-0575,Data migration 575,Product,205000.00,320.99,0.1566%
+NX-0576,Field operations 576,IT,630000.00,1257.04,0.1995%
+NX-0577,Customer delivery 577,Engineering,540000.00,941.07,0.1743%
+NX-0578,Platform modernization 578,Sales,105000.00,3129.69,2.9807%
+NX-0579,Network planning 579,Customer Success,260000.00,908.03,0.3492%
+NX-0580,Digital workplace 580,Operations,345000.00,2281.61,0.6613%
+NX-0581,Security uplift 581,Finance,145000.00,1211.88,0.8358%
+NX-0582,Service transition 582,People,390000.00,1314.80,0.3371%
+NX-0583,Data migration 583,Product,640000.00,1625.17,0.2539%
+NX-0584,Field operations 584,IT,480000.00,924.20,0.1925%
+NX-0585,Customer delivery 585,Engineering,125000.00,875.91,0.7007%
+NX-0586,Platform modernization 586,Sales,225000.00,439.02,0.1951%
+NX-0587,Network planning 587,Customer Success,190000.00,133.61,0.0703%
+NX-0588,Digital workplace 588,Operations,455000.00,1762.51,0.3874%
+NX-0589,Security uplift 589,Finance,585000.00,1737.74,0.2970%
+NX-0590,Service transition 590,People,315000.00,1898.45,0.6027%
+NX-0591,Data migration 591,Product,230000.00,46.73,0.0203%
+NX-0592,Field operations 592,IT,110000.00,59.87,0.0544%
+NX-0593,Customer delivery 593,Engineering,85000.00,1261.22,1.4838%
+NX-0594,Platform modernization 594,Sales,105000.00,2362.09,2.2496%
+NX-0595,Network planning 595,Customer Success,365000.00,1590.74,0.4358%
+NX-0596,Digital workplace 596,Operations,570000.00,539.98,0.0947%
+NX-0597,Security uplift 597,Finance,365000.00,1768.45,0.4845%
+NX-0598,Service transition 598,People,425000.00,145.59,0.0343%
+NX-0599,Data migration 599,Product,260000.00,815.60,0.3137%
+NX-0600,Field operations 600,IT,180000.00,2553.54,1.4186%
